@@ -2686,5 +2686,70 @@
     "answer": 2,
     "explanation": "Sinonim besar adalah agung.",
     "id": 192
+  },
+  {
+    "id": 193,
+    "category": "TWK",
+    "question": "Berapa kali UUD 1945 diamandemen?",
+    "options": [
+      "1 kali",
+      "2 kali",
+      "3 kali",
+      "4 kali"
+    ],
+    "answer": 3,
+    "explanation": "UUD 1945 diamandemen sebanyak 4 kali (1999-2002)."
+  },
+  {
+    "id": 194,
+    "category": "TWK",
+    "question": "Pasal berapa saja UUD 1945 pertama kali diamandemen?",
+    "options": [
+      "Pasal 5, 7, 9, 13, 14, 15, 17, 20 dan 21",
+      "Pasal 5, 7, 9, 13, 14, 15, 17, 20 dan 22",
+      "Pasal 5, 7, 9, 13, 14, 15, 17, 20 dan 23",
+      "Pasal 5, 7, 9, 13, 14, 15, 17, 20 dan 24"
+    ],
+    "answer": 0,
+    "explanation": "Amandemen pertama UUD 1945 (19 Oktober 1999) mengubah Pasal 5, 7, 9, 13, 14, 15, 17, 20 dan 21."
+  },
+  {
+    "id": 195,
+    "category": "TWK",
+    "question": "Pasal berapa saja UUD 1945 kedua kali diamandemen?",
+    "options": [
+      "Pasal 18, 19, 20, 22, 25, 26, 27, 28, 30, dan 35",
+      "Pasal 18, 19, 20, 22, 25, 26, 27, 28, 30, dan 36",
+      "Pasal 18, 19, 20, 22, 25, 26, 27, 28, 30, dan 37",
+      "Pasal 18, 19, 20, 22, 25, 26, 27, 28, 30, dan 38"
+    ],
+    "answer": 1,
+    "explanation": "Amandemen kedua UUD 1945 (18 Agustus 2000) mengubah Pasal 18, 19, 20, 22, 25, 26, 27, 28, 30, dan 36."
+  },
+  {
+    "id": 196,
+    "category": "TWK",
+    "question": "Pasal berapa saja UUD 1945 ketiga kali diamandemen?",
+    "options": [
+      "Pasal 1, 3, 6, 11, 17, 23, dan 24",
+      "Pasal 1, 3, 6, 11, 17, 23, dan 25",
+      "Pasal 1, 3, 6, 11, 17, 23, dan 26",
+      "Pasal 1, 3, 6, 11, 17, 23, dan 27"
+    ],
+    "answer": 0,
+    "explanation": "Amandemen ketiga UUD 1945 (9 November 2001) mengubah Pasal 1, 3, 6, 11, 17, 23, dan 24."
+  },
+  {
+    "id": 197,
+    "category": "TWK",
+    "question": "Kapan amandemen pertama UUD 1945 dilakukan?",
+    "options": [
+      "19 Oktober 1999",
+      "19 Oktober 2000",
+      "19 Oktober 2001",
+      "19 Oktober 2002"
+    ],
+    "answer": 0,
+    "explanation": "Amandemen pertama UUD 1945 dilakukan pada 19 Oktober 1999."
   }
 ]

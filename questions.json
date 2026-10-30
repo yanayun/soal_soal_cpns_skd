@@ -10,7 +10,8 @@
       "Redup"
     ],
     "answer": 0,
-    "explanation": "Antonim gelap adalah terang."
+    "explanation": "Antonim gelap adalah terang.",
+    "id": 1
   },
   {
     "category": "TIU",
@@ -23,7 +24,8 @@
       "70 km/jam"
     ],
     "answer": 2,
-    "explanation": "120/2 = 60 km/jam."
+    "explanation": "120/2 = 60 km/jam.",
+    "id": 2
   },
   {
     "category": "TWK",
@@ -36,7 +38,8 @@
       "Keadilan Sosial bagi Seluruh Rakyat Indonesia"
     ],
     "answer": 2,
-    "explanation": "Sila ke-3 adalah Persatuan Indonesia."
+    "explanation": "Sila ke-3 adalah Persatuan Indonesia.",
+    "id": 3
   },
   {
     "category": "TIU",
@@ -49,7 +52,8 @@
       "Kecil"
     ],
     "answer": 1,
-    "explanation": "Sinonim kuat adalah tangguh."
+    "explanation": "Sinonim kuat adalah tangguh.",
+    "id": 4
   },
   {
     "category": "TIU",
@@ -62,7 +66,8 @@
       "110"
     ],
     "answer": 2,
-    "explanation": "10 × 10 = 100."
+    "explanation": "10 × 10 = 100.",
+    "id": 5
   },
   {
     "category": "TIU",
@@ -75,7 +80,8 @@
       "6"
     ],
     "answer": 2,
-    "explanation": "2x + 3 = 11 → 2x = 8 → x = 4."
+    "explanation": "2x + 3 = 11 → 2x = 8 → x = 4.",
+    "id": 6
   },
   {
     "category": "TKP",
@@ -88,7 +94,8 @@
       "Bekerja asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Tetap tenang dan fokus menunjukkan ketahanan."
+    "explanation": "Tetap tenang dan fokus menunjukkan ketahanan.",
+    "id": 7
   },
   {
     "category": "TIU",
@@ -101,7 +108,8 @@
       "7"
     ],
     "answer": 2,
-    "explanation": "5×10 = 10×x → x = 5 hari."
+    "explanation": "5×10 = 10×x → x = 5 hari.",
+    "id": 8
   },
   {
     "category": "TWK",
@@ -114,7 +122,8 @@
       "Badan Pengawas Umum"
     ],
     "answer": 0,
-    "explanation": "Bawaslu = Badan Pengawas Pemilu."
+    "explanation": "Bawaslu = Badan Pengawas Pemilu.",
+    "id": 9
   },
   {
     "category": "TKP",
@@ -127,7 +136,8 @@
       "Melakukan aksi"
     ],
     "answer": 1,
-    "explanation": "Menerima dan menjalankan menunjukkan profesionalisme."
+    "explanation": "Menerima dan menjalankan menunjukkan profesionalisme.",
+    "id": 10
   },
   {
     "category": "TIU",
@@ -140,7 +150,8 @@
       "8"
     ],
     "answer": 2,
-    "explanation": "x+y=10, x-y=2 → 2x=12 → x=6."
+    "explanation": "x+y=10, x-y=2 → 2x=12 → x=6.",
+    "id": 11
   },
   {
     "category": "TKP",
@@ -153,7 +164,8 @@
       "Membicarakannya"
     ],
     "answer": 1,
-    "explanation": "Melaporkan dan memperbaiki menunjukkan tanggung jawab."
+    "explanation": "Melaporkan dan memperbaiki menunjukkan tanggung jawab.",
+    "id": 12
   },
   {
     "category": "TKP",
@@ -166,7 +178,8 @@
       "Melaporkan ke atasan"
     ],
     "answer": 1,
-    "explanation": "Menjadi mediator menunjukkan kemampuan interpersonal yang baik."
+    "explanation": "Menjadi mediator menunjukkan kemampuan interpersonal yang baik.",
+    "id": 13
   },
   {
     "category": "TIU",
@@ -179,7 +192,8 @@
       "78"
     ],
     "answer": 1,
-    "explanation": "8 × 9 = 72."
+    "explanation": "8 × 9 = 72.",
+    "id": 14
   },
   {
     "category": "TIU",
@@ -192,7 +206,8 @@
       "Berkecukupan"
     ],
     "answer": 0,
-    "explanation": "Antonim kaya adalah miskin."
+    "explanation": "Antonim kaya adalah miskin.",
+    "id": 15
   },
   {
     "category": "TIU",
@@ -205,7 +220,8 @@
       "Berkecukupan"
     ],
     "answer": 0,
-    "explanation": "Antonim kaya adalah miskin."
+    "explanation": "Antonim kaya adalah miskin.",
+    "id": 16
   },
   {
     "category": "TIU",
@@ -218,7 +234,8 @@
       "19"
     ],
     "answer": 1,
-    "explanation": "Pola +3: 1,4,7,10,13,16."
+    "explanation": "Pola +3: 1,4,7,10,13,16.",
+    "id": 17
   },
   {
     "category": "TKP",
@@ -231,7 +248,8 @@
       "Bekerja asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Bekerja dengan semangat menunjukkan dedikasi."
+    "explanation": "Bekerja dengan semangat menunjukkan dedikasi.",
+    "id": 18
   },
   {
     "category": "TWK",
@@ -244,7 +262,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Olahraga Nasional diperingati setiap 9 September."
+    "explanation": "Hari Olahraga Nasional diperingati setiap 9 September.",
+    "id": 19
   },
   {
     "category": "TKP",
@@ -257,7 +276,8 @@
       "Meminta kompensasi"
     ],
     "answer": 1,
-    "explanation": "Adaptasi dengan baik menunjukkan fleksibilitas."
+    "explanation": "Adaptasi dengan baik menunjukkan fleksibilitas.",
+    "id": 20
   },
   {
     "category": "TWK",
@@ -270,7 +290,8 @@
       "7"
     ],
     "answer": 2,
-    "explanation": "Pancasila terdiri dari 5 sila."
+    "explanation": "Pancasila terdiri dari 5 sila.",
+    "id": 21
   },
   {
     "category": "TWK",
@@ -283,7 +304,8 @@
       "28 Oktober"
     ],
     "answer": 0,
-    "explanation": "Hari Pahlawan diperingati setiap 10 November."
+    "explanation": "Hari Pahlawan diperingati setiap 10 November.",
+    "id": 22
   },
   {
     "category": "TKP",
@@ -296,7 +318,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Memberi saran perbaikan menunjukkan inisiatif dan proaktif."
+    "explanation": "Memberi saran perbaikan menunjukkan inisiatif dan proaktif.",
+    "id": 23
   },
   {
     "category": "TIU",
@@ -309,7 +332,8 @@
       "60"
     ],
     "answer": 2,
-    "explanation": "w/2 = 25 → w = 50."
+    "explanation": "w/2 = 25 → w = 50.",
+    "id": 24
   },
   {
     "category": "TIU",
@@ -322,7 +346,8 @@
       "50"
     ],
     "answer": 2,
-    "explanation": "0.2 × y = 8 → y = 40."
+    "explanation": "0.2 × y = 8 → y = 40.",
+    "id": 25
   },
   {
     "category": "TIU",
@@ -335,7 +360,8 @@
       "Redup"
     ],
     "answer": 0,
-    "explanation": "Antonim gelap adalah terang."
+    "explanation": "Antonim gelap adalah terang.",
+    "id": 26
   },
   {
     "category": "TWK",
@@ -348,7 +374,8 @@
       "Medan"
     ],
     "answer": 0,
-    "explanation": "Ibukota Indonesia saat ini adalah Jakarta."
+    "explanation": "Ibukota Indonesia saat ini adalah Jakarta.",
+    "id": 27
   },
   {
     "category": "TWK",
@@ -361,7 +388,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Pendidikan Nasional diperingati setiap 2 Mei."
+    "explanation": "Hari Pendidikan Nasional diperingati setiap 2 Mei.",
+    "id": 28
   },
   {
     "category": "TWK",
@@ -374,7 +402,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari HAM diperingati setiap 10 Desember."
+    "explanation": "Hari HAM diperingati setiap 10 Desember.",
+    "id": 29
   },
   {
     "category": "TWK",
@@ -387,7 +416,8 @@
       "KPU"
     ],
     "answer": 2,
-    "explanation": "Presiden dipilih langsung oleh rakyat."
+    "explanation": "Presiden dipilih langsung oleh rakyat.",
+    "id": 30
   },
   {
     "category": "TIU",
@@ -400,7 +430,8 @@
       "Gesit"
     ],
     "answer": 1,
-    "explanation": "Antonim cepat adalah lambat."
+    "explanation": "Antonim cepat adalah lambat.",
+    "id": 31
   },
   {
     "category": "TIU",
@@ -413,7 +444,8 @@
       "Besar"
     ],
     "answer": 0,
-    "explanation": "Antonim tinggi adalah rendah."
+    "explanation": "Antonim tinggi adalah rendah.",
+    "id": 32
   },
   {
     "category": "TWK",
@@ -426,7 +458,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Guru Nasional diperingati setiap 25 November."
+    "explanation": "Hari Guru Nasional diperingati setiap 25 November.",
+    "id": 33
   },
   {
     "category": "TIU",
@@ -439,7 +472,8 @@
       "Pendek"
     ],
     "answer": 2,
-    "explanation": "Sinonim besar adalah agung."
+    "explanation": "Sinonim besar adalah agung.",
+    "id": 34
   },
   {
     "category": "TWK",
@@ -452,7 +486,8 @@
       "20 Mei 1908"
     ],
     "answer": 0,
-    "explanation": "Sumpah Pemuda diikrarkan pada 28 Oktober 1928."
+    "explanation": "Sumpah Pemuda diikrarkan pada 28 Oktober 1928.",
+    "id": 35
   },
   {
     "category": "TKP",
@@ -465,7 +500,8 @@
       "Melakukan asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Mempelajari hal baru menunjukkan adaptabilitas dan kemauan belajar."
+    "explanation": "Mempelajari hal baru menunjukkan adaptabilitas dan kemauan belajar.",
+    "id": 36
   },
   {
     "category": "TKP",
@@ -478,7 +514,8 @@
       "Menunda"
     ],
     "answer": 1,
-    "explanation": "Mengerjakan dengan baik menunjukkan disiplin dan profesionalisme."
+    "explanation": "Mengerjakan dengan baik menunjukkan disiplin dan profesionalisme.",
+    "id": 37
   },
   {
     "category": "TIU",
@@ -491,7 +528,8 @@
       "40"
     ],
     "answer": 1,
-    "explanation": "10 + 15 = 25."
+    "explanation": "10 + 15 = 25.",
+    "id": 38
   },
   {
     "category": "TKP",
@@ -504,7 +542,8 @@
       "Membicarakannya"
     ],
     "answer": 1,
-    "explanation": "Melaporkan dan memperbaiki menunjukkan tanggung jawab."
+    "explanation": "Melaporkan dan memperbaiki menunjukkan tanggung jawab.",
+    "id": 39
   },
   {
     "category": "TIU",
@@ -517,7 +556,8 @@
       "14"
     ],
     "answer": 1,
-    "explanation": "Pola +2: 1,3,5,7,9,11."
+    "explanation": "Pola +2: 1,3,5,7,9,11.",
+    "id": 40
   },
   {
     "category": "TWK",
@@ -530,7 +570,8 @@
       "10"
     ],
     "answer": 0,
-    "explanation": "Garuda memiliki 17 bulu di sayap kanan, 8 di sayap kiri, 45 di ekor, 19 di leher, dan 10 di ekor (mengacu pada 17-8-45-10)."
+    "explanation": "Garuda memiliki 17 bulu di sayap kanan, 8 di sayap kiri, 45 di ekor, 19 di leher, dan 10 di ekor (mengacu pada 17-8-45-10).",
+    "id": 41
   },
   {
     "category": "TWK",
@@ -543,7 +584,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Kesehatan Nasional diperingati setiap 12 November."
+    "explanation": "Hari Kesehatan Nasional diperingati setiap 12 November.",
+    "id": 42
   },
   {
     "category": "TWK",
@@ -556,7 +598,8 @@
       "Konstitusi 1949"
     ],
     "answer": 0,
-    "explanation": "Konstitusi yang berlaku saat ini adalah UUD 1945."
+    "explanation": "Konstitusi yang berlaku saat ini adalah UUD 1945.",
+    "id": 43
   },
   {
     "category": "TWK",
@@ -569,7 +612,8 @@
       "20 Mei"
     ],
     "answer": 0,
-    "explanation": "Hari Kemerdekaan Indonesia diperingati setiap 17 Agustus."
+    "explanation": "Hari Kemerdekaan Indonesia diperingati setiap 17 Agustus.",
+    "id": 44
   },
   {
     "category": "TKP",
@@ -582,7 +626,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Memberi saran perbaikan menunjukkan inisiatif dan proaktif."
+    "explanation": "Memberi saran perbaikan menunjukkan inisiatif dan proaktif.",
+    "id": 45
   },
   {
     "category": "TWK",
@@ -595,7 +640,8 @@
       "18 Agustus 1945"
     ],
     "answer": 1,
-    "explanation": "BPUPKI dibentuk pada 29 April 1945."
+    "explanation": "BPUPKI dibentuk pada 29 April 1945.",
+    "id": 46
   },
   {
     "category": "TWK",
@@ -608,7 +654,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Kesaktian Pancasila diperingati setiap 1 Oktober."
+    "explanation": "Hari Kesaktian Pancasila diperingati setiap 1 Oktober.",
+    "id": 47
   },
   {
     "category": "TKP",
@@ -621,7 +668,8 @@
       "Membicarakannya"
     ],
     "answer": 1,
-    "explanation": "Mengutamakan kepentingan umum menunjukkan integritas."
+    "explanation": "Mengutamakan kepentingan umum menunjukkan integritas.",
+    "id": 48
   },
   {
     "category": "TWK",
@@ -634,7 +682,8 @@
       "Gedung MPR"
     ],
     "answer": 0,
-    "explanation": "Proklamasi dibacakan di Jalan Pegangsaan Timur 56, Jakarta."
+    "explanation": "Proklamasi dibacakan di Jalan Pegangsaan Timur 56, Jakarta.",
+    "id": 49
   },
   {
     "category": "TWK",
@@ -647,7 +696,8 @@
       "20 Mei"
     ],
     "answer": 0,
-    "explanation": "Hari Sumpah Pemuda diperingati setiap 28 Oktober."
+    "explanation": "Hari Sumpah Pemuda diperingati setiap 28 Oktober.",
+    "id": 50
   },
   {
     "category": "TIU",
@@ -660,7 +710,8 @@
       "Modern"
     ],
     "answer": 0,
-    "explanation": "Antonim baru adalah lama."
+    "explanation": "Antonim baru adalah lama.",
+    "id": 51
   },
   {
     "category": "TKP",
@@ -673,7 +724,8 @@
       "Menyalahkan"
     ],
     "answer": 1,
-    "explanation": "Mempersiapkan diri menunjukkan ambisi dan proaktif."
+    "explanation": "Mempersiapkan diri menunjukkan ambisi dan proaktif.",
+    "id": 52
   },
   {
     "category": "TIU",
@@ -686,7 +738,8 @@
       "Kusam"
     ],
     "answer": 1,
-    "explanation": "Sinonim cantik adalah indah."
+    "explanation": "Sinonim cantik adalah indah.",
+    "id": 53
   },
   {
     "category": "TWK",
@@ -699,7 +752,8 @@
       "1 Oktober 1945"
     ],
     "answer": 2,
-    "explanation": "Pancasila ditetapkan pada 18 Agustus 1945 dalam sidang PPKI."
+    "explanation": "Pancasila ditetapkan pada 18 Agustus 1945 dalam sidang PPKI.",
+    "id": 54
   },
   {
     "category": "TWK",
@@ -712,7 +766,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Koperasi Nasional diperingati setiap 12 Juli."
+    "explanation": "Hari Koperasi Nasional diperingati setiap 12 Juli.",
+    "id": 55
   },
   {
     "category": "TIU",
@@ -725,7 +780,8 @@
       "Modern"
     ],
     "answer": 0,
-    "explanation": "Antonim baru adalah lama."
+    "explanation": "Antonim baru adalah lama.",
+    "id": 56
   },
   {
     "category": "TKP",
@@ -738,7 +794,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Berkomunikasi dengan baik menunjukkan keterampilan interpersonal."
+    "explanation": "Berkomunikasi dengan baik menunjukkan keterampilan interpersonal.",
+    "id": 57
   },
   {
     "category": "TKP",
@@ -751,7 +808,8 @@
       "Meminta kompensasi"
     ],
     "answer": 1,
-    "explanation": "Mengambil peluang menunjukkan kemauan belajar dan adaptasi."
+    "explanation": "Mengambil peluang menunjukkan kemauan belajar dan adaptasi.",
+    "id": 58
   },
   {
     "category": "TIU",
@@ -764,7 +822,8 @@
       "52"
     ],
     "answer": 2,
-    "explanation": "12 × 4 = 48."
+    "explanation": "12 × 4 = 48.",
+    "id": 59
   },
   {
     "category": "TIU",
@@ -777,7 +836,8 @@
       "21"
     ],
     "answer": 1,
-    "explanation": "Pola +3: 3,6,9,12,15,18."
+    "explanation": "Pola +3: 3,6,9,12,15,18.",
+    "id": 60
   },
   {
     "category": "TIU",
@@ -790,7 +850,8 @@
       "80"
     ],
     "answer": 2,
-    "explanation": "Pola x2: 2,4,8,16,32,64."
+    "explanation": "Pola x2: 2,4,8,16,32,64.",
+    "id": 61
   },
   {
     "category": "TIU",
@@ -803,7 +864,8 @@
       "Lebar"
     ],
     "answer": 2,
-    "explanation": "Sinonim panjang adalah lurus (dalam konteks panjang lurus)."
+    "explanation": "Sinonim panjang adalah lurus (dalam konteks panjang lurus).",
+    "id": 62
   },
   {
     "category": "TWK",
@@ -816,7 +878,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Ibu diperingati setiap 22 Desember."
+    "explanation": "Hari Ibu diperingati setiap 22 Desember.",
+    "id": 63
   },
   {
     "category": "TKP",
@@ -829,7 +892,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Menegur secara halus menunjukkan kepedulian dan profesionalisme."
+    "explanation": "Menegur secara halus menunjukkan kepedulian dan profesionalisme.",
+    "id": 64
   },
   {
     "category": "TIU",
@@ -842,7 +906,8 @@
       "62"
     ],
     "answer": 1,
-    "explanation": "8 × 7 = 56."
+    "explanation": "8 × 7 = 56.",
+    "id": 65
   },
   {
     "category": "TIU",
@@ -855,7 +920,8 @@
       "62"
     ],
     "answer": 1,
-    "explanation": "7 × 8 = 56."
+    "explanation": "7 × 8 = 56.",
+    "id": 66
   },
   {
     "category": "TKP",
@@ -868,7 +934,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Memberi motivasi menunjukkan kepemimpinan dan empati."
+    "explanation": "Memberi motivasi menunjukkan kepemimpinan dan empati.",
+    "id": 67
   },
   {
     "category": "TWK",
@@ -881,7 +948,8 @@
       "21 April"
     ],
     "answer": 0,
-    "explanation": "Hari Kemerdekaan Indonesia diperingati setiap 17 Agustus."
+    "explanation": "Hari Kemerdekaan Indonesia diperingati setiap 17 Agustus.",
+    "id": 68
   },
   {
     "category": "TKP",
@@ -894,7 +962,8 @@
       "Menyalahkan"
     ],
     "answer": 1,
-    "explanation": "Menerima dan memperbaiki menunjukkan kedewasaan."
+    "explanation": "Menerima dan memperbaiki menunjukkan kedewasaan.",
+    "id": 69
   },
   {
     "category": "TWK",
@@ -907,7 +976,8 @@
       "Burung Garuda"
     ],
     "answer": 0,
-    "explanation": "Bhineka Tunggal Ika adalah motto yang tercantum dalam Garuda Pancasila."
+    "explanation": "Bhineka Tunggal Ika adalah motto yang tercantum dalam Garuda Pancasila.",
+    "id": 70
   },
   {
     "category": "TKP",
@@ -920,7 +990,8 @@
       "Menyalahkan"
     ],
     "answer": 1,
-    "explanation": "Mempersiapkan diri menunjukkan ambisi dan proaktif."
+    "explanation": "Mempersiapkan diri menunjukkan ambisi dan proaktif.",
+    "id": 71
   },
   {
     "category": "TWK",
@@ -933,7 +1004,8 @@
       "Semarang"
     ],
     "answer": 0,
-    "explanation": "Gedung Sate terletak di Bandung."
+    "explanation": "Gedung Sate terletak di Bandung.",
+    "id": 72
   },
   {
     "category": "TKP",
@@ -946,7 +1018,8 @@
       "Membicarakannya dengan rekan lain"
     ],
     "answer": 2,
-    "explanation": "Menegur secara halus adalah sikap yang paling tepat dan profesional."
+    "explanation": "Menegur secara halus adalah sikap yang paling tepat dan profesional.",
+    "id": 73
   },
   {
     "category": "TIU",
@@ -959,7 +1032,8 @@
       "Pendek"
     ],
     "answer": 2,
-    "explanation": "Sinonim besar adalah agung."
+    "explanation": "Sinonim besar adalah agung.",
+    "id": 74
   },
   {
     "category": "TWK",
@@ -972,7 +1046,8 @@
       "Yen"
     ],
     "answer": 0,
-    "explanation": "Mata uang Indonesia adalah Rupiah."
+    "explanation": "Mata uang Indonesia adalah Rupiah.",
+    "id": 75
   },
   {
     "category": "TWK",
@@ -985,7 +1060,8 @@
       "21 April"
     ],
     "answer": 0,
-    "explanation": "Hari Pahlawan Nasional diperingati setiap 10 November."
+    "explanation": "Hari Pahlawan Nasional diperingati setiap 10 November.",
+    "id": 76
   },
   {
     "category": "TIU",
@@ -998,7 +1074,8 @@
       "Semua B bukan C"
     ],
     "answer": 0,
-    "explanation": "Transitif: A ⊂ B ⊂ C → A ⊂ C."
+    "explanation": "Transitif: A ⊂ B ⊂ C → A ⊂ C.",
+    "id": 77
   },
   {
     "category": "TWK",
@@ -1011,7 +1088,8 @@
       "18 Agustus 1945"
     ],
     "answer": 2,
-    "explanation": "PPKI dibentuk pada 7 Agustus 1945."
+    "explanation": "PPKI dibentuk pada 7 Agustus 1945.",
+    "id": 78
   },
   {
     "category": "TWK",
@@ -1024,7 +1102,8 @@
       "Megawati"
     ],
     "answer": 0,
-    "explanation": "Presiden ke-2 Indonesia adalah Soeharto."
+    "explanation": "Presiden ke-2 Indonesia adalah Soeharto.",
+    "id": 79
   },
   {
     "category": "TWK",
@@ -1037,7 +1116,8 @@
       "10 November 1945"
     ],
     "answer": 0,
-    "explanation": "Hari lahir Pancasila adalah 1 Juni 1945 (pidato Soekarno)."
+    "explanation": "Hari lahir Pancasila adalah 1 Juni 1945 (pidato Soekarno).",
+    "id": 80
   },
   {
     "category": "TIU",
@@ -1050,7 +1130,8 @@
       "20"
     ],
     "answer": 1,
-    "explanation": "Pola +3: 2,5,8,11,14,17."
+    "explanation": "Pola +3: 2,5,8,11,14,17.",
+    "id": 81
   },
   {
     "category": "TKP",
@@ -1063,7 +1144,8 @@
       "Mengeluh"
     ],
     "answer": 1,
-    "explanation": "Mencoba mengerjakannya menunjukkan inisiatif dan tanggung jawab."
+    "explanation": "Mencoba mengerjakannya menunjukkan inisiatif dan tanggung jawab.",
+    "id": 82
   },
   {
     "category": "TIU",
@@ -1076,7 +1158,8 @@
       "400"
     ],
     "answer": 2,
-    "explanation": "0.15 × z = 45 → z = 300."
+    "explanation": "0.15 × z = 45 → z = 300.",
+    "id": 83
   },
   {
     "category": "TWK",
@@ -1089,7 +1172,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Kesaktian Pancasila diperingati setiap 1 Oktober."
+    "explanation": "Hari Kesaktian Pancasila diperingati setiap 1 Oktober.",
+    "id": 84
   },
   {
     "category": "TIU",
@@ -1102,7 +1186,8 @@
       "128"
     ],
     "answer": 1,
-    "explanation": "Pola x2: 1,2,4,8,16,32."
+    "explanation": "Pola x2: 1,2,4,8,16,32.",
+    "id": 85
   },
   {
     "category": "TIU",
@@ -1115,7 +1200,8 @@
       "Kusam"
     ],
     "answer": 2,
-    "explanation": "Sinonim indah adalah cantik."
+    "explanation": "Sinonim indah adalah cantik.",
+    "id": 86
   },
   {
     "category": "TIU",
@@ -1128,7 +1214,8 @@
       "Lambat"
     ],
     "answer": 1,
-    "explanation": "Sinonim pintar adalah cerdas."
+    "explanation": "Sinonim pintar adalah cerdas.",
+    "id": 87
   },
   {
     "category": "TKP",
@@ -1141,7 +1228,8 @@
       "Bekerja asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Bekerja dengan baik menunjukkan dedikasi."
+    "explanation": "Bekerja dengan baik menunjukkan dedikasi.",
+    "id": 88
   },
   {
     "category": "TIU",
@@ -1154,7 +1242,8 @@
       "50"
     ],
     "answer": 2,
-    "explanation": "3 × 15 = 45."
+    "explanation": "3 × 15 = 45.",
+    "id": 89
   },
   {
     "category": "TKP",
@@ -1167,7 +1256,8 @@
       "Membicarakannya"
     ],
     "answer": 1,
-    "explanation": "Membantu menunjukkan kerjasama dan empati."
+    "explanation": "Membantu menunjukkan kerjasama dan empati.",
+    "id": 90
   },
   {
     "category": "TKP",
@@ -1180,7 +1270,8 @@
       "Melakukan asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Mengerjakan dengan baik menunjukkan profesionalisme."
+    "explanation": "Mengerjakan dengan baik menunjukkan profesionalisme.",
+    "id": 91
   },
   {
     "category": "TWK",
@@ -1193,7 +1284,8 @@
       "10 November 1945"
     ],
     "answer": 0,
-    "explanation": "Proklamasi dibacakan pada 17 Agustus 1945."
+    "explanation": "Proklamasi dibacakan pada 17 Agustus 1945.",
+    "id": 92
   },
   {
     "category": "TKP",
@@ -1206,7 +1298,8 @@
       "Bekerja asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Bekerja dengan baik menunjukkan dedikasi."
+    "explanation": "Bekerja dengan baik menunjukkan dedikasi.",
+    "id": 93
   },
   {
     "category": "TKP",
@@ -1219,7 +1312,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Menegur secara halus menunjukkan integritas dan kepedulian."
+    "explanation": "Menegur secara halus menunjukkan integritas dan kepedulian.",
+    "id": 94
   },
   {
     "category": "TWK",
@@ -1232,7 +1326,8 @@
       "Medan"
     ],
     "answer": 0,
-    "explanation": "Monas (Monumen Nasional) terletak di Jakarta."
+    "explanation": "Monas (Monumen Nasional) terletak di Jakarta.",
+    "id": 95
   },
   {
     "category": "TIU",
@@ -1245,7 +1340,8 @@
       "Lebar"
     ],
     "answer": 2,
-    "explanation": "Sinonim panjang adalah lurus."
+    "explanation": "Sinonim panjang adalah lurus.",
+    "id": 96
   },
   {
     "category": "TKP",
@@ -1258,7 +1354,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Berkomunikasi dengan baik menunjukkan keterampilan interpersonal."
+    "explanation": "Berkomunikasi dengan baik menunjukkan keterampilan interpersonal.",
+    "id": 97
   },
   {
     "category": "TIU",
@@ -1271,7 +1368,8 @@
       "Rp 70.000"
     ],
     "answer": 2,
-    "explanation": "12 × 5.000 = 60.000."
+    "explanation": "12 × 5.000 = 60.000.",
+    "id": 98
   },
   {
     "category": "TKP",
@@ -1284,7 +1382,8 @@
       "Bekerja asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Tetap tenang dan fokus menunjukkan ketahanan."
+    "explanation": "Tetap tenang dan fokus menunjukkan ketahanan.",
+    "id": 99
   },
   {
     "category": "TKP",
@@ -1297,7 +1396,8 @@
       "Membicarakannya"
     ],
     "answer": 1,
-    "explanation": "Belajar dari mereka menunjukkan kerendahan hati dan kemauan belajar."
+    "explanation": "Belajar dari mereka menunjukkan kerendahan hati dan kemauan belajar.",
+    "id": 100
   },
   {
     "category": "TKP",
@@ -1310,7 +1410,8 @@
       "Bekerja asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Prioritas dan bekerja efisien menunjukkan manajemen waktu yang baik."
+    "explanation": "Prioritas dan bekerja efisien menunjukkan manajemen waktu yang baik.",
+    "id": 101
   },
   {
     "category": "TWK",
@@ -1323,7 +1424,8 @@
       "Dewan Perwakilan Rakyat Pusat"
     ],
     "answer": 0,
-    "explanation": "DPRD = Dewan Perwakilan Rakyat Daerah."
+    "explanation": "DPRD = Dewan Perwakilan Rakyat Daerah.",
+    "id": 102
   },
   {
     "category": "TKP",
@@ -1336,7 +1438,8 @@
       "Bekerja asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Prioritas dan bekerja efisien menunjukkan manajemen waktu yang baik."
+    "explanation": "Prioritas dan bekerja efisien menunjukkan manajemen waktu yang baik.",
+    "id": 103
   },
   {
     "category": "TKP",
@@ -1349,7 +1452,8 @@
       "Membicarakannya"
     ],
     "answer": 1,
-    "explanation": "Belajar dari mereka menunjukkan kerendahan hati dan kemauan belajar."
+    "explanation": "Belajar dari mereka menunjukkan kerendahan hati dan kemauan belajar.",
+    "id": 104
   },
   {
     "category": "TIU",
@@ -1362,7 +1466,8 @@
       "50"
     ],
     "answer": 2,
-    "explanation": "50% × 80 = 40."
+    "explanation": "50% × 80 = 40.",
+    "id": 105
   },
   {
     "category": "TIU",
@@ -1375,7 +1480,8 @@
       "87"
     ],
     "answer": 1,
-    "explanation": "9 × 9 = 81."
+    "explanation": "9 × 9 = 81.",
+    "id": 106
   },
   {
     "category": "TWK",
@@ -1388,7 +1494,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Kesaktian Pancasila diperingati setiap 1 Oktober."
+    "explanation": "Hari Kesaktian Pancasila diperingati setiap 1 Oktober.",
+    "id": 107
   },
   {
     "category": "TWK",
@@ -1401,7 +1508,8 @@
       "Bahasa Inggris"
     ],
     "answer": 0,
-    "explanation": "Bahasa resmi Indonesia adalah Bahasa Indonesia."
+    "explanation": "Bahasa resmi Indonesia adalah Bahasa Indonesia.",
+    "id": 108
   },
   {
     "category": "TWK",
@@ -1414,7 +1522,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Batik Nasional diperingati setiap 2 Oktober."
+    "explanation": "Hari Batik Nasional diperingati setiap 2 Oktober.",
+    "id": 109
   },
   {
     "category": "TWK",
@@ -1427,7 +1536,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Anak Nasional diperingati setiap 23 Juli."
+    "explanation": "Hari Anak Nasional diperingati setiap 23 Juli.",
+    "id": 110
   },
   {
     "category": "TKP",
@@ -1440,7 +1550,8 @@
       "Bekerja asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Bekerja dengan semangat menunjukkan dedikasi."
+    "explanation": "Bekerja dengan semangat menunjukkan dedikasi.",
+    "id": 111
   },
   {
     "category": "TWK",
@@ -1453,7 +1564,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Lingkungan Hidup Sedunia diperingati setiap 5 Juni."
+    "explanation": "Hari Lingkungan Hidup Sedunia diperingati setiap 5 Juni.",
+    "id": 112
   },
   {
     "category": "TKP",
@@ -1466,7 +1578,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Menerima dan menjalankan menunjukkan profesionalisme."
+    "explanation": "Menerima dan menjalankan menunjukkan profesionalisme.",
+    "id": 113
   },
   {
     "category": "TIU",
@@ -1479,7 +1592,8 @@
       "48"
     ],
     "answer": 2,
-    "explanation": "3 × 12 = 36."
+    "explanation": "3 × 12 = 36.",
+    "id": 114
   },
   {
     "category": "TIU",
@@ -1492,7 +1606,8 @@
       "Hebat"
     ],
     "answer": 0,
-    "explanation": "Antonim baik adalah buruk."
+    "explanation": "Antonim baik adalah buruk.",
+    "id": 115
   },
   {
     "category": "TKP",
@@ -1505,7 +1620,8 @@
       "Menunda"
     ],
     "answer": 1,
-    "explanation": "Mengerjakan dengan baik menunjukkan disiplin dan profesionalisme."
+    "explanation": "Mengerjakan dengan baik menunjukkan disiplin dan profesionalisme.",
+    "id": 116
   },
   {
     "category": "TWK",
@@ -1518,7 +1634,8 @@
       "R.A. Kartini"
     ],
     "answer": 0,
-    "explanation": "Bendera Merah Putih dijahit oleh Fatmawati."
+    "explanation": "Bendera Merah Putih dijahit oleh Fatmawati.",
+    "id": 117
   },
   {
     "category": "TKP",
@@ -1531,7 +1648,8 @@
       "Menyalahkan"
     ],
     "answer": 1,
-    "explanation": "Mengambil inisiatif menunjukkan proaktif dan kreatif."
+    "explanation": "Mengambil inisiatif menunjukkan proaktif dan kreatif.",
+    "id": 118
   },
   {
     "category": "TIU",
@@ -1544,7 +1662,8 @@
       "62"
     ],
     "answer": 1,
-    "explanation": "7 × 8 = 56."
+    "explanation": "7 × 8 = 56.",
+    "id": 119
   },
   {
     "category": "TWK",
@@ -1557,7 +1676,8 @@
       "Komisi Pemilu Rakyat"
     ],
     "answer": 0,
-    "explanation": "KPU = Komisi Pemilihan Umum."
+    "explanation": "KPU = Komisi Pemilihan Umum.",
+    "id": 120
   },
   {
     "category": "TWK",
@@ -1570,7 +1690,8 @@
       "21 April"
     ],
     "answer": 0,
-    "explanation": "Hari Pahlawan nasional adalah 10 November."
+    "explanation": "Hari Pahlawan nasional adalah 10 November.",
+    "id": 121
   },
   {
     "category": "TKP",
@@ -1583,7 +1704,8 @@
       "Menyalahkan"
     ],
     "answer": 1,
-    "explanation": "Mempersiapkan diri menunjukkan ambisi dan proaktif."
+    "explanation": "Mempersiapkan diri menunjukkan ambisi dan proaktif.",
+    "id": 122
   },
   {
     "category": "TKP",
@@ -1596,7 +1718,8 @@
       "Menghindar"
     ],
     "answer": 2,
-    "explanation": "Kolaboratif menunjukkan kemampuan kerja tim yang baik."
+    "explanation": "Kolaboratif menunjukkan kemampuan kerja tim yang baik.",
+    "id": 123
   },
   {
     "category": "TIU",
@@ -1609,7 +1732,8 @@
       "60"
     ],
     "answer": 2,
-    "explanation": "25% × 200 = 50."
+    "explanation": "25% × 200 = 50.",
+    "id": 124
   },
   {
     "category": "TKP",
@@ -1622,7 +1746,8 @@
       "Membicarakannya"
     ],
     "answer": 1,
-    "explanation": "Memperbaiki dan melaporkan menunjukkan integritas."
+    "explanation": "Memperbaiki dan melaporkan menunjukkan integritas.",
+    "id": 125
   },
   {
     "category": "TIU",
@@ -1635,7 +1760,8 @@
       "56"
     ],
     "answer": 1,
-    "explanation": "Pola kuadrat: 1²,2²,3²,4²,5²,6²=36."
+    "explanation": "Pola kuadrat: 1²,2²,3²,4²,5²,6²=36.",
+    "id": 126
   },
   {
     "category": "TWK",
@@ -1648,7 +1774,8 @@
       "21 April"
     ],
     "answer": 0,
-    "explanation": "Hari Sumpah Pemuda diperingati setiap 28 Oktober."
+    "explanation": "Hari Sumpah Pemuda diperingati setiap 28 Oktober.",
+    "id": 127
   },
   {
     "category": "TWK",
@@ -1661,7 +1788,8 @@
       "Bunga Melati"
     ],
     "answer": 0,
-    "explanation": "Lambang negara Indonesia adalah Garuda Pancasila."
+    "explanation": "Lambang negara Indonesia adalah Garuda Pancasila.",
+    "id": 128
   },
   {
     "category": "TWK",
@@ -1674,7 +1802,8 @@
       "10 tahun"
     ],
     "answer": 1,
-    "explanation": "Masa jabatan presiden adalah 5 tahun."
+    "explanation": "Masa jabatan presiden adalah 5 tahun.",
+    "id": 129
   },
   {
     "category": "TIU",
@@ -1687,7 +1816,8 @@
       "Kusam"
     ],
     "answer": 1,
-    "explanation": "Sinonim cantik adalah indah."
+    "explanation": "Sinonim cantik adalah indah.",
+    "id": 130
   },
   {
     "category": "TKP",
@@ -1700,7 +1830,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Menghargai perbedaan menunjukkan toleransi dan inklusivitas."
+    "explanation": "Menghargai perbedaan menunjukkan toleransi dan inklusivitas.",
+    "id": 131
   },
   {
     "category": "TKP",
@@ -1713,7 +1844,8 @@
       "Menyalahkan"
     ],
     "answer": 1,
-    "explanation": "Mencari solusi menunjukkan problem solving yang baik."
+    "explanation": "Mencari solusi menunjukkan problem solving yang baik.",
+    "id": 132
   },
   {
     "category": "TKP",
@@ -1726,7 +1858,8 @@
       "Meminta kompensasi"
     ],
     "answer": 1,
-    "explanation": "Mengambil peluang menunjukkan kemauan belajar."
+    "explanation": "Mengambil peluang menunjukkan kemauan belajar.",
+    "id": 133
   },
   {
     "category": "TIU",
@@ -1739,7 +1872,8 @@
       "93"
     ],
     "answer": 1,
-    "explanation": "100 - 37 = 63."
+    "explanation": "100 - 37 = 63.",
+    "id": 134
   },
   {
     "category": "TKP",
@@ -1752,7 +1886,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Menghargai perbedaan menunjukkan toleransi dan inklusivitas."
+    "explanation": "Menghargai perbedaan menunjukkan toleransi dan inklusivitas.",
+    "id": 135
   },
   {
     "category": "TIU",
@@ -1765,7 +1900,8 @@
       "200"
     ],
     "answer": 3,
-    "explanation": "Pola x2: 5,10,20,40,80,160."
+    "explanation": "Pola x2: 5,10,20,40,80,160.",
+    "id": 136
   },
   {
     "category": "TIU",
@@ -1778,7 +1914,8 @@
       "Tangkas"
     ],
     "answer": 0,
-    "explanation": "Antonim maju adalah mundur."
+    "explanation": "Antonim maju adalah mundur.",
+    "id": 137
   },
   {
     "category": "TKP",
@@ -1791,7 +1928,8 @@
       "Mengeluh"
     ],
     "answer": 1,
-    "explanation": "Menerima dengan tanggung jawab menunjukkan kepemimpinan."
+    "explanation": "Menerima dengan tanggung jawab menunjukkan kepemimpinan.",
+    "id": 138
   },
   {
     "category": "TIU",
@@ -1804,7 +1942,8 @@
       "Kusam"
     ],
     "answer": 2,
-    "explanation": "Sinonim indah adalah cantik."
+    "explanation": "Sinonim indah adalah cantik.",
+    "id": 139
   },
   {
     "category": "TKP",
@@ -1817,7 +1956,8 @@
       "Menyerah"
     ],
     "answer": 1,
-    "explanation": "Berdiskusi secara profesional menunjukkan kedewasaan."
+    "explanation": "Berdiskusi secara profesional menunjukkan kedewasaan.",
+    "id": 140
   },
   {
     "category": "TWK",
@@ -1830,7 +1970,8 @@
       "Jawa"
     ],
     "answer": 0,
-    "explanation": "Pulau terbesar di Indonesia adalah Kalimantan."
+    "explanation": "Pulau terbesar di Indonesia adalah Kalimantan.",
+    "id": 141
   },
   {
     "category": "TIU",
@@ -1843,7 +1984,8 @@
       "Kecil"
     ],
     "answer": 1,
-    "explanation": "Sinonim kuat adalah tangguh."
+    "explanation": "Sinonim kuat adalah tangguh.",
+    "id": 142
   },
   {
     "category": "TWK",
@@ -1856,7 +1998,8 @@
       "Negara Konstitusi Republik Indonesia"
     ],
     "answer": 0,
-    "explanation": "NKRI = Negara Kesatuan Republik Indonesia."
+    "explanation": "NKRI = Negara Kesatuan Republik Indonesia.",
+    "id": 143
   },
   {
     "category": "TIU",
@@ -1869,7 +2012,8 @@
       "Aktif"
     ],
     "answer": 0,
-    "explanation": "Antonim rajin adalah malas."
+    "explanation": "Antonim rajin adalah malas.",
+    "id": 144
   },
   {
     "category": "TWK",
@@ -1882,7 +2026,8 @@
       "21 April"
     ],
     "answer": 0,
-    "explanation": "Hari Lahir Pancasila diperingati setiap 1 Juni."
+    "explanation": "Hari Lahir Pancasila diperingati setiap 1 Juni.",
+    "id": 145
   },
   {
     "category": "TWK",
@@ -1895,7 +2040,8 @@
       "Tidak terbatas"
     ],
     "answer": 1,
-    "explanation": "Presiden dapat menjabat maksimal 2 periode."
+    "explanation": "Presiden dapat menjabat maksimal 2 periode.",
+    "id": 146
   },
   {
     "category": "TKP",
@@ -1908,7 +2054,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Melaporkan pelanggaran menunjukkan integritas."
+    "explanation": "Melaporkan pelanggaran menunjukkan integritas.",
+    "id": 147
   },
   {
     "category": "TKP",
@@ -1921,7 +2068,8 @@
       "Bekerja asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Menerima dengan baik menunjukkan fleksibilitas dan dedikasi."
+    "explanation": "Menerima dengan baik menunjukkan fleksibilitas dan dedikasi.",
+    "id": 148
   },
   {
     "category": "TIU",
@@ -1934,7 +2082,8 @@
       "Gesit"
     ],
     "answer": 1,
-    "explanation": "Antonim cepat adalah lambat."
+    "explanation": "Antonim cepat adalah lambat.",
+    "id": 149
   },
   {
     "category": "TKP",
@@ -1947,7 +2096,8 @@
       "Bekerja asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Bekerja dengan baik menunjukkan dedikasi."
+    "explanation": "Bekerja dengan baik menunjukkan dedikasi.",
+    "id": 150
   },
   {
     "category": "TKP",
@@ -1960,7 +2110,8 @@
       "Membicarakannya"
     ],
     "answer": 1,
-    "explanation": "Bekerja profesional menunjukkan kedewasaan."
+    "explanation": "Bekerja profesional menunjukkan kedewasaan.",
+    "id": 151
   },
   {
     "category": "TKP",
@@ -1973,7 +2124,8 @@
       "Menyalahkan orang lain"
     ],
     "answer": 1,
-    "explanation": "Menerima dan memperbaiki menunjukkan kedewasaan dan profesionalisme."
+    "explanation": "Menerima dan memperbaiki menunjukkan kedewasaan dan profesionalisme.",
+    "id": 152
   },
   {
     "category": "TKP",
@@ -1986,7 +2138,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Menegur secara halus menunjukkan integritas dan kepedulian."
+    "explanation": "Menegur secara halus menunjukkan integritas dan kepedulian.",
+    "id": 153
   },
   {
     "category": "TKP",
@@ -1999,7 +2152,8 @@
       "Membicarakannya"
     ],
     "answer": 1,
-    "explanation": "Mencari solusi bersama menunjukkan kolaborasi."
+    "explanation": "Mencari solusi bersama menunjukkan kolaborasi.",
+    "id": 154
   },
   {
     "category": "TKP",
@@ -2012,7 +2166,8 @@
       "Meminta kompensasi"
     ],
     "answer": 1,
-    "explanation": "Mengambil peluang menunjukkan kemauan belajar."
+    "explanation": "Mengambil peluang menunjukkan kemauan belajar.",
+    "id": 155
   },
   {
     "category": "TKP",
@@ -2025,7 +2180,8 @@
       "Meminta kompensasi"
     ],
     "answer": 1,
-    "explanation": "Adaptasi dengan baik menunjukkan fleksibilitas."
+    "explanation": "Adaptasi dengan baik menunjukkan fleksibilitas.",
+    "id": 156
   },
   {
     "category": "TKP",
@@ -2038,7 +2194,8 @@
       "Meminta kompensasi"
     ],
     "answer": 1,
-    "explanation": "Mengambil peluang menunjukkan kemauan belajar dan adaptasi."
+    "explanation": "Mengambil peluang menunjukkan kemauan belajar dan adaptasi.",
+    "id": 157
   },
   {
     "category": "TIU",
@@ -2051,7 +2208,8 @@
       "Hebat"
     ],
     "answer": 0,
-    "explanation": "Antonim baik adalah buruk."
+    "explanation": "Antonim baik adalah buruk.",
+    "id": 158
   },
   {
     "category": "TKP",
@@ -2064,7 +2222,8 @@
       "Menyerah"
     ],
     "answer": 1,
-    "explanation": "Mendengarkan dan berdiskusi menunjukkan komunikasi yang baik."
+    "explanation": "Mendengarkan dan berdiskusi menunjukkan komunikasi yang baik.",
+    "id": 159
   },
   {
     "category": "TKP",
@@ -2077,7 +2236,8 @@
       "Menyalahkan"
     ],
     "answer": 1,
-    "explanation": "Mengambil inisiatif menunjukkan proaktif dan kreatif."
+    "explanation": "Mengambil inisiatif menunjukkan proaktif dan kreatif.",
+    "id": 160
   },
   {
     "category": "TIU",
@@ -2090,7 +2250,8 @@
       "40"
     ],
     "answer": 2,
-    "explanation": "4 × 9 = 36."
+    "explanation": "4 × 9 = 36.",
+    "id": 161
   },
   {
     "category": "TWK",
@@ -2103,7 +2264,8 @@
       "Biru Putih"
     ],
     "answer": 0,
-    "explanation": "Bendera Indonesia berwarna Merah Putih."
+    "explanation": "Bendera Indonesia berwarna Merah Putih.",
+    "id": 162
   },
   {
     "category": "TWK",
@@ -2116,7 +2278,8 @@
       "Bali"
     ],
     "answer": 0,
-    "explanation": "Candi Borobudur terletak di Jawa Tengah."
+    "explanation": "Candi Borobudur terletak di Jawa Tengah.",
+    "id": 163
   },
   {
     "category": "TIU",
@@ -2129,7 +2292,8 @@
       "75"
     ],
     "answer": 1,
-    "explanation": "Pola +10: 10,20,30,40,50,60."
+    "explanation": "Pola +10: 10,20,30,40,50,60.",
+    "id": 164
   },
   {
     "category": "TWK",
@@ -2142,7 +2306,8 @@
       "MPR"
     ],
     "answer": 0,
-    "explanation": "DPR membuat undang-undang."
+    "explanation": "DPR membuat undang-undang.",
+    "id": 165
   },
   {
     "category": "TIU",
@@ -2155,7 +2320,8 @@
       "Loyo"
     ],
     "answer": 1,
-    "explanation": "Sinonim cepat adalah laju."
+    "explanation": "Sinonim cepat adalah laju.",
+    "id": 166
   },
   {
     "category": "TWK",
@@ -2168,7 +2334,8 @@
       "2 kali"
     ],
     "answer": 1,
-    "explanation": "UUD 1945 diamandemen 4 kali (1999-2002)."
+    "explanation": "UUD 1945 diamandemen 4 kali (1999-2002).",
+    "id": 167
   },
   {
     "category": "TKP",
@@ -2181,7 +2348,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Menerima dan menjalankan menunjukkan profesionalisme."
+    "explanation": "Menerima dan menjalankan menunjukkan profesionalisme.",
+    "id": 168
   },
   {
     "category": "TIU",
@@ -2194,7 +2362,8 @@
       "Lambat"
     ],
     "answer": 1,
-    "explanation": "Sinonim pintar adalah cerdas."
+    "explanation": "Sinonim pintar adalah cerdas.",
+    "id": 169
   },
   {
     "category": "TIU",
@@ -2207,7 +2376,8 @@
       "20"
     ],
     "answer": 2,
-    "explanation": "3/4 x = 12 → x = 12 × 4/3 = 16."
+    "explanation": "3/4 x = 12 → x = 12 × 4/3 = 16.",
+    "id": 170
   },
   {
     "category": "TIU",
@@ -2220,7 +2390,8 @@
       "11"
     ],
     "answer": 2,
-    "explanation": "81 ÷ 9 = 9."
+    "explanation": "81 ÷ 9 = 9.",
+    "id": 171
   },
   {
     "category": "TKP",
@@ -2233,7 +2404,8 @@
       "Menyerah"
     ],
     "answer": 1,
-    "explanation": "Berdiskusi secara profesional menunjukkan kedewasaan."
+    "explanation": "Berdiskusi secara profesional menunjukkan kedewasaan.",
+    "id": 172
   },
   {
     "category": "TIU",
@@ -2246,7 +2418,8 @@
       "48"
     ],
     "answer": 1,
-    "explanation": "6 × 7 = 42."
+    "explanation": "6 × 7 = 42.",
+    "id": 173
   },
   {
     "category": "TWK",
@@ -2259,7 +2432,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Pers Nasional diperingati setiap 9 Februari."
+    "explanation": "Hari Pers Nasional diperingati setiap 9 Februari.",
+    "id": 174
   },
   {
     "category": "TWK",
@@ -2272,7 +2446,8 @@
       "Merdeka atau mati"
     ],
     "answer": 0,
-    "explanation": "Bhinneka Tunggal Ika artinya berbeda-beda tetapi tetap satu."
+    "explanation": "Bhinneka Tunggal Ika artinya berbeda-beda tetapi tetap satu.",
+    "id": 175
   },
   {
     "category": "TWK",
@@ -2285,7 +2460,8 @@
       "Megawati"
     ],
     "answer": 0,
-    "explanation": "Presiden pertama Indonesia adalah Soekarno."
+    "explanation": "Presiden pertama Indonesia adalah Soekarno.",
+    "id": 176
   },
   {
     "category": "TKP",
@@ -2298,7 +2474,8 @@
       "Meminta bantuan"
     ],
     "answer": 1,
-    "explanation": "Menerima dan mengerjakan menunjukkan fleksibilitas."
+    "explanation": "Menerima dan mengerjakan menunjukkan fleksibilitas.",
+    "id": 177
   },
   {
     "category": "TKP",
@@ -2311,7 +2488,8 @@
       "Menyalahkan orang lain"
     ],
     "answer": 1,
-    "explanation": "Bekerja lebih keras menunjukkan dedikasi dan tanggung jawab."
+    "explanation": "Bekerja lebih keras menunjukkan dedikasi dan tanggung jawab.",
+    "id": 178
   },
   {
     "category": "TKP",
@@ -2324,7 +2502,8 @@
       "Membicarakannya"
     ],
     "answer": 1,
-    "explanation": "Mengakui dan memperbaiki menunjukkan integritas."
+    "explanation": "Mengakui dan memperbaiki menunjukkan integritas.",
+    "id": 179
   },
   {
     "category": "TWK",
@@ -2337,7 +2516,8 @@
       "Menimbang..."
     ],
     "answer": 0,
-    "explanation": "Alinea pertama: 'Bahwa sesungguhnya kemerdekaan itu ialah hak segala bangsa...'"
+    "explanation": "Alinea pertama: 'Bahwa sesungguhnya kemerdekaan itu ialah hak segala bangsa...'",
+    "id": 180
   },
   {
     "category": "TIU",
@@ -2350,7 +2530,8 @@
       "Besar"
     ],
     "answer": 0,
-    "explanation": "Antonim tinggi adalah rendah."
+    "explanation": "Antonim tinggi adalah rendah.",
+    "id": 181
   },
   {
     "category": "TKP",
@@ -2363,7 +2544,8 @@
       "Meminta pelatihan"
     ],
     "answer": 1,
-    "explanation": "Adaptasi dengan cepat menunjukkan fleksibilitas."
+    "explanation": "Adaptasi dengan cepat menunjukkan fleksibilitas.",
+    "id": 182
   },
   {
     "category": "TWK",
@@ -2376,7 +2558,8 @@
       "21 April"
     ],
     "answer": 0,
-    "explanation": "Hari Pahlawan Nasional diperingati setiap 10 November."
+    "explanation": "Hari Pahlawan Nasional diperingati setiap 10 November.",
+    "id": 183
   },
   {
     "category": "TKP",
@@ -2389,7 +2572,8 @@
       "Bekerja asal-asalan"
     ],
     "answer": 1,
-    "explanation": "Menerima dengan baik menunjukkan fleksibilitas dan dedikasi."
+    "explanation": "Menerima dengan baik menunjukkan fleksibilitas dan dedikasi.",
+    "id": 184
   },
   {
     "category": "TWK",
@@ -2402,7 +2586,8 @@
       "10 November"
     ],
     "answer": 0,
-    "explanation": "Hari Kartini diperingati setiap 21 April."
+    "explanation": "Hari Kartini diperingati setiap 21 April.",
+    "id": 185
   },
   {
     "category": "TKP",
@@ -2415,7 +2600,8 @@
       "Membicarakannya"
     ],
     "answer": 1,
-    "explanation": "Mencari solusi bersama menunjukkan kolaborasi."
+    "explanation": "Mencari solusi bersama menunjukkan kolaborasi.",
+    "id": 186
   },
   {
     "category": "TKP",
@@ -2428,7 +2614,8 @@
       "Mengabaikan"
     ],
     "answer": 1,
-    "explanation": "Memberi motivasi menunjukkan kepemimpinan dan empati."
+    "explanation": "Memberi motivasi menunjukkan kepemimpinan dan empati.",
+    "id": 187
   },
   {
     "category": "TIU",
@@ -2441,7 +2628,8 @@
       "Lebar"
     ],
     "answer": 0,
-    "explanation": "Antonim besar adalah kecil."
+    "explanation": "Antonim besar adalah kecil.",
+    "id": 188
   },
   {
     "category": "TKP",
@@ -2454,7 +2642,8 @@
       "Menyalahkan"
     ],
     "answer": 1,
-    "explanation": "Menerima dan memperbaiki menunjukkan kedewasaan."
+    "explanation": "Menerima dan memperbaiki menunjukkan kedewasaan.",
+    "id": 189
   },
   {
     "category": "TIU",
@@ -2467,7 +2656,8 @@
       "60"
     ],
     "answer": 2,
-    "explanation": "Pola -10: 100,90,80,70,60,50."
+    "explanation": "Pola -10: 100,90,80,70,60,50.",
+    "id": 190
   },
   {
     "category": "TWK",
@@ -2480,7 +2670,8 @@
       "Blitar"
     ],
     "answer": 0,
-    "explanation": "Ibukota Jawa Timur adalah Surabaya."
+    "explanation": "Ibukota Jawa Timur adalah Surabaya.",
+    "id": 191
   },
   {
     "category": "TIU",
@@ -2493,6 +2684,7 @@
       "Pendek"
     ],
     "answer": 2,
-    "explanation": "Sinonim besar adalah agung."
+    "explanation": "Sinonim besar adalah agung.",
+    "id": 192
   }
 ]

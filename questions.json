@@ -211,20 +211,6 @@
   },
   {
     "category": "TIU",
-    "question": "Antonim dari 'KAYA' adalah?",
-    "options": [
-      "Miskin",
-      "Kaya",
-      "Lumayan",
-      "Cukup",
-      "Berkecukupan"
-    ],
-    "answer": 0,
-    "explanation": "Antonim kaya adalah miskin.",
-    "id": 16
-  },
-  {
-    "category": "TIU",
     "question": "Deret: 1, 4, 7, 10, 13, ... angka berikutnya adalah?",
     "options": [
       "15",
@@ -348,20 +334,6 @@
     "answer": 2,
     "explanation": "0.2 × y = 8 → y = 40.",
     "id": 25
-  },
-  {
-    "category": "TIU",
-    "question": "Antonim dari 'GELAP' adalah?",
-    "options": [
-      "Terang",
-      "Pekat",
-      "Kelam",
-      "Suram",
-      "Redup"
-    ],
-    "answer": 0,
-    "explanation": "Antonim gelap adalah terang.",
-    "id": 26
   },
   {
     "category": "TWK",
@@ -532,20 +504,6 @@
     "id": 38
   },
   {
-    "category": "TKP",
-    "question": "Jika ada kesalahan dalam sistem, Anda...",
-    "options": [
-      "Membiarkan",
-      "Melaporkan dan memperbaiki",
-      "Mengabaikan",
-      "Menyalahkan",
-      "Membicarakannya"
-    ],
-    "answer": 1,
-    "explanation": "Melaporkan dan memperbaiki menunjukkan tanggung jawab.",
-    "id": 39
-  },
-  {
     "category": "TIU",
     "question": "Deret: 1, 3, 5, 7, 9, ... angka berikutnya adalah?",
     "options": [
@@ -614,20 +572,6 @@
     "answer": 0,
     "explanation": "Hari Kemerdekaan Indonesia diperingati setiap 17 Agustus.",
     "id": 44
-  },
-  {
-    "category": "TKP",
-    "question": "Anda melihat ada inefisiensi dalam proses kerja. Sikap Anda?",
-    "options": [
-      "Membiarkan",
-      "Memberi saran perbaikan",
-      "Mengeluh",
-      "Membicarakannya",
-      "Mengabaikan"
-    ],
-    "answer": 1,
-    "explanation": "Memberi saran perbaikan menunjukkan inisiatif dan proaktif.",
-    "id": 45
   },
   {
     "category": "TWK",
@@ -768,20 +712,6 @@
     "answer": 0,
     "explanation": "Hari Koperasi Nasional diperingati setiap 12 Juli.",
     "id": 55
-  },
-  {
-    "category": "TIU",
-    "question": "Antonim dari 'BARU' adalah?",
-    "options": [
-      "Lama",
-      "Muda",
-      "Segar",
-      "Terbaru",
-      "Modern"
-    ],
-    "answer": 0,
-    "explanation": "Antonim baru adalah lama.",
-    "id": 56
   },
   {
     "category": "TKP",
@@ -938,20 +868,6 @@
     "id": 67
   },
   {
-    "category": "TWK",
-    "question": "Hari Kemerdekaan Indonesia diperingati setiap?",
-    "options": [
-      "17 Agustus",
-      "1 Juni",
-      "28 Oktober",
-      "10 November",
-      "21 April"
-    ],
-    "answer": 0,
-    "explanation": "Hari Kemerdekaan Indonesia diperingati setiap 17 Agustus.",
-    "id": 68
-  },
-  {
     "category": "TKP",
     "question": "Saat diberi feedback negatif, Anda...",
     "options": [
@@ -980,20 +896,6 @@
     "id": 70
   },
   {
-    "category": "TKP",
-    "question": "Ketika ada peluang karir, Anda...",
-    "options": [
-      "Tidak tertarik",
-      "Mempersiapkan diri",
-      "Menunda",
-      "Mengeluh",
-      "Menyalahkan"
-    ],
-    "answer": 1,
-    "explanation": "Mempersiapkan diri menunjukkan ambisi dan proaktif.",
-    "id": 71
-  },
-  {
     "category": "TWK",
     "question": "Gedung Sate terletak di kota?",
     "options": [
@@ -1020,20 +922,6 @@
     "answer": 2,
     "explanation": "Menegur secara halus adalah sikap yang paling tepat dan profesional.",
     "id": 73
-  },
-  {
-    "category": "TIU",
-    "question": "Sinonim dari 'BESAR' adalah?",
-    "options": [
-      "Kecil",
-      "Luas",
-      "Agung",
-      "Rendah",
-      "Pendek"
-    ],
-    "answer": 2,
-    "explanation": "Sinonim besar adalah agung.",
-    "id": 74
   },
   {
     "category": "TWK",
@@ -1160,20 +1048,6 @@
     "answer": 2,
     "explanation": "0.15 × z = 45 → z = 300.",
     "id": 83
-  },
-  {
-    "category": "TWK",
-    "question": "Hari Kesaktian Pancasila diperingati setiap?",
-    "options": [
-      "1 Oktober",
-      "17 Agustus",
-      "1 Juni",
-      "28 Oktober",
-      "10 November"
-    ],
-    "answer": 0,
-    "explanation": "Hari Kesaktian Pancasila diperingati setiap 1 Oktober.",
-    "id": 84
   },
   {
     "category": "TIU",
@@ -1331,34 +1205,6 @@
   },
   {
     "category": "TIU",
-    "question": "Sinonim dari 'PANJANG' adalah?",
-    "options": [
-      "Pendek",
-      "Luas",
-      "Lurus",
-      "Tinggi",
-      "Lebar"
-    ],
-    "answer": 2,
-    "explanation": "Sinonim panjang adalah lurus.",
-    "id": 96
-  },
-  {
-    "category": "TKP",
-    "question": "Jika ada rekan yang tidak kooperatif, Anda...",
-    "options": [
-      "Membiarkan",
-      "Berkomunikasi dengan baik",
-      "Melaporkan",
-      "Membicarakannya",
-      "Mengabaikan"
-    ],
-    "answer": 1,
-    "explanation": "Berkomunikasi dengan baik menunjukkan keterampilan interpersonal.",
-    "id": 97
-  },
-  {
-    "category": "TIU",
     "question": "Jika harga 1 buah apel Rp 5.000, berapa harga 12 buah?",
     "options": [
       "Rp 50.000",
@@ -1370,20 +1216,6 @@
     "answer": 2,
     "explanation": "12 × 5.000 = 60.000.",
     "id": 98
-  },
-  {
-    "category": "TKP",
-    "question": "Saat bekerja di bawah tekanan, Anda...",
-    "options": [
-      "Panik",
-      "Tetap tenang dan fokus",
-      "Menyerah",
-      "Mengeluh",
-      "Bekerja asal-asalan"
-    ],
-    "answer": 1,
-    "explanation": "Tetap tenang dan fokus menunjukkan ketahanan.",
-    "id": 99
   },
   {
     "category": "TKP",
@@ -1428,34 +1260,6 @@
     "id": 102
   },
   {
-    "category": "TKP",
-    "question": "Ketika ada deadline yang sangat ketat, Anda...",
-    "options": [
-      "Panik",
-      "Prioritas dan bekerja efisien",
-      "Menyerah",
-      "Mengeluh",
-      "Bekerja asal-asalan"
-    ],
-    "answer": 1,
-    "explanation": "Prioritas dan bekerja efisien menunjukkan manajemen waktu yang baik.",
-    "id": 103
-  },
-  {
-    "category": "TKP",
-    "question": "Anda ditugaskan bersama orang yang lebih senior. Sikap Anda?",
-    "options": [
-      "Menolak",
-      "Belajar dari mereka",
-      "Menghindar",
-      "Memperkeruh",
-      "Membicarakannya"
-    ],
-    "answer": 1,
-    "explanation": "Belajar dari mereka menunjukkan kerendahan hati dan kemauan belajar.",
-    "id": 104
-  },
-  {
     "category": "TIU",
     "question": "Jika 50% dari 80 = ?",
     "options": [
@@ -1482,20 +1286,6 @@
     "answer": 1,
     "explanation": "9 × 9 = 81.",
     "id": 106
-  },
-  {
-    "category": "TWK",
-    "question": "Hari Kesaktian Pancasila diperingati setiap?",
-    "options": [
-      "1 Oktober",
-      "17 Agustus",
-      "1 Juni",
-      "28 Oktober",
-      "10 November"
-    ],
-    "answer": 0,
-    "explanation": "Hari Kesaktian Pancasila diperingati setiap 1 Oktober.",
-    "id": 107
   },
   {
     "category": "TWK",
@@ -1610,20 +1400,6 @@
     "id": 115
   },
   {
-    "category": "TKP",
-    "question": "Saat diberi tugas yang repetitif, Anda...",
-    "options": [
-      "Bosan",
-      "Mengerjakan dengan baik",
-      "Mengeluh",
-      "Melakukan asal-asalan",
-      "Menunda"
-    ],
-    "answer": 1,
-    "explanation": "Mengerjakan dengan baik menunjukkan disiplin dan profesionalisme.",
-    "id": 116
-  },
-  {
     "category": "TWK",
     "question": "Bendera Indonesia dijahit oleh?",
     "options": [
@@ -1650,20 +1426,6 @@
     "answer": 1,
     "explanation": "Mengambil inisiatif menunjukkan proaktif dan kreatif.",
     "id": 118
-  },
-  {
-    "category": "TIU",
-    "question": "Jika 7 × 8 = ?",
-    "options": [
-      "54",
-      "56",
-      "58",
-      "60",
-      "62"
-    ],
-    "answer": 1,
-    "explanation": "7 × 8 = 56.",
-    "id": 119
   },
   {
     "category": "TWK",
@@ -1765,20 +1527,6 @@
   },
   {
     "category": "TWK",
-    "question": "Hari Sumpah Pemuda diperingati setiap?",
-    "options": [
-      "28 Oktober",
-      "17 Agustus",
-      "1 Juni",
-      "10 November",
-      "21 April"
-    ],
-    "answer": 0,
-    "explanation": "Hari Sumpah Pemuda diperingati setiap 28 Oktober.",
-    "id": 127
-  },
-  {
-    "category": "TWK",
     "question": "Lambang negara Indonesia adalah?",
     "options": [
       "Garuda Pancasila",
@@ -1804,20 +1552,6 @@
     "answer": 1,
     "explanation": "Masa jabatan presiden adalah 5 tahun.",
     "id": 129
-  },
-  {
-    "category": "TIU",
-    "question": "Sinonim dari 'CANTIK' adalah?",
-    "options": [
-      "Jelek",
-      "Indah",
-      "Buruk",
-      "Kotor",
-      "Kusam"
-    ],
-    "answer": 1,
-    "explanation": "Sinonim cantik adalah indah.",
-    "id": 130
   },
   {
     "category": "TKP",
@@ -1876,20 +1610,6 @@
     "id": 134
   },
   {
-    "category": "TKP",
-    "question": "Ketika ada perbedaan budaya di tim, Anda...",
-    "options": [
-      "Menghindar",
-      "Menghargai perbedaan",
-      "Memaksakan",
-      "Membicarakannya",
-      "Mengabaikan"
-    ],
-    "answer": 1,
-    "explanation": "Menghargai perbedaan menunjukkan toleransi dan inklusivitas.",
-    "id": 135
-  },
-  {
     "category": "TIU",
     "question": "Deret: 5, 10, 20, 40, 80, ... angka berikutnya adalah?",
     "options": [
@@ -1932,20 +1652,6 @@
     "id": 138
   },
   {
-    "category": "TIU",
-    "question": "Sinonim dari 'INDAH' adalah?",
-    "options": [
-      "Buruk",
-      "Jelek",
-      "Cantik",
-      "Kotor",
-      "Kusam"
-    ],
-    "answer": 2,
-    "explanation": "Sinonim indah adalah cantik.",
-    "id": 139
-  },
-  {
     "category": "TKP",
     "question": "Jika ada konflik dengan atasan, Anda...",
     "options": [
@@ -1972,20 +1678,6 @@
     "answer": 0,
     "explanation": "Pulau terbesar di Indonesia adalah Kalimantan.",
     "id": 141
-  },
-  {
-    "category": "TIU",
-    "question": "Sinonim dari 'KUAT' adalah?",
-    "options": [
-      "Lemah",
-      "Tangguh",
-      "Loyo",
-      "Lambat",
-      "Kecil"
-    ],
-    "answer": 1,
-    "explanation": "Sinonim kuat adalah tangguh.",
-    "id": 142
   },
   {
     "category": "TWK",
@@ -2072,34 +1764,6 @@
     "id": 148
   },
   {
-    "category": "TIU",
-    "question": "Antonim dari 'CEPAT' adalah?",
-    "options": [
-      "Laju",
-      "Lambat",
-      "Tangkas",
-      "Sigap",
-      "Gesit"
-    ],
-    "answer": 1,
-    "explanation": "Antonim cepat adalah lambat.",
-    "id": 149
-  },
-  {
-    "category": "TKP",
-    "question": "Anda diminta melakukan pekerjaan di luar jam kerja. Sikap Anda?",
-    "options": [
-      "Menolak",
-      "Bekerja dengan baik",
-      "Mengeluh",
-      "Meminta kompensasi",
-      "Bekerja asal-asalan"
-    ],
-    "answer": 1,
-    "explanation": "Bekerja dengan baik menunjukkan dedikasi.",
-    "id": 150
-  },
-  {
     "category": "TKP",
     "question": "Anda ditugaskan bersama orang yang tidak Anda sukai. Sikap Anda?",
     "options": [
@@ -2129,20 +1793,6 @@
   },
   {
     "category": "TKP",
-    "question": "Jika ada rekan yang melanggar etika, Anda...",
-    "options": [
-      "Membiarkan",
-      "Menegur secara halus",
-      "Melaporkan",
-      "Membicarakannya",
-      "Mengabaikan"
-    ],
-    "answer": 1,
-    "explanation": "Menegur secara halus menunjukkan integritas dan kepedulian.",
-    "id": 153
-  },
-  {
-    "category": "TKP",
     "question": "Jika ada masalah dalam tim, Anda...",
     "options": [
       "Menghindar",
@@ -2157,62 +1807,6 @@
   },
   {
     "category": "TKP",
-    "question": "Jika ada peluang belajar, Anda...",
-    "options": [
-      "Tidak tertarik",
-      "Mengambil peluang",
-      "Menunda",
-      "Mengeluh",
-      "Meminta kompensasi"
-    ],
-    "answer": 1,
-    "explanation": "Mengambil peluang menunjukkan kemauan belajar.",
-    "id": 155
-  },
-  {
-    "category": "TKP",
-    "question": "Ketika ada perubahan jadwal, Anda...",
-    "options": [
-      "Protes",
-      "Adaptasi dengan baik",
-      "Mengeluh",
-      "Menolak",
-      "Meminta kompensasi"
-    ],
-    "answer": 1,
-    "explanation": "Adaptasi dengan baik menunjukkan fleksibilitas.",
-    "id": 156
-  },
-  {
-    "category": "TKP",
-    "question": "Jika ada peluang untuk belajar hal baru, Anda...",
-    "options": [
-      "Tidak tertarik",
-      "Mengambil peluang",
-      "Menunda",
-      "Mengeluh",
-      "Meminta kompensasi"
-    ],
-    "answer": 1,
-    "explanation": "Mengambil peluang menunjukkan kemauan belajar dan adaptasi.",
-    "id": 157
-  },
-  {
-    "category": "TIU",
-    "question": "Antonim dari 'BAIK' adalah?",
-    "options": [
-      "Buruk",
-      "Bagus",
-      "Indah",
-      "Cantik",
-      "Hebat"
-    ],
-    "answer": 0,
-    "explanation": "Antonim baik adalah buruk.",
-    "id": 158
-  },
-  {
-    "category": "TKP",
     "question": "Ketika ada perbedaan pendapat, Anda...",
     "options": [
       "Memaksakan pendapat",
@@ -2224,20 +1818,6 @@
     "answer": 1,
     "explanation": "Mendengarkan dan berdiskusi menunjukkan komunikasi yang baik.",
     "id": 159
-  },
-  {
-    "category": "TKP",
-    "question": "Jika ada kesempatan untuk inovasi, Anda...",
-    "options": [
-      "Tidak tertarik",
-      "Mengambil inisiatif",
-      "Menunda",
-      "Mengeluh",
-      "Menyalahkan"
-    ],
-    "answer": 1,
-    "explanation": "Mengambil inisiatif menunjukkan proaktif dan kreatif.",
-    "id": 160
   },
   {
     "category": "TIU",
@@ -2338,34 +1918,6 @@
     "id": 167
   },
   {
-    "category": "TKP",
-    "question": "Saat ada perubahan kebijakan, Anda...",
-    "options": [
-      "Menolak",
-      "Menerima dan menjalankan",
-      "Mengeluh",
-      "Protes",
-      "Mengabaikan"
-    ],
-    "answer": 1,
-    "explanation": "Menerima dan menjalankan menunjukkan profesionalisme.",
-    "id": 168
-  },
-  {
-    "category": "TIU",
-    "question": "Sinonim dari 'PINTAR' adalah?",
-    "options": [
-      "Bodoh",
-      "Cerdas",
-      "Lemah",
-      "Malas",
-      "Lambat"
-    ],
-    "answer": 1,
-    "explanation": "Sinonim pintar adalah cerdas.",
-    "id": 169
-  },
-  {
     "category": "TIU",
     "question": "Jika 3/4 dari x = 12, maka x = ?",
     "options": [
@@ -2392,20 +1944,6 @@
     "answer": 2,
     "explanation": "81 ÷ 9 = 9.",
     "id": 171
-  },
-  {
-    "category": "TKP",
-    "question": "Jika ada konflik dengan atasan, Anda...",
-    "options": [
-      "Marah",
-      "Berdiskusi secara profesional",
-      "Menghindar",
-      "Membicarakannya",
-      "Menyerah"
-    ],
-    "answer": 1,
-    "explanation": "Berdiskusi secara profesional menunjukkan kedewasaan.",
-    "id": 172
   },
   {
     "category": "TIU",
@@ -2520,20 +2058,6 @@
     "id": 180
   },
   {
-    "category": "TIU",
-    "question": "Antonim dari 'TINGGI' adalah?",
-    "options": [
-      "Rendah",
-      "Panjang",
-      "Lebar",
-      "Luas",
-      "Besar"
-    ],
-    "answer": 0,
-    "explanation": "Antonim tinggi adalah rendah.",
-    "id": 181
-  },
-  {
     "category": "TKP",
     "question": "Saat ada perubahan sistem kerja, Anda...",
     "options": [
@@ -2546,34 +2070,6 @@
     "answer": 1,
     "explanation": "Adaptasi dengan cepat menunjukkan fleksibilitas.",
     "id": 182
-  },
-  {
-    "category": "TWK",
-    "question": "Hari Pahlawan Nasional diperingati setiap?",
-    "options": [
-      "10 November",
-      "17 Agustus",
-      "1 Juni",
-      "28 Oktober",
-      "21 April"
-    ],
-    "answer": 0,
-    "explanation": "Hari Pahlawan Nasional diperingati setiap 10 November.",
-    "id": 183
-  },
-  {
-    "category": "TKP",
-    "question": "Anda ditugaskan di tempat yang jauh. Sikap Anda?",
-    "options": [
-      "Menolak",
-      "Menerima dengan baik",
-      "Mengeluh",
-      "Meminta dipindah",
-      "Bekerja asal-asalan"
-    ],
-    "answer": 1,
-    "explanation": "Menerima dengan baik menunjukkan fleksibilitas dan dedikasi.",
-    "id": 184
   },
   {
     "category": "TWK",
@@ -2590,34 +2086,6 @@
     "id": 185
   },
   {
-    "category": "TKP",
-    "question": "Jika ada masalah dalam tim, Anda...",
-    "options": [
-      "Menghindar",
-      "Mencari solusi bersama",
-      "Memihak",
-      "Memperkeruh",
-      "Membicarakannya"
-    ],
-    "answer": 1,
-    "explanation": "Mencari solusi bersama menunjukkan kolaborasi.",
-    "id": 186
-  },
-  {
-    "category": "TKP",
-    "question": "Jika ada rekan yang tidak produktif, Anda...",
-    "options": [
-      "Membiarkan",
-      "Memberi motivasi",
-      "Melaporkan",
-      "Membicarakannya",
-      "Mengabaikan"
-    ],
-    "answer": 1,
-    "explanation": "Memberi motivasi menunjukkan kepemimpinan dan empati.",
-    "id": 187
-  },
-  {
     "category": "TIU",
     "question": "Antonim dari 'BESAR' adalah?",
     "options": [
@@ -2630,20 +2098,6 @@
     "answer": 0,
     "explanation": "Antonim besar adalah kecil.",
     "id": 188
-  },
-  {
-    "category": "TKP",
-    "question": "Saat diberi feedback negatif, Anda...",
-    "options": [
-      "Marah",
-      "Menerima dan memperbaiki",
-      "Membela diri",
-      "Mengabaikan",
-      "Menyalahkan"
-    ],
-    "answer": 1,
-    "explanation": "Menerima dan memperbaiki menunjukkan kedewasaan.",
-    "id": 189
   },
   {
     "category": "TIU",
@@ -2672,20 +2126,6 @@
     "answer": 0,
     "explanation": "Ibukota Jawa Timur adalah Surabaya.",
     "id": 191
-  },
-  {
-    "category": "TIU",
-    "question": "Sinonim dari 'BESAR' adalah?",
-    "options": [
-      "Kecil",
-      "Luas",
-      "Agung",
-      "Rendah",
-      "Pendek"
-    ],
-    "answer": 2,
-    "explanation": "Sinonim besar adalah agung.",
-    "id": 192
   },
   {
     "id": 193,

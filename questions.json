@@ -2751,5 +2751,2945 @@
     ],
     "answer": 0,
     "explanation": "Amandemen pertama UUD 1945 dilakukan pada 19 Oktober 1999."
+  },
+  {
+    "id": 198,
+    "category": "TWK",
+    "question": "Menghormati hak pemeluk agama lain dalam menjalankan ibadah sesuai keyakinan masing-masing mencerminkan pengamalan sila...",
+    "options": [
+      "Ketuhanan Yang Maha Esa",
+      "Kemanusiaan yang Adil dan Beradab",
+      "Persatuan Indonesia",
+      "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan",
+      "Keadilan Sosial bagi Seluruh Rakyat Indonesia"
+    ],
+    "answer": 0,
+    "explanation": "Toleransi dan penghormatan kebebasan menjalankan ibadah merupakan butir inti Sila Pertama."
+  },
+  {
+    "id": 199,
+    "category": "TWK",
+    "question": "Mengakui persamaan derajat, hak, dan kewajiban asasi setiap manusia tanpa membeda-bedakan suku dan keturunan adalah butir pengamalan sila...",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 1,
+    "explanation": "Pengakuan atas persamaan harkat dan martabat kemanusiaan merupakan butir Sila Kedua."
+  },
+  {
+    "id": 200,
+    "category": "TWK",
+    "question": "Rela berkorban untuk kepentingan bangsa dan negara di atas kepentingan pribadi atau golongan merupakan perwujudan sila...",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 2,
+    "explanation": "Menempatkan persatuan dan keselamatan bangsa di atas kepentingan pribadi/golongan adalah Sila Ketiga."
+  },
+  {
+    "id": 201,
+    "category": "TWK",
+    "question": "Tidak memaksakan kehendak kepada orang lain dalam forum pengambilan keputusan bersama merupakan cerminan sila...",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 3,
+    "explanation": "Musyawarah tanpa pemaksaan kehendak adalah butir Sila Keempat."
+  },
+  {
+    "id": 202,
+    "category": "TWK",
+    "question": "Mengembangkan sikap hemat, tidak bergaya hidup mewah, dan tidak melakukan pemborosan merupakan pengamalan sila...",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 4,
+    "explanation": "Menjauhi gaya hidup konsumtif/mewah dan suka menabung merupakan butir Sila Kelima."
+  },
+  {
+    "id": 203,
+    "category": "TWK",
+    "question": "Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara ditegaskan dalam UUD 1945 Pasal...",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": 0,
+    "explanation": "Pasal 10 UUD 1945 menegaskan kekuasaan tertinggi Presiden atas TNI AD, AL, dan AU."
+  },
+  {
+    "id": 204,
+    "category": "TWK",
+    "question": "Lembaga negara yang berwenang memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh UUD adalah...",
+    "options": [
+      "Mahkamah Agung",
+      "Mahkamah Konstitusi",
+      "Komisi Yudisial",
+      "Majelis Permusyawaratan Rakyat",
+      "Dewan Perwakilan Daerah"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 24C ayat (1) UUD 1945 menetapkan wewenang Mahkamah Konstitusi dalam memutus sengketa kewenangan lembaga negara."
+  },
+  {
+    "id": 205,
+    "category": "TWK",
+    "question": "Syarat-syarat tentang kewarganegaraan Indonesia ditetapkan dengan undang-undang, sebagaimana diatur dalam Pasal...",
+    "options": [
+      "26 ayat (1)",
+      "26 ayat (2)",
+      "26 ayat (3)",
+      "27 ayat (1)",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 26 ayat (3) UUD 1945 menyatakan syarat-syarat kewarganegaraan diatur dengan undang-undang."
+  },
+  {
+    "id": 206,
+    "category": "TWK",
+    "question": "Peristiwa Rengasdengklok pada tanggal 16 Agustus 1945 terjadi dengan tujuan utama...",
+    "options": [
+      "Menyusun teks proklamasi di rumah Laksamana Maeda",
+      "Menjauhkan Soekarno dan Hatta dari pengaruh janji kemerdekaan Jepang",
+      "Menyerang markas tentara Jepang di Jakarta",
+      "Mengumumkan kemerdekaan melalui radio militer",
+      "Membentuk kabinet pemerintahan pertama"
+    ],
+    "answer": 1,
+    "explanation": "Golongan muda membawa Soekarno-Hatta ke Rengasdengklok agar tidak terpengaruh provokasi dan janji kemerdekaan Jepang."
+  },
+  {
+    "id": 207,
+    "category": "TWK",
+    "question": "Paham yang menganggap kebudayaan atau sukunya sendiri lebih unggul dibandingkan suku bangsa lain disebut...",
+    "options": [
+      "Primordialisme",
+      "Chauvinisme",
+      "Etnosentrisme",
+      "Pluralisme",
+      "Fanatisme"
+    ],
+    "answer": 2,
+    "explanation": "Etnosentrisme adalah pandangan yang menilai kebudayaan kelompok lain berdasarkan standar budayanya sendiri dan menganggap budayanya paling unggul."
+  },
+  {
+    "id": 208,
+    "category": "TWK",
+    "question": "Keikutsertaan warga negara dalam upaya bela negara melalui jalur pendidikan formal diselenggarakan melalui...",
+    "options": [
+      "Pelatihan dasar kemiliteran",
+      "Pengabdian sebagai prajurit TNI",
+      "Pendidikan kewarganegaraan",
+      "Pengabdian sesuai profesi",
+      "Wajib militer nasional"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 9 ayat (2) UU No. 23 Tahun 2019 menyebutkan bela negara melalui pendidikan formal diselenggarakan lewat Pendidikan Kewarganegaraan."
+  },
+  {
+    "id": 209,
+    "category": "TKP",
+    "question": "Kewajiban ASN untuk memegang teguh ideologi Pancasila dan setia pada NKRI merupakan perwujudan dari nilai dasar...",
+    "options": [
+      "Berorientasi Pelayanan",
+      "Akuntabel",
+      "Loyal",
+      "Adaptif",
+      "Kolaboratif"
+    ],
+    "answer": 2,
+    "explanation": "Dalam Core Values BerAKHLAK, memegang teguh ideologi Pancasila dan setia pada NKRI termasuk dalam nilai 'Loyal'."
+  },
+  {
+    "id": 210,
+    "category": "TWK",
+    "question": "Penulisan kata serapan yang sesuai dengan Pedoman Umum Ejaan Bahasa Indonesia (PUEBI) adalah...",
+    "options": [
+      "Aktifitas, Sistim",
+      "Aktivitas, Sistem",
+      "Aktipitas, Sistim",
+      "Aktifitet, Sistematika",
+      "Aktifitas, Sistematik"
+    ],
+    "answer": 1,
+    "explanation": "Bentuk baku menurut KBBI adalah 'aktivitas' (berakhiran -itas) dan 'sistem' (dengan huruf e)."
+  },
+  {
+    "id": 211,
+    "category": "TWK",
+    "question": "Kalimat yang menggunakan ragam bahasa baku dan efektif di bawah ini adalah...",
+    "options": [
+      "Bagi yang membawa kendaraan harap parkir di belakang.",
+      "Semua peserta ujian harap mengisi daftar hadir.",
+      "Untuk mempersingkat waktu, acara segera dimulai.",
+      "Rumah di mana tempat ia dilahirkan sudah dijual.",
+      "Kepada bapak camat kami persilakan."
+    ],
+    "answer": 1,
+    "explanation": "Pilihan B memiliki subjek dan predikat yang tepat tanpa preposisi perusak struktur (seperti 'Bagi', 'Untuk', 'Kepada') di awal subjek."
+  },
+  {
+    "id": 212,
+    "category": "TWK",
+    "question": "Menghormati hak pemeluk agama lain dalam menjalankan ibadah sesuai keyakinan masing-masing mencerminkan pengamalan sila... (Varian Materi 2)",
+    "options": [
+      "Ketuhanan Yang Maha Esa",
+      "Kemanusiaan yang Adil dan Beradab",
+      "Persatuan Indonesia",
+      "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan",
+      "Keadilan Sosial bagi Seluruh Rakyat Indonesia"
+    ],
+    "answer": 0,
+    "explanation": "Toleransi dan penghormatan kebebasan menjalankan ibadah merupakan butir inti Sila Pertama."
+  },
+  {
+    "id": 213,
+    "category": "TWK",
+    "question": "Mengakui persamaan derajat, hak, dan kewajiban asasi setiap manusia tanpa membeda-bedakan suku dan keturunan adalah butir pengamalan sila... (Varian Materi 2)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 1,
+    "explanation": "Pengakuan atas persamaan harkat dan martabat kemanusiaan merupakan butir Sila Kedua."
+  },
+  {
+    "id": 214,
+    "category": "TWK",
+    "question": "Rela berkorban untuk kepentingan bangsa dan negara di atas kepentingan pribadi atau golongan merupakan perwujudan sila... (Varian Materi 2)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 2,
+    "explanation": "Menempatkan persatuan dan keselamatan bangsa di atas kepentingan pribadi/golongan adalah Sila Ketiga."
+  },
+  {
+    "id": 215,
+    "category": "TWK",
+    "question": "Tidak memaksakan kehendak kepada orang lain dalam forum pengambilan keputusan bersama merupakan cerminan sila... (Varian Materi 2)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 3,
+    "explanation": "Musyawarah tanpa pemaksaan kehendak adalah butir Sila Keempat."
+  },
+  {
+    "id": 216,
+    "category": "TWK",
+    "question": "Mengembangkan sikap hemat, tidak bergaya hidup mewah, dan tidak melakukan pemborosan merupakan pengamalan sila... (Varian Materi 2)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 4,
+    "explanation": "Menjauhi gaya hidup konsumtif/mewah dan suka menabung merupakan butir Sila Kelima."
+  },
+  {
+    "id": 217,
+    "category": "TWK",
+    "question": "Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara ditegaskan dalam UUD 1945 Pasal... (Varian Materi 2)",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": 0,
+    "explanation": "Pasal 10 UUD 1945 menegaskan kekuasaan tertinggi Presiden atas TNI AD, AL, dan AU."
+  },
+  {
+    "id": 218,
+    "category": "TWK",
+    "question": "Lembaga negara yang berwenang memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh UUD adalah... (Varian Materi 2)",
+    "options": [
+      "Mahkamah Agung",
+      "Mahkamah Konstitusi",
+      "Komisi Yudisial",
+      "Majelis Permusyawaratan Rakyat",
+      "Dewan Perwakilan Daerah"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 24C ayat (1) UUD 1945 menetapkan wewenang Mahkamah Konstitusi dalam memutus sengketa kewenangan lembaga negara."
+  },
+  {
+    "id": 219,
+    "category": "TWK",
+    "question": "Syarat-syarat tentang kewarganegaraan Indonesia ditetapkan dengan undang-undang, sebagaimana diatur dalam Pasal... (Varian Materi 2)",
+    "options": [
+      "26 ayat (1)",
+      "26 ayat (2)",
+      "26 ayat (3)",
+      "27 ayat (1)",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 26 ayat (3) UUD 1945 menyatakan syarat-syarat kewarganegaraan diatur dengan undang-undang."
+  },
+  {
+    "id": 220,
+    "category": "TWK",
+    "question": "Peristiwa Rengasdengklok pada tanggal 16 Agustus 1945 terjadi dengan tujuan utama... (Varian Materi 2)",
+    "options": [
+      "Menyusun teks proklamasi di rumah Laksamana Maeda",
+      "Menjauhkan Soekarno dan Hatta dari pengaruh janji kemerdekaan Jepang",
+      "Menyerang markas tentara Jepang di Jakarta",
+      "Mengumumkan kemerdekaan melalui radio militer",
+      "Membentuk kabinet pemerintahan pertama"
+    ],
+    "answer": 1,
+    "explanation": "Golongan muda membawa Soekarno-Hatta ke Rengasdengklok agar tidak terpengaruh provokasi dan janji kemerdekaan Jepang."
+  },
+  {
+    "id": 221,
+    "category": "TWK",
+    "question": "Paham yang menganggap kebudayaan atau sukunya sendiri lebih unggul dibandingkan suku bangsa lain disebut... (Varian Materi 2)",
+    "options": [
+      "Primordialisme",
+      "Chauvinisme",
+      "Etnosentrisme",
+      "Pluralisme",
+      "Fanatisme"
+    ],
+    "answer": 2,
+    "explanation": "Etnosentrisme adalah pandangan yang menilai kebudayaan kelompok lain berdasarkan standar budayanya sendiri dan menganggap budayanya paling unggul."
+  },
+  {
+    "id": 222,
+    "category": "TWK",
+    "question": "Keikutsertaan warga negara dalam upaya bela negara melalui jalur pendidikan formal diselenggarakan melalui... (Varian Materi 2)",
+    "options": [
+      "Pelatihan dasar kemiliteran",
+      "Pengabdian sebagai prajurit TNI",
+      "Pendidikan kewarganegaraan",
+      "Pengabdian sesuai profesi",
+      "Wajib militer nasional"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 9 ayat (2) UU No. 23 Tahun 2019 menyebutkan bela negara melalui pendidikan formal diselenggarakan lewat Pendidikan Kewarganegaraan."
+  },
+  {
+    "id": 223,
+    "category": "TKP",
+    "question": "Kewajiban ASN untuk memegang teguh ideologi Pancasila dan setia pada NKRI merupakan perwujudan dari nilai dasar... (Varian Materi 2)",
+    "options": [
+      "Berorientasi Pelayanan",
+      "Akuntabel",
+      "Loyal",
+      "Adaptif",
+      "Kolaboratif"
+    ],
+    "answer": 2,
+    "explanation": "Dalam Core Values BerAKHLAK, memegang teguh ideologi Pancasila dan setia pada NKRI termasuk dalam nilai 'Loyal'."
+  },
+  {
+    "id": 224,
+    "category": "TWK",
+    "question": "Penulisan kata serapan yang sesuai dengan Pedoman Umum Ejaan Bahasa Indonesia (PUEBI) adalah... (Varian Materi 2)",
+    "options": [
+      "Aktifitas, Sistim",
+      "Aktivitas, Sistem",
+      "Aktipitas, Sistim",
+      "Aktifitet, Sistematika",
+      "Aktifitas, Sistematik"
+    ],
+    "answer": 1,
+    "explanation": "Bentuk baku menurut KBBI adalah 'aktivitas' (berakhiran -itas) dan 'sistem' (dengan huruf e)."
+  },
+  {
+    "id": 225,
+    "category": "TWK",
+    "question": "Kalimat yang menggunakan ragam bahasa baku dan efektif di bawah ini adalah... (Varian Materi 2)",
+    "options": [
+      "Bagi yang membawa kendaraan harap parkir di belakang.",
+      "Semua peserta ujian harap mengisi daftar hadir.",
+      "Untuk mempersingkat waktu, acara segera dimulai.",
+      "Rumah di mana tempat ia dilahirkan sudah dijual.",
+      "Kepada bapak camat kami persilakan."
+    ],
+    "answer": 1,
+    "explanation": "Pilihan B memiliki subjek dan predikat yang tepat tanpa preposisi perusak struktur (seperti 'Bagi', 'Untuk', 'Kepada') di awal subjek."
+  },
+  {
+    "id": 226,
+    "category": "TWK",
+    "question": "Menghormati hak pemeluk agama lain dalam menjalankan ibadah sesuai keyakinan masing-masing mencerminkan pengamalan sila... (Varian Materi 3)",
+    "options": [
+      "Ketuhanan Yang Maha Esa",
+      "Kemanusiaan yang Adil dan Beradab",
+      "Persatuan Indonesia",
+      "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan",
+      "Keadilan Sosial bagi Seluruh Rakyat Indonesia"
+    ],
+    "answer": 0,
+    "explanation": "Toleransi dan penghormatan kebebasan menjalankan ibadah merupakan butir inti Sila Pertama."
+  },
+  {
+    "id": 227,
+    "category": "TWK",
+    "question": "Mengakui persamaan derajat, hak, dan kewajiban asasi setiap manusia tanpa membeda-bedakan suku dan keturunan adalah butir pengamalan sila... (Varian Materi 3)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 1,
+    "explanation": "Pengakuan atas persamaan harkat dan martabat kemanusiaan merupakan butir Sila Kedua."
+  },
+  {
+    "id": 228,
+    "category": "TWK",
+    "question": "Rela berkorban untuk kepentingan bangsa dan negara di atas kepentingan pribadi atau golongan merupakan perwujudan sila... (Varian Materi 3)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 2,
+    "explanation": "Menempatkan persatuan dan keselamatan bangsa di atas kepentingan pribadi/golongan adalah Sila Ketiga."
+  },
+  {
+    "id": 229,
+    "category": "TWK",
+    "question": "Tidak memaksakan kehendak kepada orang lain dalam forum pengambilan keputusan bersama merupakan cerminan sila... (Varian Materi 3)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 3,
+    "explanation": "Musyawarah tanpa pemaksaan kehendak adalah butir Sila Keempat."
+  },
+  {
+    "id": 230,
+    "category": "TWK",
+    "question": "Mengembangkan sikap hemat, tidak bergaya hidup mewah, dan tidak melakukan pemborosan merupakan pengamalan sila... (Varian Materi 3)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 4,
+    "explanation": "Menjauhi gaya hidup konsumtif/mewah dan suka menabung merupakan butir Sila Kelima."
+  },
+  {
+    "id": 231,
+    "category": "TWK",
+    "question": "Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara ditegaskan dalam UUD 1945 Pasal... (Varian Materi 3)",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": 0,
+    "explanation": "Pasal 10 UUD 1945 menegaskan kekuasaan tertinggi Presiden atas TNI AD, AL, dan AU."
+  },
+  {
+    "id": 232,
+    "category": "TWK",
+    "question": "Lembaga negara yang berwenang memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh UUD adalah... (Varian Materi 3)",
+    "options": [
+      "Mahkamah Agung",
+      "Mahkamah Konstitusi",
+      "Komisi Yudisial",
+      "Majelis Permusyawaratan Rakyat",
+      "Dewan Perwakilan Daerah"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 24C ayat (1) UUD 1945 menetapkan wewenang Mahkamah Konstitusi dalam memutus sengketa kewenangan lembaga negara."
+  },
+  {
+    "id": 233,
+    "category": "TWK",
+    "question": "Syarat-syarat tentang kewarganegaraan Indonesia ditetapkan dengan undang-undang, sebagaimana diatur dalam Pasal... (Varian Materi 3)",
+    "options": [
+      "26 ayat (1)",
+      "26 ayat (2)",
+      "26 ayat (3)",
+      "27 ayat (1)",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 26 ayat (3) UUD 1945 menyatakan syarat-syarat kewarganegaraan diatur dengan undang-undang."
+  },
+  {
+    "id": 234,
+    "category": "TWK",
+    "question": "Peristiwa Rengasdengklok pada tanggal 16 Agustus 1945 terjadi dengan tujuan utama... (Varian Materi 3)",
+    "options": [
+      "Menyusun teks proklamasi di rumah Laksamana Maeda",
+      "Menjauhkan Soekarno dan Hatta dari pengaruh janji kemerdekaan Jepang",
+      "Menyerang markas tentara Jepang di Jakarta",
+      "Mengumumkan kemerdekaan melalui radio militer",
+      "Membentuk kabinet pemerintahan pertama"
+    ],
+    "answer": 1,
+    "explanation": "Golongan muda membawa Soekarno-Hatta ke Rengasdengklok agar tidak terpengaruh provokasi dan janji kemerdekaan Jepang."
+  },
+  {
+    "id": 235,
+    "category": "TWK",
+    "question": "Paham yang menganggap kebudayaan atau sukunya sendiri lebih unggul dibandingkan suku bangsa lain disebut... (Varian Materi 3)",
+    "options": [
+      "Primordialisme",
+      "Chauvinisme",
+      "Etnosentrisme",
+      "Pluralisme",
+      "Fanatisme"
+    ],
+    "answer": 2,
+    "explanation": "Etnosentrisme adalah pandangan yang menilai kebudayaan kelompok lain berdasarkan standar budayanya sendiri dan menganggap budayanya paling unggul."
+  },
+  {
+    "id": 236,
+    "category": "TWK",
+    "question": "Keikutsertaan warga negara dalam upaya bela negara melalui jalur pendidikan formal diselenggarakan melalui... (Varian Materi 3)",
+    "options": [
+      "Pelatihan dasar kemiliteran",
+      "Pengabdian sebagai prajurit TNI",
+      "Pendidikan kewarganegaraan",
+      "Pengabdian sesuai profesi",
+      "Wajib militer nasional"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 9 ayat (2) UU No. 23 Tahun 2019 menyebutkan bela negara melalui pendidikan formal diselenggarakan lewat Pendidikan Kewarganegaraan."
+  },
+  {
+    "id": 237,
+    "category": "TKP",
+    "question": "Kewajiban ASN untuk memegang teguh ideologi Pancasila dan setia pada NKRI merupakan perwujudan dari nilai dasar... (Varian Materi 3)",
+    "options": [
+      "Berorientasi Pelayanan",
+      "Akuntabel",
+      "Loyal",
+      "Adaptif",
+      "Kolaboratif"
+    ],
+    "answer": 2,
+    "explanation": "Dalam Core Values BerAKHLAK, memegang teguh ideologi Pancasila dan setia pada NKRI termasuk dalam nilai 'Loyal'."
+  },
+  {
+    "id": 238,
+    "category": "TWK",
+    "question": "Penulisan kata serapan yang sesuai dengan Pedoman Umum Ejaan Bahasa Indonesia (PUEBI) adalah... (Varian Materi 3)",
+    "options": [
+      "Aktifitas, Sistim",
+      "Aktivitas, Sistem",
+      "Aktipitas, Sistim",
+      "Aktifitet, Sistematika",
+      "Aktifitas, Sistematik"
+    ],
+    "answer": 1,
+    "explanation": "Bentuk baku menurut KBBI adalah 'aktivitas' (berakhiran -itas) dan 'sistem' (dengan huruf e)."
+  },
+  {
+    "id": 239,
+    "category": "TWK",
+    "question": "Kalimat yang menggunakan ragam bahasa baku dan efektif di bawah ini adalah... (Varian Materi 3)",
+    "options": [
+      "Bagi yang membawa kendaraan harap parkir di belakang.",
+      "Semua peserta ujian harap mengisi daftar hadir.",
+      "Untuk mempersingkat waktu, acara segera dimulai.",
+      "Rumah di mana tempat ia dilahirkan sudah dijual.",
+      "Kepada bapak camat kami persilakan."
+    ],
+    "answer": 1,
+    "explanation": "Pilihan B memiliki subjek dan predikat yang tepat tanpa preposisi perusak struktur (seperti 'Bagi', 'Untuk', 'Kepada') di awal subjek."
+  },
+  {
+    "id": 240,
+    "category": "TWK",
+    "question": "Menghormati hak pemeluk agama lain dalam menjalankan ibadah sesuai keyakinan masing-masing mencerminkan pengamalan sila... (Varian Materi 4)",
+    "options": [
+      "Ketuhanan Yang Maha Esa",
+      "Kemanusiaan yang Adil dan Beradab",
+      "Persatuan Indonesia",
+      "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan",
+      "Keadilan Sosial bagi Seluruh Rakyat Indonesia"
+    ],
+    "answer": 0,
+    "explanation": "Toleransi dan penghormatan kebebasan menjalankan ibadah merupakan butir inti Sila Pertama."
+  },
+  {
+    "id": 241,
+    "category": "TWK",
+    "question": "Mengakui persamaan derajat, hak, dan kewajiban asasi setiap manusia tanpa membeda-bedakan suku dan keturunan adalah butir pengamalan sila... (Varian Materi 4)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 1,
+    "explanation": "Pengakuan atas persamaan harkat dan martabat kemanusiaan merupakan butir Sila Kedua."
+  },
+  {
+    "id": 242,
+    "category": "TWK",
+    "question": "Rela berkorban untuk kepentingan bangsa dan negara di atas kepentingan pribadi atau golongan merupakan perwujudan sila... (Varian Materi 4)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 2,
+    "explanation": "Menempatkan persatuan dan keselamatan bangsa di atas kepentingan pribadi/golongan adalah Sila Ketiga."
+  },
+  {
+    "id": 243,
+    "category": "TWK",
+    "question": "Tidak memaksakan kehendak kepada orang lain dalam forum pengambilan keputusan bersama merupakan cerminan sila... (Varian Materi 4)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 3,
+    "explanation": "Musyawarah tanpa pemaksaan kehendak adalah butir Sila Keempat."
+  },
+  {
+    "id": 244,
+    "category": "TWK",
+    "question": "Mengembangkan sikap hemat, tidak bergaya hidup mewah, dan tidak melakukan pemborosan merupakan pengamalan sila... (Varian Materi 4)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 4,
+    "explanation": "Menjauhi gaya hidup konsumtif/mewah dan suka menabung merupakan butir Sila Kelima."
+  },
+  {
+    "id": 245,
+    "category": "TWK",
+    "question": "Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara ditegaskan dalam UUD 1945 Pasal... (Varian Materi 4)",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": 0,
+    "explanation": "Pasal 10 UUD 1945 menegaskan kekuasaan tertinggi Presiden atas TNI AD, AL, dan AU."
+  },
+  {
+    "id": 246,
+    "category": "TWK",
+    "question": "Lembaga negara yang berwenang memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh UUD adalah... (Varian Materi 4)",
+    "options": [
+      "Mahkamah Agung",
+      "Mahkamah Konstitusi",
+      "Komisi Yudisial",
+      "Majelis Permusyawaratan Rakyat",
+      "Dewan Perwakilan Daerah"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 24C ayat (1) UUD 1945 menetapkan wewenang Mahkamah Konstitusi dalam memutus sengketa kewenangan lembaga negara."
+  },
+  {
+    "id": 247,
+    "category": "TWK",
+    "question": "Syarat-syarat tentang kewarganegaraan Indonesia ditetapkan dengan undang-undang, sebagaimana diatur dalam Pasal... (Varian Materi 4)",
+    "options": [
+      "26 ayat (1)",
+      "26 ayat (2)",
+      "26 ayat (3)",
+      "27 ayat (1)",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 26 ayat (3) UUD 1945 menyatakan syarat-syarat kewarganegaraan diatur dengan undang-undang."
+  },
+  {
+    "id": 248,
+    "category": "TWK",
+    "question": "Peristiwa Rengasdengklok pada tanggal 16 Agustus 1945 terjadi dengan tujuan utama... (Varian Materi 4)",
+    "options": [
+      "Menyusun teks proklamasi di rumah Laksamana Maeda",
+      "Menjauhkan Soekarno dan Hatta dari pengaruh janji kemerdekaan Jepang",
+      "Menyerang markas tentara Jepang di Jakarta",
+      "Mengumumkan kemerdekaan melalui radio militer",
+      "Membentuk kabinet pemerintahan pertama"
+    ],
+    "answer": 1,
+    "explanation": "Golongan muda membawa Soekarno-Hatta ke Rengasdengklok agar tidak terpengaruh provokasi dan janji kemerdekaan Jepang."
+  },
+  {
+    "id": 249,
+    "category": "TWK",
+    "question": "Paham yang menganggap kebudayaan atau sukunya sendiri lebih unggul dibandingkan suku bangsa lain disebut... (Varian Materi 4)",
+    "options": [
+      "Primordialisme",
+      "Chauvinisme",
+      "Etnosentrisme",
+      "Pluralisme",
+      "Fanatisme"
+    ],
+    "answer": 2,
+    "explanation": "Etnosentrisme adalah pandangan yang menilai kebudayaan kelompok lain berdasarkan standar budayanya sendiri dan menganggap budayanya paling unggul."
+  },
+  {
+    "id": 250,
+    "category": "TWK",
+    "question": "Keikutsertaan warga negara dalam upaya bela negara melalui jalur pendidikan formal diselenggarakan melalui... (Varian Materi 4)",
+    "options": [
+      "Pelatihan dasar kemiliteran",
+      "Pengabdian sebagai prajurit TNI",
+      "Pendidikan kewarganegaraan",
+      "Pengabdian sesuai profesi",
+      "Wajib militer nasional"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 9 ayat (2) UU No. 23 Tahun 2019 menyebutkan bela negara melalui pendidikan formal diselenggarakan lewat Pendidikan Kewarganegaraan."
+  },
+  {
+    "id": 251,
+    "category": "TKP",
+    "question": "Kewajiban ASN untuk memegang teguh ideologi Pancasila dan setia pada NKRI merupakan perwujudan dari nilai dasar... (Varian Materi 4)",
+    "options": [
+      "Berorientasi Pelayanan",
+      "Akuntabel",
+      "Loyal",
+      "Adaptif",
+      "Kolaboratif"
+    ],
+    "answer": 2,
+    "explanation": "Dalam Core Values BerAKHLAK, memegang teguh ideologi Pancasila dan setia pada NKRI termasuk dalam nilai 'Loyal'."
+  },
+  {
+    "id": 252,
+    "category": "TWK",
+    "question": "Penulisan kata serapan yang sesuai dengan Pedoman Umum Ejaan Bahasa Indonesia (PUEBI) adalah... (Varian Materi 4)",
+    "options": [
+      "Aktifitas, Sistim",
+      "Aktivitas, Sistem",
+      "Aktipitas, Sistim",
+      "Aktifitet, Sistematika",
+      "Aktifitas, Sistematik"
+    ],
+    "answer": 1,
+    "explanation": "Bentuk baku menurut KBBI adalah 'aktivitas' (berakhiran -itas) dan 'sistem' (dengan huruf e)."
+  },
+  {
+    "id": 253,
+    "category": "TWK",
+    "question": "Kalimat yang menggunakan ragam bahasa baku dan efektif di bawah ini adalah... (Varian Materi 4)",
+    "options": [
+      "Bagi yang membawa kendaraan harap parkir di belakang.",
+      "Semua peserta ujian harap mengisi daftar hadir.",
+      "Untuk mempersingkat waktu, acara segera dimulai.",
+      "Rumah di mana tempat ia dilahirkan sudah dijual.",
+      "Kepada bapak camat kami persilakan."
+    ],
+    "answer": 1,
+    "explanation": "Pilihan B memiliki subjek dan predikat yang tepat tanpa preposisi perusak struktur (seperti 'Bagi', 'Untuk', 'Kepada') di awal subjek."
+  },
+  {
+    "id": 254,
+    "category": "TWK",
+    "question": "Menghormati hak pemeluk agama lain dalam menjalankan ibadah sesuai keyakinan masing-masing mencerminkan pengamalan sila... (Varian Materi 5)",
+    "options": [
+      "Ketuhanan Yang Maha Esa",
+      "Kemanusiaan yang Adil dan Beradab",
+      "Persatuan Indonesia",
+      "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan",
+      "Keadilan Sosial bagi Seluruh Rakyat Indonesia"
+    ],
+    "answer": 0,
+    "explanation": "Toleransi dan penghormatan kebebasan menjalankan ibadah merupakan butir inti Sila Pertama."
+  },
+  {
+    "id": 255,
+    "category": "TWK",
+    "question": "Mengakui persamaan derajat, hak, dan kewajiban asasi setiap manusia tanpa membeda-bedakan suku dan keturunan adalah butir pengamalan sila... (Varian Materi 5)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 1,
+    "explanation": "Pengakuan atas persamaan harkat dan martabat kemanusiaan merupakan butir Sila Kedua."
+  },
+  {
+    "id": 256,
+    "category": "TWK",
+    "question": "Rela berkorban untuk kepentingan bangsa dan negara di atas kepentingan pribadi atau golongan merupakan perwujudan sila... (Varian Materi 5)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 2,
+    "explanation": "Menempatkan persatuan dan keselamatan bangsa di atas kepentingan pribadi/golongan adalah Sila Ketiga."
+  },
+  {
+    "id": 257,
+    "category": "TWK",
+    "question": "Tidak memaksakan kehendak kepada orang lain dalam forum pengambilan keputusan bersama merupakan cerminan sila... (Varian Materi 5)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 3,
+    "explanation": "Musyawarah tanpa pemaksaan kehendak adalah butir Sila Keempat."
+  },
+  {
+    "id": 258,
+    "category": "TWK",
+    "question": "Mengembangkan sikap hemat, tidak bergaya hidup mewah, dan tidak melakukan pemborosan merupakan pengamalan sila... (Varian Materi 5)",
+    "options": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ],
+    "answer": 4,
+    "explanation": "Menjauhi gaya hidup konsumtif/mewah dan suka menabung merupakan butir Sila Kelima."
+  },
+  {
+    "id": 259,
+    "category": "TWK",
+    "question": "Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara ditegaskan dalam UUD 1945 Pasal... (Varian Materi 5)",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": 0,
+    "explanation": "Pasal 10 UUD 1945 menegaskan kekuasaan tertinggi Presiden atas TNI AD, AL, dan AU."
+  },
+  {
+    "id": 260,
+    "category": "TWK",
+    "question": "Lembaga negara yang berwenang memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh UUD adalah... (Varian Materi 5)",
+    "options": [
+      "Mahkamah Agung",
+      "Mahkamah Konstitusi",
+      "Komisi Yudisial",
+      "Majelis Permusyawaratan Rakyat",
+      "Dewan Perwakilan Daerah"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 24C ayat (1) UUD 1945 menetapkan wewenang Mahkamah Konstitusi dalam memutus sengketa kewenangan lembaga negara."
+  },
+  {
+    "id": 261,
+    "category": "TWK",
+    "question": "Syarat-syarat tentang kewarganegaraan Indonesia ditetapkan dengan undang-undang, sebagaimana diatur dalam Pasal... (Varian Materi 5)",
+    "options": [
+      "26 ayat (1)",
+      "26 ayat (2)",
+      "26 ayat (3)",
+      "27 ayat (1)",
+      "28"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 26 ayat (3) UUD 1945 menyatakan syarat-syarat kewarganegaraan diatur dengan undang-undang."
+  },
+  {
+    "id": 262,
+    "category": "TWK",
+    "question": "Peristiwa Rengasdengklok pada tanggal 16 Agustus 1945 terjadi dengan tujuan utama... (Varian Materi 5)",
+    "options": [
+      "Menyusun teks proklamasi di rumah Laksamana Maeda",
+      "Menjauhkan Soekarno dan Hatta dari pengaruh janji kemerdekaan Jepang",
+      "Menyerang markas tentara Jepang di Jakarta",
+      "Mengumumkan kemerdekaan melalui radio militer",
+      "Membentuk kabinet pemerintahan pertama"
+    ],
+    "answer": 1,
+    "explanation": "Golongan muda membawa Soekarno-Hatta ke Rengasdengklok agar tidak terpengaruh provokasi dan janji kemerdekaan Jepang."
+  },
+  {
+    "id": 263,
+    "category": "TWK",
+    "question": "Paham yang menganggap kebudayaan atau sukunya sendiri lebih unggul dibandingkan suku bangsa lain disebut... (Varian Materi 5)",
+    "options": [
+      "Primordialisme",
+      "Chauvinisme",
+      "Etnosentrisme",
+      "Pluralisme",
+      "Fanatisme"
+    ],
+    "answer": 2,
+    "explanation": "Etnosentrisme adalah pandangan yang menilai kebudayaan kelompok lain berdasarkan standar budayanya sendiri dan menganggap budayanya paling unggul."
+  },
+  {
+    "id": 264,
+    "category": "TWK",
+    "question": "Keikutsertaan warga negara dalam upaya bela negara melalui jalur pendidikan formal diselenggarakan melalui... (Varian Materi 5)",
+    "options": [
+      "Pelatihan dasar kemiliteran",
+      "Pengabdian sebagai prajurit TNI",
+      "Pendidikan kewarganegaraan",
+      "Pengabdian sesuai profesi",
+      "Wajib militer nasional"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 9 ayat (2) UU No. 23 Tahun 2019 menyebutkan bela negara melalui pendidikan formal diselenggarakan lewat Pendidikan Kewarganegaraan."
+  },
+  {
+    "id": 265,
+    "category": "TKP",
+    "question": "Kewajiban ASN untuk memegang teguh ideologi Pancasila dan setia pada NKRI merupakan perwujudan dari nilai dasar... (Varian Materi 5)",
+    "options": [
+      "Berorientasi Pelayanan",
+      "Akuntabel",
+      "Loyal",
+      "Adaptif",
+      "Kolaboratif"
+    ],
+    "answer": 2,
+    "explanation": "Dalam Core Values BerAKHLAK, memegang teguh ideologi Pancasila dan setia pada NKRI termasuk dalam nilai 'Loyal'."
+  },
+  {
+    "id": 266,
+    "category": "TWK",
+    "question": "Penulisan kata serapan yang sesuai dengan Pedoman Umum Ejaan Bahasa Indonesia (PUEBI) adalah... (Varian Materi 5)",
+    "options": [
+      "Aktifitas, Sistim",
+      "Aktivitas, Sistem",
+      "Aktipitas, Sistim",
+      "Aktifitet, Sistematika",
+      "Aktifitas, Sistematik"
+    ],
+    "answer": 1,
+    "explanation": "Bentuk baku menurut KBBI adalah 'aktivitas' (berakhiran -itas) dan 'sistem' (dengan huruf e)."
+  },
+  {
+    "id": 267,
+    "category": "TWK",
+    "question": "Kalimat yang menggunakan ragam bahasa baku dan efektif di bawah ini adalah... (Varian Materi 5)",
+    "options": [
+      "Bagi yang membawa kendaraan harap parkir di belakang.",
+      "Semua peserta ujian harap mengisi daftar hadir.",
+      "Untuk mempersingkat waktu, acara segera dimulai.",
+      "Rumah di mana tempat ia dilahirkan sudah dijual.",
+      "Kepada bapak camat kami persilakan."
+    ],
+    "answer": 1,
+    "explanation": "Pilihan B memiliki subjek dan predikat yang tepat tanpa preposisi perusak struktur (seperti 'Bagi', 'Untuk', 'Kepada') di awal subjek.\nBAGIAN II: TES INTELIGENSIA UMUM (TIU) - NOMOR 71 s.d. 140"
+  },
+  {
+    "id": 268,
+    "category": "TIU",
+    "question": "GELAP : LAMPU = HAUS : ...",
+    "options": [
+      "Lapar",
+      "Makanan",
+      "Air",
+      "Tenggorokan",
+      "Minum"
+    ],
+    "answer": 2,
+    "explanation": "Kondisi gelap diatasi dengan lampu; kondisi haus diatasi dengan air (benda pemenuh kebutuhan)."
+  },
+  {
+    "id": 269,
+    "category": "TIU",
+    "question": "KUMAN : PENYAKIT = API : ...",
+    "options": [
+      "Abu",
+      "Panas",
+      "Kebakaran",
+      "Asap",
+      "Bahan bakar"
+    ],
+    "answer": 2,
+    "explanation": "Kuman menyebabkan timbulnya penyakit; api yang tak terkendali menyebabkan kebakaran (hubungan sebab-akibat fenomena)."
+  },
+  {
+    "id": 270,
+    "category": "TIU",
+    "question": "Semua bunga di taman beraroma wangi. Beberapa bunga di taman berwarna merah. Kesimpulan yang tepat adalah...",
+    "options": [
+      "Semua bunga beraroma wangi berwarna merah",
+      "Beberapa bunga yang beraroma wangi tidak berada di taman",
+      "Beberapa bunga berwarna merah beraroma wangi",
+      "Tidak ada bunga berwarna merah yang tidak di taman",
+      "Semua bunga di taman berwarna merah"
+    ],
+    "answer": 2,
+    "explanation": "Karena semua bunga di taman beraroma wangi dan sebagian di antaranya berwarna merah, maka sebagian bunga berwarna merah tersebut beraroma wangi."
+  },
+  {
+    "id": 271,
+    "category": "TIU",
+    "question": "Jika hari hujan, maka jalanan licin. Hari ini jalanan tidak licin. Kesimpulan:",
+    "options": [
+      "Hari ini hujan deras",
+      "Hari ini tidak hujan",
+      "Jalanan basah",
+      "Hujan reda",
+      "Tidak dapat disimpulkan"
+    ],
+    "answer": 1,
+    "explanation": "Modus Tollens: p -> q, ~q, maka kesimpulannya ~p (Hari ini tidak hujan)."
+  },
+  {
+    "id": 272,
+    "category": "TIU",
+    "question": "3,   8,   15,   24,   35,   ...",
+    "options": [
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "Pola beda bertingkat: +5, +7, +9, +11, maka berikutnya +13 -> 35 + 13 = 48 (atau pola n(n+2): 1x3, 2x4, 3x5, 4x6, 5x7, 6x8=48)."
+  },
+  {
+    "id": 273,
+    "category": "TIU",
+    "question": "2,   3,   6,   7,   14,   15,   ...",
+    "options": [
+      "28",
+      "30",
+      "31",
+      "29",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "Pola selang-seling operasi: (+1, x2, +1, x2, +1, x2). Maka 15 x 2 = 30."
+  },
+  {
+    "id": 274,
+    "category": "TIU",
+    "question": "Budi membeli sepatu seharga Rp 250.000,00 kemudian menjualnya kembali dengan keuntungan 20%. Harga jual sepatu tersebut adalah...",
+    "options": [
+      "Rp 280.000,00",
+      "Rp 290.000,00",
+      "Rp 300.000,00",
+      "Rp 310.000,00",
+      "Rp 320.000,00"
+    ],
+    "answer": 2,
+    "explanation": "Harga Jual = Modal + (20% x Modal) = Rp 250.000 + Rp 50.000 = Rp 300.000,00."
+  },
+  {
+    "id": 275,
+    "category": "TIU",
+    "question": "Jika x = 20% dari 500 dan y = 50% dari 200, maka hubungan x dan y adalah...",
+    "options": [
+      "x > y",
+      "x < y",
+      "x = y",
+      "2x = y",
+      "Hubungan tidak dapat ditentukan"
+    ],
+    "answer": 2,
+    "explanation": "x = 0,20 x 500 = 100. y = 0,50 x 200 = 100. Jadi x = y."
+  },
+  {
+    "id": 276,
+    "category": "TIU",
+    "question": "Sebuah bus melaju dari kota A ke kota B dengan kecepatan rata-rata 80 km/jam selama 2,5 jam. Jarak kedua kota tersebut adalah...",
+    "options": [
+      "160 km",
+      "180 km",
+      "200 km",
+      "210 km",
+      "220 km"
+    ],
+    "answer": 2,
+    "explanation": "Jarak = Kecepatan x Waktu = 80 x 2,5 = 200 km."
+  },
+  {
+    "id": 277,
+    "category": "TIU",
+    "question": "Pekerjaan renovasi diselesaikan 15 orang dalam 20 hari. Jika dikerjakan oleh 25 orang, waktu yang dibutuhkan adalah...",
+    "options": [
+      "10 hari",
+      "12 hari",
+      "14 hari",
+      "16 hari",
+      "18 hari"
+    ],
+    "answer": 1,
+    "explanation": "Perbandingan berbalik nilai: 15 x 20 = 25 x H -> 300 = 25H -> H = 12 hari."
+  },
+  {
+    "id": 278,
+    "category": "TIU",
+    "question": "GELAP : LAMPU = HAUS : ... (Tipe Soal 2)",
+    "options": [
+      "Lapar",
+      "Makanan",
+      "Air",
+      "Tenggorokan",
+      "Minum"
+    ],
+    "answer": 2,
+    "explanation": "Kondisi gelap diatasi dengan lampu; kondisi haus diatasi dengan air (benda pemenuh kebutuhan)."
+  },
+  {
+    "id": 279,
+    "category": "TIU",
+    "question": "KUMAN : PENYAKIT = API : ... (Tipe Soal 2)",
+    "options": [
+      "Abu",
+      "Panas",
+      "Kebakaran",
+      "Asap",
+      "Bahan bakar"
+    ],
+    "answer": 2,
+    "explanation": "Kuman menyebabkan timbulnya penyakit; api yang tak terkendali menyebabkan kebakaran (hubungan sebab-akibat fenomena)."
+  },
+  {
+    "id": 280,
+    "category": "TIU",
+    "question": "Semua bunga di taman beraroma wangi. Beberapa bunga di taman berwarna merah. Kesimpulan yang tepat adalah... (Tipe Soal 2)",
+    "options": [
+      "Semua bunga beraroma wangi berwarna merah",
+      "Beberapa bunga yang beraroma wangi tidak berada di taman",
+      "Beberapa bunga berwarna merah beraroma wangi",
+      "Tidak ada bunga berwarna merah yang tidak di taman",
+      "Semua bunga di taman berwarna merah"
+    ],
+    "answer": 2,
+    "explanation": "Karena semua bunga di taman beraroma wangi dan sebagian di antaranya berwarna merah, maka sebagian bunga berwarna merah tersebut beraroma wangi."
+  },
+  {
+    "id": 281,
+    "category": "TIU",
+    "question": "Jika hari hujan, maka jalanan licin. Hari ini jalanan tidak licin. Kesimpulan: (Tipe Soal 2)",
+    "options": [
+      "Hari ini hujan deras",
+      "Hari ini tidak hujan",
+      "Jalanan basah",
+      "Hujan reda",
+      "Tidak dapat disimpulkan"
+    ],
+    "answer": 1,
+    "explanation": "Modus Tollens: p -> q, ~q, maka kesimpulannya ~p (Hari ini tidak hujan)."
+  },
+  {
+    "id": 282,
+    "category": "TIU",
+    "question": "3,   8,   15,   24,   35,   ... (Tipe Soal 2)",
+    "options": [
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "Pola beda bertingkat: +5, +7, +9, +11, maka berikutnya +13 -> 35 + 13 = 48 (atau pola n(n+2): 1x3, 2x4, 3x5, 4x6, 5x7, 6x8=48)."
+  },
+  {
+    "id": 283,
+    "category": "TIU",
+    "question": "2,   3,   6,   7,   14,   15,   ... (Tipe Soal 2)",
+    "options": [
+      "28",
+      "30",
+      "31",
+      "29",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "Pola selang-seling operasi: (+1, x2, +1, x2, +1, x2). Maka 15 x 2 = 30."
+  },
+  {
+    "id": 284,
+    "category": "TIU",
+    "question": "Budi membeli sepatu seharga Rp 250.000,00 kemudian menjualnya kembali dengan keuntungan 20%. Harga jual sepatu tersebut adalah... (Tipe Soal 2)",
+    "options": [
+      "Rp 280.000,00",
+      "Rp 290.000,00",
+      "Rp 300.000,00",
+      "Rp 310.000,00",
+      "Rp 320.000,00"
+    ],
+    "answer": 2,
+    "explanation": "Harga Jual = Modal + (20% x Modal) = Rp 250.000 + Rp 50.000 = Rp 300.000,00."
+  },
+  {
+    "id": 285,
+    "category": "TIU",
+    "question": "Jika x = 20% dari 500 dan y = 50% dari 200, maka hubungan x dan y adalah... (Tipe Soal 2)",
+    "options": [
+      "x > y",
+      "x < y",
+      "x = y",
+      "2x = y",
+      "Hubungan tidak dapat ditentukan"
+    ],
+    "answer": 2,
+    "explanation": "x = 0,20 x 500 = 100. y = 0,50 x 200 = 100. Jadi x = y."
+  },
+  {
+    "id": 286,
+    "category": "TIU",
+    "question": "Sebuah bus melaju dari kota A ke kota B dengan kecepatan rata-rata 80 km/jam selama 2,5 jam. Jarak kedua kota tersebut adalah... (Tipe Soal 2)",
+    "options": [
+      "160 km",
+      "180 km",
+      "200 km",
+      "210 km",
+      "220 km"
+    ],
+    "answer": 2,
+    "explanation": "Jarak = Kecepatan x Waktu = 80 x 2,5 = 200 km."
+  },
+  {
+    "id": 287,
+    "category": "TIU",
+    "question": "Pekerjaan renovasi diselesaikan 15 orang dalam 20 hari. Jika dikerjakan oleh 25 orang, waktu yang dibutuhkan adalah... (Tipe Soal 2)",
+    "options": [
+      "10 hari",
+      "12 hari",
+      "14 hari",
+      "16 hari",
+      "18 hari"
+    ],
+    "answer": 1,
+    "explanation": "Perbandingan berbalik nilai: 15 x 20 = 25 x H -> 300 = 25H -> H = 12 hari."
+  },
+  {
+    "id": 288,
+    "category": "TIU",
+    "question": "GELAP : LAMPU = HAUS : ... (Tipe Soal 3)",
+    "options": [
+      "Lapar",
+      "Makanan",
+      "Air",
+      "Tenggorokan",
+      "Minum"
+    ],
+    "answer": 2,
+    "explanation": "Kondisi gelap diatasi dengan lampu; kondisi haus diatasi dengan air (benda pemenuh kebutuhan)."
+  },
+  {
+    "id": 289,
+    "category": "TIU",
+    "question": "KUMAN : PENYAKIT = API : ... (Tipe Soal 3)",
+    "options": [
+      "Abu",
+      "Panas",
+      "Kebakaran",
+      "Asap",
+      "Bahan bakar"
+    ],
+    "answer": 2,
+    "explanation": "Kuman menyebabkan timbulnya penyakit; api yang tak terkendali menyebabkan kebakaran (hubungan sebab-akibat fenomena)."
+  },
+  {
+    "id": 290,
+    "category": "TIU",
+    "question": "Semua bunga di taman beraroma wangi. Beberapa bunga di taman berwarna merah. Kesimpulan yang tepat adalah... (Tipe Soal 3)",
+    "options": [
+      "Semua bunga beraroma wangi berwarna merah",
+      "Beberapa bunga yang beraroma wangi tidak berada di taman",
+      "Beberapa bunga berwarna merah beraroma wangi",
+      "Tidak ada bunga berwarna merah yang tidak di taman",
+      "Semua bunga di taman berwarna merah"
+    ],
+    "answer": 2,
+    "explanation": "Karena semua bunga di taman beraroma wangi dan sebagian di antaranya berwarna merah, maka sebagian bunga berwarna merah tersebut beraroma wangi."
+  },
+  {
+    "id": 291,
+    "category": "TIU",
+    "question": "Jika hari hujan, maka jalanan licin. Hari ini jalanan tidak licin. Kesimpulan: (Tipe Soal 3)",
+    "options": [
+      "Hari ini hujan deras",
+      "Hari ini tidak hujan",
+      "Jalanan basah",
+      "Hujan reda",
+      "Tidak dapat disimpulkan"
+    ],
+    "answer": 1,
+    "explanation": "Modus Tollens: p -> q, ~q, maka kesimpulannya ~p (Hari ini tidak hujan)."
+  },
+  {
+    "id": 292,
+    "category": "TIU",
+    "question": "3,   8,   15,   24,   35,   ... (Tipe Soal 3)",
+    "options": [
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "Pola beda bertingkat: +5, +7, +9, +11, maka berikutnya +13 -> 35 + 13 = 48 (atau pola n(n+2): 1x3, 2x4, 3x5, 4x6, 5x7, 6x8=48)."
+  },
+  {
+    "id": 293,
+    "category": "TIU",
+    "question": "2,   3,   6,   7,   14,   15,   ... (Tipe Soal 3)",
+    "options": [
+      "28",
+      "30",
+      "31",
+      "29",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "Pola selang-seling operasi: (+1, x2, +1, x2, +1, x2). Maka 15 x 2 = 30."
+  },
+  {
+    "id": 294,
+    "category": "TIU",
+    "question": "Budi membeli sepatu seharga Rp 250.000,00 kemudian menjualnya kembali dengan keuntungan 20%. Harga jual sepatu tersebut adalah... (Tipe Soal 3)",
+    "options": [
+      "Rp 280.000,00",
+      "Rp 290.000,00",
+      "Rp 300.000,00",
+      "Rp 310.000,00",
+      "Rp 320.000,00"
+    ],
+    "answer": 2,
+    "explanation": "Harga Jual = Modal + (20% x Modal) = Rp 250.000 + Rp 50.000 = Rp 300.000,00."
+  },
+  {
+    "id": 295,
+    "category": "TIU",
+    "question": "Jika x = 20% dari 500 dan y = 50% dari 200, maka hubungan x dan y adalah... (Tipe Soal 3)",
+    "options": [
+      "x > y",
+      "x < y",
+      "x = y",
+      "2x = y",
+      "Hubungan tidak dapat ditentukan"
+    ],
+    "answer": 2,
+    "explanation": "x = 0,20 x 500 = 100. y = 0,50 x 200 = 100. Jadi x = y."
+  },
+  {
+    "id": 296,
+    "category": "TIU",
+    "question": "Sebuah bus melaju dari kota A ke kota B dengan kecepatan rata-rata 80 km/jam selama 2,5 jam. Jarak kedua kota tersebut adalah... (Tipe Soal 3)",
+    "options": [
+      "160 km",
+      "180 km",
+      "200 km",
+      "210 km",
+      "220 km"
+    ],
+    "answer": 2,
+    "explanation": "Jarak = Kecepatan x Waktu = 80 x 2,5 = 200 km."
+  },
+  {
+    "id": 297,
+    "category": "TIU",
+    "question": "Pekerjaan renovasi diselesaikan 15 orang dalam 20 hari. Jika dikerjakan oleh 25 orang, waktu yang dibutuhkan adalah... (Tipe Soal 3)",
+    "options": [
+      "10 hari",
+      "12 hari",
+      "14 hari",
+      "16 hari",
+      "18 hari"
+    ],
+    "answer": 1,
+    "explanation": "Perbandingan berbalik nilai: 15 x 20 = 25 x H -> 300 = 25H -> H = 12 hari."
+  },
+  {
+    "id": 298,
+    "category": "TIU",
+    "question": "GELAP : LAMPU = HAUS : ... (Tipe Soal 4)",
+    "options": [
+      "Lapar",
+      "Makanan",
+      "Air",
+      "Tenggorokan",
+      "Minum"
+    ],
+    "answer": 2,
+    "explanation": "Kondisi gelap diatasi dengan lampu; kondisi haus diatasi dengan air (benda pemenuh kebutuhan)."
+  },
+  {
+    "id": 299,
+    "category": "TIU",
+    "question": "KUMAN : PENYAKIT = API : ... (Tipe Soal 4)",
+    "options": [
+      "Abu",
+      "Panas",
+      "Kebakaran",
+      "Asap",
+      "Bahan bakar"
+    ],
+    "answer": 2,
+    "explanation": "Kuman menyebabkan timbulnya penyakit; api yang tak terkendali menyebabkan kebakaran (hubungan sebab-akibat fenomena)."
+  },
+  {
+    "id": 300,
+    "category": "TIU",
+    "question": "Semua bunga di taman beraroma wangi. Beberapa bunga di taman berwarna merah. Kesimpulan yang tepat adalah... (Tipe Soal 4)",
+    "options": [
+      "Semua bunga beraroma wangi berwarna merah",
+      "Beberapa bunga yang beraroma wangi tidak berada di taman",
+      "Beberapa bunga berwarna merah beraroma wangi",
+      "Tidak ada bunga berwarna merah yang tidak di taman",
+      "Semua bunga di taman berwarna merah"
+    ],
+    "answer": 2,
+    "explanation": "Karena semua bunga di taman beraroma wangi dan sebagian di antaranya berwarna merah, maka sebagian bunga berwarna merah tersebut beraroma wangi."
+  },
+  {
+    "id": 301,
+    "category": "TIU",
+    "question": "Jika hari hujan, maka jalanan licin. Hari ini jalanan tidak licin. Kesimpulan: (Tipe Soal 4)",
+    "options": [
+      "Hari ini hujan deras",
+      "Hari ini tidak hujan",
+      "Jalanan basah",
+      "Hujan reda",
+      "Tidak dapat disimpulkan"
+    ],
+    "answer": 1,
+    "explanation": "Modus Tollens: p -> q, ~q, maka kesimpulannya ~p (Hari ini tidak hujan)."
+  },
+  {
+    "id": 302,
+    "category": "TIU",
+    "question": "3,   8,   15,   24,   35,   ... (Tipe Soal 4)",
+    "options": [
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "Pola beda bertingkat: +5, +7, +9, +11, maka berikutnya +13 -> 35 + 13 = 48 (atau pola n(n+2): 1x3, 2x4, 3x5, 4x6, 5x7, 6x8=48)."
+  },
+  {
+    "id": 303,
+    "category": "TIU",
+    "question": "2,   3,   6,   7,   14,   15,   ... (Tipe Soal 4)",
+    "options": [
+      "28",
+      "30",
+      "31",
+      "29",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "Pola selang-seling operasi: (+1, x2, +1, x2, +1, x2). Maka 15 x 2 = 30."
+  },
+  {
+    "id": 304,
+    "category": "TIU",
+    "question": "Budi membeli sepatu seharga Rp 250.000,00 kemudian menjualnya kembali dengan keuntungan 20%. Harga jual sepatu tersebut adalah... (Tipe Soal 4)",
+    "options": [
+      "Rp 280.000,00",
+      "Rp 290.000,00",
+      "Rp 300.000,00",
+      "Rp 310.000,00",
+      "Rp 320.000,00"
+    ],
+    "answer": 2,
+    "explanation": "Harga Jual = Modal + (20% x Modal) = Rp 250.000 + Rp 50.000 = Rp 300.000,00."
+  },
+  {
+    "id": 305,
+    "category": "TIU",
+    "question": "Jika x = 20% dari 500 dan y = 50% dari 200, maka hubungan x dan y adalah... (Tipe Soal 4)",
+    "options": [
+      "x > y",
+      "x < y",
+      "x = y",
+      "2x = y",
+      "Hubungan tidak dapat ditentukan"
+    ],
+    "answer": 2,
+    "explanation": "x = 0,20 x 500 = 100. y = 0,50 x 200 = 100. Jadi x = y."
+  },
+  {
+    "id": 306,
+    "category": "TIU",
+    "question": "Sebuah bus melaju dari kota A ke kota B dengan kecepatan rata-rata 80 km/jam selama 2,5 jam. Jarak kedua kota tersebut adalah... (Tipe Soal 4)",
+    "options": [
+      "160 km",
+      "180 km",
+      "200 km",
+      "210 km",
+      "220 km"
+    ],
+    "answer": 2,
+    "explanation": "Jarak = Kecepatan x Waktu = 80 x 2,5 = 200 km."
+  },
+  {
+    "id": 307,
+    "category": "TIU",
+    "question": "Pekerjaan renovasi diselesaikan 15 orang dalam 20 hari. Jika dikerjakan oleh 25 orang, waktu yang dibutuhkan adalah... (Tipe Soal 4)",
+    "options": [
+      "10 hari",
+      "12 hari",
+      "14 hari",
+      "16 hari",
+      "18 hari"
+    ],
+    "answer": 1,
+    "explanation": "Perbandingan berbalik nilai: 15 x 20 = 25 x H -> 300 = 25H -> H = 12 hari."
+  },
+  {
+    "id": 308,
+    "category": "TIU",
+    "question": "GELAP : LAMPU = HAUS : ... (Tipe Soal 5)",
+    "options": [
+      "Lapar",
+      "Makanan",
+      "Air",
+      "Tenggorokan",
+      "Minum"
+    ],
+    "answer": 2,
+    "explanation": "Kondisi gelap diatasi dengan lampu; kondisi haus diatasi dengan air (benda pemenuh kebutuhan)."
+  },
+  {
+    "id": 309,
+    "category": "TIU",
+    "question": "KUMAN : PENYAKIT = API : ... (Tipe Soal 5)",
+    "options": [
+      "Abu",
+      "Panas",
+      "Kebakaran",
+      "Asap",
+      "Bahan bakar"
+    ],
+    "answer": 2,
+    "explanation": "Kuman menyebabkan timbulnya penyakit; api yang tak terkendali menyebabkan kebakaran (hubungan sebab-akibat fenomena)."
+  },
+  {
+    "id": 310,
+    "category": "TIU",
+    "question": "Semua bunga di taman beraroma wangi. Beberapa bunga di taman berwarna merah. Kesimpulan yang tepat adalah... (Tipe Soal 5)",
+    "options": [
+      "Semua bunga beraroma wangi berwarna merah",
+      "Beberapa bunga yang beraroma wangi tidak berada di taman",
+      "Beberapa bunga berwarna merah beraroma wangi",
+      "Tidak ada bunga berwarna merah yang tidak di taman",
+      "Semua bunga di taman berwarna merah"
+    ],
+    "answer": 2,
+    "explanation": "Karena semua bunga di taman beraroma wangi dan sebagian di antaranya berwarna merah, maka sebagian bunga berwarna merah tersebut beraroma wangi."
+  },
+  {
+    "id": 311,
+    "category": "TIU",
+    "question": "Jika hari hujan, maka jalanan licin. Hari ini jalanan tidak licin. Kesimpulan: (Tipe Soal 5)",
+    "options": [
+      "Hari ini hujan deras",
+      "Hari ini tidak hujan",
+      "Jalanan basah",
+      "Hujan reda",
+      "Tidak dapat disimpulkan"
+    ],
+    "answer": 1,
+    "explanation": "Modus Tollens: p -> q, ~q, maka kesimpulannya ~p (Hari ini tidak hujan)."
+  },
+  {
+    "id": 312,
+    "category": "TIU",
+    "question": "3,   8,   15,   24,   35,   ... (Tipe Soal 5)",
+    "options": [
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "Pola beda bertingkat: +5, +7, +9, +11, maka berikutnya +13 -> 35 + 13 = 48 (atau pola n(n+2): 1x3, 2x4, 3x5, 4x6, 5x7, 6x8=48)."
+  },
+  {
+    "id": 313,
+    "category": "TIU",
+    "question": "2,   3,   6,   7,   14,   15,   ... (Tipe Soal 5)",
+    "options": [
+      "28",
+      "30",
+      "31",
+      "29",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "Pola selang-seling operasi: (+1, x2, +1, x2, +1, x2). Maka 15 x 2 = 30."
+  },
+  {
+    "id": 314,
+    "category": "TIU",
+    "question": "Budi membeli sepatu seharga Rp 250.000,00 kemudian menjualnya kembali dengan keuntungan 20%. Harga jual sepatu tersebut adalah... (Tipe Soal 5)",
+    "options": [
+      "Rp 280.000,00",
+      "Rp 290.000,00",
+      "Rp 300.000,00",
+      "Rp 310.000,00",
+      "Rp 320.000,00"
+    ],
+    "answer": 2,
+    "explanation": "Harga Jual = Modal + (20% x Modal) = Rp 250.000 + Rp 50.000 = Rp 300.000,00."
+  },
+  {
+    "id": 315,
+    "category": "TIU",
+    "question": "Jika x = 20% dari 500 dan y = 50% dari 200, maka hubungan x dan y adalah... (Tipe Soal 5)",
+    "options": [
+      "x > y",
+      "x < y",
+      "x = y",
+      "2x = y",
+      "Hubungan tidak dapat ditentukan"
+    ],
+    "answer": 2,
+    "explanation": "x = 0,20 x 500 = 100. y = 0,50 x 200 = 100. Jadi x = y."
+  },
+  {
+    "id": 316,
+    "category": "TIU",
+    "question": "Sebuah bus melaju dari kota A ke kota B dengan kecepatan rata-rata 80 km/jam selama 2,5 jam. Jarak kedua kota tersebut adalah... (Tipe Soal 5)",
+    "options": [
+      "160 km",
+      "180 km",
+      "200 km",
+      "210 km",
+      "220 km"
+    ],
+    "answer": 2,
+    "explanation": "Jarak = Kecepatan x Waktu = 80 x 2,5 = 200 km."
+  },
+  {
+    "id": 317,
+    "category": "TIU",
+    "question": "Pekerjaan renovasi diselesaikan 15 orang dalam 20 hari. Jika dikerjakan oleh 25 orang, waktu yang dibutuhkan adalah... (Tipe Soal 5)",
+    "options": [
+      "10 hari",
+      "12 hari",
+      "14 hari",
+      "16 hari",
+      "18 hari"
+    ],
+    "answer": 1,
+    "explanation": "Perbandingan berbalik nilai: 15 x 20 = 25 x H -> 300 = 25H -> H = 12 hari."
+  },
+  {
+    "id": 318,
+    "category": "TIU",
+    "question": "GELAP : LAMPU = HAUS : ... (Tipe Soal 6)",
+    "options": [
+      "Lapar",
+      "Makanan",
+      "Air",
+      "Tenggorokan",
+      "Minum"
+    ],
+    "answer": 2,
+    "explanation": "Kondisi gelap diatasi dengan lampu; kondisi haus diatasi dengan air (benda pemenuh kebutuhan)."
+  },
+  {
+    "id": 319,
+    "category": "TIU",
+    "question": "KUMAN : PENYAKIT = API : ... (Tipe Soal 6)",
+    "options": [
+      "Abu",
+      "Panas",
+      "Kebakaran",
+      "Asap",
+      "Bahan bakar"
+    ],
+    "answer": 2,
+    "explanation": "Kuman menyebabkan timbulnya penyakit; api yang tak terkendali menyebabkan kebakaran (hubungan sebab-akibat fenomena)."
+  },
+  {
+    "id": 320,
+    "category": "TIU",
+    "question": "Semua bunga di taman beraroma wangi. Beberapa bunga di taman berwarna merah. Kesimpulan yang tepat adalah... (Tipe Soal 6)",
+    "options": [
+      "Semua bunga beraroma wangi berwarna merah",
+      "Beberapa bunga yang beraroma wangi tidak berada di taman",
+      "Beberapa bunga berwarna merah beraroma wangi",
+      "Tidak ada bunga berwarna merah yang tidak di taman",
+      "Semua bunga di taman berwarna merah"
+    ],
+    "answer": 2,
+    "explanation": "Karena semua bunga di taman beraroma wangi dan sebagian di antaranya berwarna merah, maka sebagian bunga berwarna merah tersebut beraroma wangi."
+  },
+  {
+    "id": 321,
+    "category": "TIU",
+    "question": "Jika hari hujan, maka jalanan licin. Hari ini jalanan tidak licin. Kesimpulan: (Tipe Soal 6)",
+    "options": [
+      "Hari ini hujan deras",
+      "Hari ini tidak hujan",
+      "Jalanan basah",
+      "Hujan reda",
+      "Tidak dapat disimpulkan"
+    ],
+    "answer": 1,
+    "explanation": "Modus Tollens: p -> q, ~q, maka kesimpulannya ~p (Hari ini tidak hujan)."
+  },
+  {
+    "id": 322,
+    "category": "TIU",
+    "question": "3,   8,   15,   24,   35,   ... (Tipe Soal 6)",
+    "options": [
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "Pola beda bertingkat: +5, +7, +9, +11, maka berikutnya +13 -> 35 + 13 = 48 (atau pola n(n+2): 1x3, 2x4, 3x5, 4x6, 5x7, 6x8=48)."
+  },
+  {
+    "id": 323,
+    "category": "TIU",
+    "question": "2,   3,   6,   7,   14,   15,   ... (Tipe Soal 6)",
+    "options": [
+      "28",
+      "30",
+      "31",
+      "29",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "Pola selang-seling operasi: (+1, x2, +1, x2, +1, x2). Maka 15 x 2 = 30."
+  },
+  {
+    "id": 324,
+    "category": "TIU",
+    "question": "Budi membeli sepatu seharga Rp 250.000,00 kemudian menjualnya kembali dengan keuntungan 20%. Harga jual sepatu tersebut adalah... (Tipe Soal 6)",
+    "options": [
+      "Rp 280.000,00",
+      "Rp 290.000,00",
+      "Rp 300.000,00",
+      "Rp 310.000,00",
+      "Rp 320.000,00"
+    ],
+    "answer": 2,
+    "explanation": "Harga Jual = Modal + (20% x Modal) = Rp 250.000 + Rp 50.000 = Rp 300.000,00."
+  },
+  {
+    "id": 325,
+    "category": "TIU",
+    "question": "Jika x = 20% dari 500 dan y = 50% dari 200, maka hubungan x dan y adalah... (Tipe Soal 6)",
+    "options": [
+      "x > y",
+      "x < y",
+      "x = y",
+      "2x = y",
+      "Hubungan tidak dapat ditentukan"
+    ],
+    "answer": 2,
+    "explanation": "x = 0,20 x 500 = 100. y = 0,50 x 200 = 100. Jadi x = y."
+  },
+  {
+    "id": 326,
+    "category": "TIU",
+    "question": "Sebuah bus melaju dari kota A ke kota B dengan kecepatan rata-rata 80 km/jam selama 2,5 jam. Jarak kedua kota tersebut adalah... (Tipe Soal 6)",
+    "options": [
+      "160 km",
+      "180 km",
+      "200 km",
+      "210 km",
+      "220 km"
+    ],
+    "answer": 2,
+    "explanation": "Jarak = Kecepatan x Waktu = 80 x 2,5 = 200 km."
+  },
+  {
+    "id": 327,
+    "category": "TIU",
+    "question": "Pekerjaan renovasi diselesaikan 15 orang dalam 20 hari. Jika dikerjakan oleh 25 orang, waktu yang dibutuhkan adalah... (Tipe Soal 6)",
+    "options": [
+      "10 hari",
+      "12 hari",
+      "14 hari",
+      "16 hari",
+      "18 hari"
+    ],
+    "answer": 1,
+    "explanation": "Perbandingan berbalik nilai: 15 x 20 = 25 x H -> 300 = 25H -> H = 12 hari."
+  },
+  {
+    "id": 328,
+    "category": "TIU",
+    "question": "GELAP : LAMPU = HAUS : ... (Tipe Soal 7)",
+    "options": [
+      "Lapar",
+      "Makanan",
+      "Air",
+      "Tenggorokan",
+      "Minum"
+    ],
+    "answer": 2,
+    "explanation": "Kondisi gelap diatasi dengan lampu; kondisi haus diatasi dengan air (benda pemenuh kebutuhan)."
+  },
+  {
+    "id": 329,
+    "category": "TIU",
+    "question": "KUMAN : PENYAKIT = API : ... (Tipe Soal 7)",
+    "options": [
+      "Abu",
+      "Panas",
+      "Kebakaran",
+      "Asap",
+      "Bahan bakar"
+    ],
+    "answer": 2,
+    "explanation": "Kuman menyebabkan timbulnya penyakit; api yang tak terkendali menyebabkan kebakaran (hubungan sebab-akibat fenomena)."
+  },
+  {
+    "id": 330,
+    "category": "TIU",
+    "question": "Semua bunga di taman beraroma wangi. Beberapa bunga di taman berwarna merah. Kesimpulan yang tepat adalah... (Tipe Soal 7)",
+    "options": [
+      "Semua bunga beraroma wangi berwarna merah",
+      "Beberapa bunga yang beraroma wangi tidak berada di taman",
+      "Beberapa bunga berwarna merah beraroma wangi",
+      "Tidak ada bunga berwarna merah yang tidak di taman",
+      "Semua bunga di taman berwarna merah"
+    ],
+    "answer": 2,
+    "explanation": "Karena semua bunga di taman beraroma wangi dan sebagian di antaranya berwarna merah, maka sebagian bunga berwarna merah tersebut beraroma wangi."
+  },
+  {
+    "id": 331,
+    "category": "TIU",
+    "question": "Jika hari hujan, maka jalanan licin. Hari ini jalanan tidak licin. Kesimpulan: (Tipe Soal 7)",
+    "options": [
+      "Hari ini hujan deras",
+      "Hari ini tidak hujan",
+      "Jalanan basah",
+      "Hujan reda",
+      "Tidak dapat disimpulkan"
+    ],
+    "answer": 1,
+    "explanation": "Modus Tollens: p -> q, ~q, maka kesimpulannya ~p (Hari ini tidak hujan)."
+  },
+  {
+    "id": 332,
+    "category": "TIU",
+    "question": "3,   8,   15,   24,   35,   ... (Tipe Soal 7)",
+    "options": [
+      "46",
+      "47",
+      "48",
+      "49",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "Pola beda bertingkat: +5, +7, +9, +11, maka berikutnya +13 -> 35 + 13 = 48 (atau pola n(n+2): 1x3, 2x4, 3x5, 4x6, 5x7, 6x8=48)."
+  },
+  {
+    "id": 333,
+    "category": "TIU",
+    "question": "2,   3,   6,   7,   14,   15,   ... (Tipe Soal 7)",
+    "options": [
+      "28",
+      "30",
+      "31",
+      "29",
+      "32"
+    ],
+    "answer": 1,
+    "explanation": "Pola selang-seling operasi: (+1, x2, +1, x2, +1, x2). Maka 15 x 2 = 30."
+  },
+  {
+    "id": 334,
+    "category": "TIU",
+    "question": "Budi membeli sepatu seharga Rp 250.000,00 kemudian menjualnya kembali dengan keuntungan 20%. Harga jual sepatu tersebut adalah... (Tipe Soal 7)",
+    "options": [
+      "Rp 280.000,00",
+      "Rp 290.000,00",
+      "Rp 300.000,00",
+      "Rp 310.000,00",
+      "Rp 320.000,00"
+    ],
+    "answer": 2,
+    "explanation": "Harga Jual = Modal + (20% x Modal) = Rp 250.000 + Rp 50.000 = Rp 300.000,00."
+  },
+  {
+    "id": 335,
+    "category": "TIU",
+    "question": "Jika x = 20% dari 500 dan y = 50% dari 200, maka hubungan x dan y adalah... (Tipe Soal 7)",
+    "options": [
+      "x > y",
+      "x < y",
+      "x = y",
+      "2x = y",
+      "Hubungan tidak dapat ditentukan"
+    ],
+    "answer": 2,
+    "explanation": "x = 0,20 x 500 = 100. y = 0,50 x 200 = 100. Jadi x = y."
+  },
+  {
+    "id": 336,
+    "category": "TIU",
+    "question": "Sebuah bus melaju dari kota A ke kota B dengan kecepatan rata-rata 80 km/jam selama 2,5 jam. Jarak kedua kota tersebut adalah... (Tipe Soal 7)",
+    "options": [
+      "160 km",
+      "180 km",
+      "200 km",
+      "210 km",
+      "220 km"
+    ],
+    "answer": 2,
+    "explanation": "Jarak = Kecepatan x Waktu = 80 x 2,5 = 200 km."
+  },
+  {
+    "id": 337,
+    "category": "TIU",
+    "question": "Pekerjaan renovasi diselesaikan 15 orang dalam 20 hari. Jika dikerjakan oleh 25 orang, waktu yang dibutuhkan adalah... (Tipe Soal 7)",
+    "options": [
+      "10 hari",
+      "12 hari",
+      "14 hari",
+      "16 hari",
+      "18 hari"
+    ],
+    "answer": 1,
+    "explanation": "Perbandingan berbalik nilai: 15 x 20 = 25 x H -> 300 = 25H -> H = 12 hari.\nBAGIAN III: TES KARAKTERISTIK PRIBADI (TKP) - NOMOR 141 s.d. 210"
+  },
+  {
+    "id": 338,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda...",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 339,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda...",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 340,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda...",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 341,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda...",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 342,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda...",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 343,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 2)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 344,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 2)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 345,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 2)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 346,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 2)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 347,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 2)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 348,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 3)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 349,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 3)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 350,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 3)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 351,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 3)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 352,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 3)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 353,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 4)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 354,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 4)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 355,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 4)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 356,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 4)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 357,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 4)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 358,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 5)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 359,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 5)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 360,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 5)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 361,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 5)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 362,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 5)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 363,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 6)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 364,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 6)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 365,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 6)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 366,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 6)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 367,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 6)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 368,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 7)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 369,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 7)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 370,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 7)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 371,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 7)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 372,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 7)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 373,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 8)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 374,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 8)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 375,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 8)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 376,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 8)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 377,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 8)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 378,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 9)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 379,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 9)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 380,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 9)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 381,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 9)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 382,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 9)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 383,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 10)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 384,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 10)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 385,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 10)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 386,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 10)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 387,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 10)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 388,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 11)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 389,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 11)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 390,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 11)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 391,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 11)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 392,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 11)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 393,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 12)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 394,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 12)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 395,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 12)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 396,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 12)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 397,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 12)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 398,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 13)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 399,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 13)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 400,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 13)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 401,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 13)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 402,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 13)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 403,
+    "category": "TKP",
+    "question": "Ketika antrean loket pelayanan penuh sesak, seorang ibu hamil tampak kesulitan berdiri. Tindakan Anda... (Studi Kasus 14)",
+    "options": [
+      "Memprioritaskan pelayanan untuk ibu hamil tersebut sesuai SOP pelayanan kelompok rentan dan memberikan tempat duduk khusus",
+      "Menawarkan kursi staf kepada ibu hamil tersebut sambil menunggu giliran antrean nomornya",
+      "Meminta nomor antrean warga lain ditukar dengan nomor antrean ibu hamil tersebut",
+      "Menyarankannya datang lagi esok hari saat antrean tidak terlalu padat",
+      "Tetap memanggil antrean secara kaku sesuai urutan nomor tanpa diskresi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 404,
+    "category": "TIU",
+    "question": "Kantor Anda meluncurkan portal presensi wajah digital, namun beberapa kali wajah Anda tidak terdeteksi. Sikap Anda... (Studi Kasus 14)",
+    "options": [
+      "Melaporkan kendala teknis spesifik ke bagian kepegawaian/IT dan meminta verifikasi absensi manual resmi sementara waktu",
+      "Mencoba terus memindai wajah berkali-kali hingga berhasil meskipun terlambat masuk kerja",
+      "Meminta rekan kerja menandatangani absensi untuk mewakili Anda",
+      "Mengeluhkan aplikasi presensi yang dianggap mempersulit pegawai di grup media sosial",
+      "Pulang kembali ke rumah karena merasa presensi tidak valid"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 405,
+    "category": "TKP",
+    "question": "Anda diminta mengerjakan proyek yang harus selesai besok, tetapi dokumen penunjang dari divisi lain belum lengkap. Tindakan Anda... (Studi Kasus 14)",
+    "options": [
+      "Segera berkoordinasi langsung secara proaktif dengan divisi terkait untuk menjemput data yang dibutuhkan demi ketepatan tenggat",
+      "Mengerjakan bagian yang ada terlebih dahulu sembari menunggu bagian lain mengirimkan data",
+      "Melaporkan kepada pimpinan bahwa pekerjaan terhambat murni akibat kelalaian divisi lain",
+      "Menunggu dokumen lengkap secara pasif baru mulai bekerja",
+      "Menghentikan proyek tersebut karena merasa bukan tanggung jawab Anda melengkapi data"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 406,
+    "category": "TKP",
+    "question": "Dalam sebuah kepanitiaan, rekan kerja Anda tidak menyelesaikan tugasnya sehingga menghambat tim. Sikap Anda... (Studi Kasus 14)",
+    "options": [
+      "Mengajaknya berdialog secara empatik untuk menanyakan kendala yang dihadapi dan menawarkan bantuan penyelesaian bersama",
+      "Membantu mengambil alih seluruh pekerjaannya secara diam-diam demi kelancaran acara",
+      "Melaporkan ketidakmampuan rekan tersebut langsung ke ketua panitia agar ditegur keras",
+      "Menyindir perilakunya di depan seluruh anggota panitia agar ia merasa bersalah",
+      "Membiarkannya agar ia menanggung sendiri sanksi kelalaian dari atasan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN."
+  },
+  {
+    "id": 407,
+    "category": "TWK",
+    "question": "Di lingkungan perumahan tempat tinggal Anda, terdapat sekelompok warga yang mengajak untuk menolak pemilu dan mengecam dasar negara. Sikap Anda... (Studi Kasus 14)",
+    "options": [
+      "Menolak ajakan tersebut secara tegas, mengedukasi warga sekitar, dan berkoordinasi dengan pengurus RT/RW serta Babinkamtibmas",
+      "Menghindari kelompok tersebut dan memilih tidak bergaul demi keamanan pribadi",
+      "Mendengarkan gagasan mereka tanpa memberi sanggahan agar tidak timbul konflik",
+      "Mendebat mereka secara emosional di ruang publik tanpa melibatkan aparatur wilayah",
+      "Mengikuti pertemuan mereka karena rasa penasaran semata"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN.\nTABEL AMBANG BATAS & SKOR KELULUSAN SKD RESMI\nMateri SKD\nSoal Resmi Ujian\nSistem Penilaian\nAmbang Batas\nNilai Maksimal\nTWK\n30 Soal\nBenar = 5, Salah/Kosong = 0\n65 Poin\n150 Poin\nTIU\n35 Soal\nBenar = 5, Salah/Kosong = 0\n80 Poin\n175 Poin\nTKP\n45 Soal\nSkor 1 sampai 5\n166 Poin\n225 Poin"
   }
 ]

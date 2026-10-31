@@ -2938,5 +2938,285 @@
     "answer": 0,
     "explanation": "Opsi A paling tepat karena responsif, berintegritas tinggi, dan sesuai nilai ASN.\nTABEL AMBANG BATAS & SKOR KELULUSAN SKD RESMI\nMateri SKD\nSoal Resmi Ujian\nSistem Penilaian\nAmbang Batas\nNilai Maksimal\nTWK\n30 Soal\nBenar = 5, Salah/Kosong = 0\n65 Poin\n150 Poin\nTIU\n35 Soal\nBenar = 5, Salah/Kosong = 0\n80 Poin\n175 Poin\nTKP\n45 Soal\nSkor 1 sampai 5\n166 Poin\n225 Poin",
     "id": 210
+  },
+  {
+    "id": 211,
+    "category": "TWK",
+    "question": "Dalam sidang BPUPK pertama tanggal 1 Juni 1945, Ir. Soekarno menyampaikan usulan dasar negara yang dapat diperas menjadi Trisila dan Ekasila. Nilai yang terkandung dalam Ekasila adalah...",
+    "options": [
+      "Musyawarah",
+      "Keadilan",
+      "Gotong Royong",
+      "Ketuhanan yang Berkebudayaan",
+      "Sosio-Nasionalisme"
+    ],
+    "answer": 2,
+    "explanation": "Ir. Soekarno mengusulkan 5 asas dasar negara yang bila diperas menjadi Trisila (Sosio-Nasionalisme, Sosio-Demokrasi, Ketuhanan), dan bila diperas lagi menjadi Ekasila yaitu 'Gotong Royong'."
+  },
+  {
+    "id": 212,
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 7B UUD NRI 1945, usul pemberhentian Presiden dan/atau Wakil Presiden oleh DPR diajukan terlebih dahulu ke Mahkamah Konstitusi hanya setelah didukung oleh...",
+    "options": [
+      "Sekurang-kurangnya 1/2 jumlah anggota DPR yang hadir dalam sidang paripurna",
+      "Sekurang-kurangnya 2/3 dari jumlah anggota DPR yang hadir dalam sidang paripurna yang dihadiri oleh sekurang-kurangnya 2/3 dari jumlah anggota DPR",
+      "Seluruh fraksi di DPR secara mufakat bulat tanpa ada yang abstain",
+      "Persetujuan bersama antara pimpinan DPR dan Dewan Perwakilan Daerah (DPD)",
+      "Sekurang-kurangnya 3/4 dari total seluruh anggota DPR terdaftar"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 7B ayat (3) UUD 1945: Pengajuan permintaan DPR kepada Mahkamah Konstitusi hanya dapat dilakukan dengan dukungan sekurang-kurangnya 2/3 dari jumlah anggota DPR yang hadir dalam sidang paripurna yang dihadiri oleh sekurang-kurangnya 2/3 dari jumlah anggota DPR."
+  },
+  {
+    "id": 213,
+    "category": "TWK",
+    "question": "Lembaga negara mandiri yang berwenang memeriksa pengelolaan dan tanggung jawab tentang keuangan negara dan menyerahkan hasil pemeriksaannya kepada DPR, DPD, dan DPRD adalah...",
+    "options": [
+      "Komisi Pemberantasan Korupsi (KPK)",
+      "Badan Pengawasan Keuangan dan Pembangunan (BPKP)",
+      "Badan Pemeriksa Keuangan (BPK)",
+      "Otoritas Jasa Keuangan (OJK)",
+      "Inspektorat Jenderal Kementerian Keuangan"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan Pasal 23E UUD 1945, Badan Pemeriksa Keuangan (BPK) adalah lembaga konstitusional independen pengaudit keuangan negara yang melaporkan hasilnya kepada lembaga perwakilan rakyat (DPR, DPD, DPRD)."
+  },
+  {
+    "id": 214,
+    "category": "TWK",
+    "question": "Sistem Pertahanan dan Keamanan Rakyat Semesta (Sishankamrata) di Indonesia menempatkan Tentara Nasional Indonesia (TNI) dan Kepolisian Negara RI (Polri) sebagai...",
+    "options": [
+      "Kekuatan pendukung dan logistik",
+      "Kekuatan utama pertahanan dan keamanan",
+      "Komponen cadangan strategis",
+      "Komponen pengganti kekuatan sipil",
+      "Pengawas ketertiban daerah administratif"
+    ],
+    "answer": 1,
+    "explanation": "Sesuai Pasal 30 ayat (2) UUD 1945, TNI dan Polri berkedudukan sebagai kekuatan utama, sedangkan rakyat berfungsi sebagai kekuatan pendukung dalam Sishankamrata."
+  },
+  {
+    "id": 215,
+    "category": "TWK",
+    "question": "Deklarasi Djuanda yang dicetuskan pada tanggal 13 Desember 1957 memiliki arti penting luar biasa bagi kedaulatan maritim wilayah Republik Indonesia karena...",
+    "options": [
+      "Mengakui lebar laut teritorial Indonesia sejauh 3 mil dari garis air rendah sesuai aturan kolonial Belanda",
+      "Menetapkan bahwa seluruh perairan di sekitar, di antara, dan yang menghubungkan pulau-pulau Republik Indonesia adalah bagian mutlak wilayah kedaulatan negara",
+      "Membuka seluruh selat pedalaman secara bebas tanpa pengawasan militer untuk kapal dagang asing",
+      "Menyerahkan kepemilikan landas kontinen kepada pengawasan Dewan Keamanan PBB",
+      "Menghentikan klaim batas wilayah laut dengan negara-negara anggota ASEAN"
+    ],
+    "answer": 1,
+    "explanation": "Deklarasi Djuanda merombak Territoriale Zee en Maritieme Kringen Ordonnantie 1939 (lebar 3 mil dari pulau) dan menetapkan konsep negara kepulauan (Archipelagic State), di mana batas laut teritorial menjadi 12 mil diukur dari garis lurus yang menghubungkan titik-titik terluar pulau."
+  },
+  {
+    "id": 216,
+    "category": "TWK",
+    "question": "Konjungsi korelatif digunakan secara tepat pada kalimat...",
+    "options": [
+      "Baik peserta tes maupun pengawas ujian dilarang meninggalkan ruangan sebelum waktu berakhir.",
+      "Bukan hanya kemampuan akademik yang dinilai, melainkan juga sikap perilakunya.",
+      "Tidak hanya cerdas, tetapi ia juga sangat santun terhadap siapapun.",
+      "Jangankan mobil mewah, bahkan sepeda motor pun ia tidak memilikinya.",
+      "Antara kemauan serta kemampuan harus senantiasa seimbang."
+    ],
+    "answer": 0,
+    "explanation": "Pasangan konjungsi korelatif baku menurut kaidah PUEBI adalah 'baik ... maupun ...'. Pilihan B salah karena 'bukan hanya' berpasangan dengan 'tetapi juga' (sedangkan 'bukan' berpasangan dengan 'melainkan')."
+  },
+  {
+    "id": 217,
+    "category": "TWK",
+    "question": "Sembilan nilai integritas antikorupsi yang dirumuskan oleh KPK terbagi dalam tiga kelompok nilai: Nilai Inti, Nilai Kerja, dan Nilai Sikap. Yang termasuk ke dalam kelompok Nilai Inti adalah...",
+    "options": [
+      "Jujur, Tanggung Jawab, dan Disiplin",
+      "Mandiri, Kerja Keras, dan Sederhana",
+      "Berani, Peduli, dan Adil",
+      "Tanggung Jawab, Adil, dan Mandiri",
+      "Jujur, Berani, dan Peduli"
+    ],
+    "answer": 0,
+    "explanation": "Klasifikasi 9 nilai integritas KPK: Nilai Inti = Jujur, Tanggung Jawab, Disiplin (Jumat Bersepeda KK / Jujur, Tanggung jawab, Disiplin). Nilai Kerja = Mandiri, Kerja Keras, Sederhana. Nilai Sikap = Berani, Peduli, Adil.\nBAGIAN II: SOAL LATIHAN BARU - TES INTELIGENSIA UMUM (TIU)"
+  },
+  {
+    "id": 218,
+    "category": "TIU",
+    "question": "Semua ilmuwan berpikir kritis.Sebagian aktivis sosial adalah ilmuwan.Tidak ada aktivis sosial yang bersikap apatis.Kesimpulan yang paling tepat adalah...",
+    "options": [
+      "Semua yang berpikir kritis bukan aktivis sosial",
+      "Sebagian aktivis sosial yang berpikir kritis tidak bersikap apatis",
+      "Semua aktivis sosial berpikir kritis",
+      "Sebagian ilmuwan bersikap apatis",
+      "Semua yang tidak bersikap apatis adalah ilmuwan"
+    ],
+    "answer": 1,
+    "explanation": "Karena sebagian aktivis sosial adalah ilmuwan, dan semua ilmuwan berpikir kritis, maka sebagian aktivis sosial itu berpikir kritis. Ditambah premis tidak ada aktivis sosial yang apatis, maka sebagian aktivis sosial yang berpikir kritis tersebut tidak bersikap apatis."
+  },
+  {
+    "id": 219,
+    "category": "TIU",
+    "question": "Tentukan dua elemen berikutnya dari deret kombinasi: B, 4, D, 8, G, 16, K, 32, ...",
+    "options": [
+      "P, 64",
+      "O, 48",
+      "P, 48",
+      "N, 64",
+      "Q, 64"
+    ],
+    "answer": 0,
+    "explanation": "Deret huruf: B (2) -> D (4) [+2] -> G (7) [+3] -> K (11) [+4] -> berikutnya [+5] = P (16). Deret angka: 4, 8, 16, 32 -> dikali 2, berikutnya 32 x 2 = 64. Jadi elemen berikutnya adalah P, 64."
+  },
+  {
+    "id": 220,
+    "category": "TIU",
+    "question": "Hasil ujian dari lima orang calon pegawai adalah sebagai berikut:- Nilai Galih lebih tinggi daripada Nilai Fajar, namun lebih rendah daripada Nilai Hendra.- Nilai Jaka lebih tinggi daripada Nilai Hendra.- Nilai Ikhsan berada di antara Nilai Fajar dan Nilai Galih.Siapakah yang menempati peringkat ketiga nilai tertinggi?",
+    "options": [
+      "Hendra",
+      "Jaka",
+      "Galih",
+      "Ikhsan",
+      "Fajar"
+    ],
+    "answer": 2,
+    "explanation": "Urutan peringkat dari nilai tertinggi ke terendah:1. Jaka > Hendra > Galih > Fajar2. Ikhsan di antara Fajar dan Galih: Galih > Ikhsan > Fajar3. Maka urutan lengkap: Jaka (1) > Hendra (2) > Galih (3) > Ikhsan (4) > Fajar (5).Peringkat ketiga adalah Galih."
+  },
+  {
+    "id": 221,
+    "category": "TIU",
+    "question": "Pipa A dapat mengisi sebuah tandon air hingga penuh dalam waktu 6 jam. Pipa B dapat mengisinya hingga penuh dalam waktu 3 jam. Jika kedua pipa dibuka secara bersamaan sejak awal, berapa lama waktu yang dibutuhkan hingga tandon tersebut terisi penuh?",
+    "options": [
+      "1,5 jam",
+      "2 jam",
+      "2,5 jam",
+      "4 jam",
+      "4,5 jam"
+    ],
+    "answer": 1,
+    "explanation": "Kecepatan pipa A = 1/6 tandon/jam. Kecepatan pipa B = 1/3 tandon/jam. Kecepatan gabungan = 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2 tandon/jam. Waktu = 1 / (1/2) = 2 jam."
+  },
+  {
+    "id": 222,
+    "category": "TIU",
+    "question": "Dari 7 orang staf pelaksana yang memenuhi kualifikasi, pimpinan unit akan memilih 3 orang untuk membentuk tim verifikasi berkas CPNS. Berapakah banyak cara susunan tim yang dapat dibentuk?",
+    "options": [
+      "21 cara",
+      "35 cara",
+      "42 cara",
+      "70 cara",
+      "210 cara"
+    ],
+    "answer": 1,
+    "explanation": "Pemilihan anggota tim tanpa memperhatikan urutan jabatan menggunakan kombinasi:C(7, 3) = 7! / (3! x (7-3)!) = (7 x 6 x 5) / (3 x 2 x 1) = 210 / 6 = 35 cara."
+  },
+  {
+    "id": 223,
+    "category": "TIU",
+    "question": "Jika (x - y) = 5 dan xy = 14, maka nilai dari x^2 + y^2 adalah...",
+    "options": [
+      "39",
+      "45",
+      "53",
+      "60",
+      "67"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan identitas aljabar: (x - y)^2 = x^2 - 2xy + y^2.Maka: x^2 + y^2 = (x - y)^2 + 2xy = (5)^2 + 2(14) = 25 + 28 = 53."
+  },
+  {
+    "id": 224,
+    "category": "TIU",
+    "question": "Sebanyak 40 liter larutan alkohol dengan kadar 30% dicampur dengan 60 liter larutan alkohol dengan kadar 50%. Berapakah persentase konsentrasi alkohol dalam larutan campuran tersebut?",
+    "options": [
+      "38%",
+      "40%",
+      "42%",
+      "44%",
+      "45%"
+    ],
+    "answer": 2,
+    "explanation": "Alkohol dari larutan 1 = 30% x 40 = 12 liter.Alkohol dari larutan 2 = 50% x 60 = 30 liter.Total volume larutan = 40 + 60 = 100 liter.Total alkohol murni = 12 + 30 = 42 liter.Kadar campuran = 42 / 100 x 100% = 42%.\nBAGIAN III: SOAL LATIHAN BARU - TES KARAKTERISTIK PRIBADI (TKP)"
+  },
+  {
+    "id": 225,
+    "category": "TKP",
+    "question": "Seorang warga penyandang disabilitas tuna rungu datang ke meja konsultasi perizinan usaha. Petugas pendamping khusus bahasa isyarat sedang dinas luar kota dan antrean di loket Anda sedang cukup padat. Tindakan yang Anda lakukan adalah...",
+    "options": [
+      "Menyambut warga dengan ramah, memanfaatkan media tulis atau aplikasi pengetik teks di komputer/gawai untuk berkomunikasi secara jelas dan sabar hingga tuntas",
+      "Menghubungi petugas bahasa isyarat melalui panggilan video konferensi agar dapat menerjemahkan langsung ke warga",
+      "Meminta warga tersebut menunggu hingga rekan kerja lain yang luang dapat mencoba membantu",
+      "Menyarankan warga tersebut membawa pendamping keluarga yang paham bahasa isyarat pada kunjungan berikutnya",
+      "Memberikan pamflet prosedur perizinan dan mempersilakannya membaca sendiri tanpa panduan lebih lanjut"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat untuk TKP."
+  },
+  {
+    "id": 226,
+    "category": "TKP",
+    "question": "Anda ditugaskan mewakili dinas Anda dalam program integrasi satu data daerah dengan instansi vertikal lain. Dalam rapat teknis, perwakilan instansi lain menolak membagikan basis datanya dengan alasan format aplikasi yang berbeda dan birokrasi internal yang kaku. Sikap Anda adalah...",
+    "options": [
+      "Mengajak musyawarah dengan menyusun formulasi integrasi data bertahap, menawarkan format konversi yang disepakati bersama, serta memaparkan manfaat sinergi bagi publik",
+      "Melaporkan penolakan tersebut kepada pimpinan dinas agar pimpinan yang menyelesaikan di level antar-kepala instansi",
+      "Mengalah dan hanya menggunakan data yang sudah siap tanpa memaksakan integrasi penuh",
+      "Mengkritik sikap instansi tersebut di hadapan pimpinan rapat karena dinilai menghambat instruksi kepala daerah",
+      "Menyudahi pertemuan karena merasa kerja sama tidak akan bisa berjalan jika salah satu pihak tidak kooperatif"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat untuk TKP."
+  },
+  {
+    "id": 227,
+    "category": "TKP",
+    "question": "Hasil evaluasi kinerja semester ini menunjukkan nilai capaian SKP Anda berada di bawah ekspektasi atasan baru, padahal Anda merasa sudah bekerja lembur dan menyelesaikan tugas sesuai target. Anda mengetahui atasan baru tersebut menerapkan metode evaluasi yang lebih ketat. Sikap Anda adalah...",
+    "options": [
+      "Menerima hasil tersebut dengan lapang dada, meminta sesi bimbingan/umpan balik langsung dari atasan untuk mengetahui titik kelemahan, lalu merancang target perbaikan terukur",
+      "Mengajak diskusi rekan kerja berprestasi tinggi untuk mempelajari pola kerja dan standar yang disukai atasan baru",
+      "Tetap bekerja seperti biasa karena merasa metode evaluasi atasan baru terlalu subjektif",
+      "Menunjukkan rasa kecewa dengan mengajukan mutasi ke unit kerja yang memiliki atasan lebih pengertian",
+      "Mengeluhkan standar penilaian atasan tersebut di belakang punggungnya kepada rekan sejawat"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat untuk TKP."
+  },
+  {
+    "id": 228,
+    "category": "TKP",
+    "question": "Pemerintah pusat menerapkan sistem absensi mobile berbasis pelacakan lokasi GPS yang sangat akurat. Beberapa pegawai mengeluhkan baterai ponsel cepat habis dan merasa privasi gerak-gerik mereka terawasi berlebihan saat jam dinas. Sikap Anda adalah...",
+    "options": [
+      "Mematuhi regulasi penggunaan aplikasi secara penuh, mengoptimalkan pengelolaan daya ponsel, dan memberikan pemahaman positif ke rekan bahwa ini bentuk transparansi kinerja ASN",
+      "Menggunakan aplikasi hanya saat tiba di kantor dan langsung menonaktifkannya saat jam kerja berlangsung",
+      "Mengusulkan kepada bagian umum agar disediakan ponsel dinas khusus untuk aplikasi absensi",
+      "Ikut menandatangani petisi penolakan aplikasi absensi berbasis GPS",
+      "Mencari aplikasi fake GPS agar lokasi dapat dimanipulasi tanpa terdeteksi"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat untuk TKP."
+  },
+  {
+    "id": 229,
+    "category": "TKP",
+    "question": "Anda dimutasikan ke kantor unit perbatasan pulau terluar dengan adat dan norma adat lokal yang masih sangat kuat. Salah satu kebiasaan warga lokal saat mengurus pelayanan adalah membawa persembahan sirih dan pangan tradisional sebagai simbol penghormatan budaya. Sikap Anda...",
+    "options": [
+      "Menerima simbol adat tersebut dengan rasa hormat sesuai tradisi lokal sebagai tali persaudaraan, tanpa meminta imbalan dan tetap memberikan pelayanan terbaik secara netral",
+      "Menolak pemberian tersebut secara keras karena khawatir dianggap gratifikasi",
+      "Menerima pemberian dan kemudian memberikan uang balasan dalam jumlah yang sama kepada warga",
+      "Menghindari melayani warga yang membawa simbol adat tersebut",
+      "Meminta pimpinan kantor untuk membuat spanduk pelarangan tradisi adat tersebut di kantor pelayanan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat untuk TKP."
+  },
+  {
+    "id": 230,
+    "category": "TKP",
+    "question": "Seorang kenalan baru di lingkungan perumahan mengundang Anda menghadiri kajian eksklusif tertutup. Ketika Anda hadir di sesi awal, pemateri mulai mendoktrin peserta untuk tidak mengakui hukum negara Republik Indonesia dan tidak menghormati bendera merah putih. Sikap Anda...",
+    "options": [
+      "Memutuskan segera meninggalkan forum tersebut secara tegas dan sopan, menjaga jarak, serta melaporkan indikasi doktrin inkonstitusional kepada aparat keamanan lingkungan setempat",
+      "Tetap duduk diam mengikuti acara hingga selesai lalu memutuskan tidak akan datang lagi",
+      "Merekam kajian secara diam-diam dan menyebarkannya ke status WhatsApp tanpa analisis hukum",
+      "Mendebat pemateri secara keras di dalam ruangan tersebut seorang diri",
+      "Mengabaikan materi doktrin dan tetap bergaul akrab karena menghargai pertemanan"
+    ],
+    "answer": 0,
+    "explanation": "Opsi A paling tepat untuk TKP."
   }
 ]

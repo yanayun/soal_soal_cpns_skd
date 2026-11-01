@@ -8818,5 +8818,2805 @@
     "answer": 0,
     "explanation": "Paling menunjukkan sikap ASN BerAKHLAK (responsif, solutif, dan profesional).",
     "id": 630
+  },
+  {
+    "category": "TWK",
+    "question": "Prinsip politik luar negeri Indonesia yang 'Bebas dan Aktif' pertama kali dikemukakan oleh Drs. Mohammad Hatta dalam pidatonya yang berjudul...",
+    "options": [
+      "Menembus Tirai Besi",
+      "Mendayung di Antara Dua Karang",
+      "Indonesia Menggugat",
+      "Menuju Indonesia Merdeka",
+      "Di Bawah Bendera Revolusi"
+    ],
+    "answer": 1,
+    "explanation": "Konsep dasar politik luar negeri bebas aktif dirumuskan oleh Mohammad Hatta pada pidato di depan BP KNIP tanggal 2 September 1948 berjudul 'Mendayung di Antara Dua Karang'.",
+    "id": 631
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 31 ayat (4) UUD NRI 1945, negara memprioritaskan anggaran pendidikan sekurang-kurangnya berapa persen dari APBN dan APBD untuk memenuhi kebutuhan penyelenggaraan pendidikan nasional?",
+    "options": [
+      "10 persen",
+      "15 persen",
+      "20 persen",
+      "25 persen",
+      "30 persen"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 31 ayat (4) UUD 1945 secara tegas menyatakan bahwa negara memprioritaskan anggaran pendidikan sekurang-kurangnya dua puluh persen (20%) dari APBN serta dari APBD.",
+    "id": 632
+  },
+  {
+    "category": "TWK",
+    "question": "Pertempuran Palagan Ambarawa yang dipimpin oleh Kolonel Soedirman pada 12-15 Desember 1945 berhasil memukul mundur Sekutu dan kini diabadikan sebagai peringatan Hari...",
+    "options": [
+      "Pahlawan",
+      "Juang Kartika (Hari TNI AD)",
+      "Bhayangkara",
+      "Kebangkitan Nasional",
+      "Bela Negara"
+    ],
+    "answer": 1,
+    "explanation": "Kemenangan taktis dalam Palagan Ambarawa pada 15 Desember 1945 diabadikan sebagai Hari Infanteri / Hari Juang Kartika TNI Angkatan Darat.",
+    "id": 633
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 22D UUD NRI 1945, kewenangan Dewan Perwakilan Daerah (DPD) dalam proses legislasi mencakup hal-hal yang berkaitan dengan...",
+    "options": [
+      "Pengesahan perjanjian internasional dan pengangkatan duta",
+      "Otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah",
+      "Pemberian abolisi, amnesti, dan rehabilitasi hukum",
+      "Menetapkan Anggaran Pendapatan dan Belanja Negara secara mandiri",
+      "Memilih Ketua dan Wakil Ketua Mahkamah Agung"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 22D ayat (1) menyatakan DPD dapat mengajukan RUU yang berkaitan dengan otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah, pengelolaan SDA, dan perimbangan keuangan pusat-daerah.",
+    "id": 634
+  },
+  {
+    "category": "TWK",
+    "question": "Sesuai UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara, warga negara yang telah menyelesaikan pelatihan dasar militer secara sukarela dan ditetapkan oleh Menteri Pertahanan digolongkan ke dalam...",
+    "options": [
+      "Komponen Utama",
+      "Komponen Cadangan",
+      "Komponen Pendukung",
+      "Milisi Daerah Otonom",
+      "Pasukan Khusus Sipil"
+    ],
+    "answer": 1,
+    "explanation": "Komponen Cadangan (Komcad) disiapkan untuk dikerahkan melalui mobilisasi guna memperbesar dan memperkuat kekuatan dan kemampuan Komponen Utama (TNI).",
+    "id": 635
+  },
+  {
+    "category": "TWK",
+    "question": "Tindakan melawan hukum memperkaya diri sendiri atau orang lain atau suatu korporasi yang dapat merugikan keuangan negara atau perekonomian negara diatur dalam UU Pemberantasan Tindak Pidana Korupsi Pasal...",
+    "options": [
+      "Pasal 2 ayat (1)",
+      "Pasal 5 ayat (1)",
+      "Pasal 11",
+      "Pasal 12 huruf b",
+      "Pasal 13"
+    ],
+    "answer": 0,
+    "explanation": "Pasal 2 ayat (1) UU No. 31/1999 jo UU No. 20/2001 mengatur delik formil perbuatan melawan hukum memperkaya diri/korporasi yang merugikan keuangan/perekonomian negara.",
+    "id": 636
+  },
+  {
+    "category": "TWK",
+    "question": "Proses penyesuaian unsur-unsur kebudayaan yang berbeda sehingga menghasilkan suatu pola kehidupan baru yang serasi fungsinya dalam masyarakat dinamakan...",
+    "options": [
+      "Enkulturasi",
+      "Akulturasi",
+      "Akomodasi",
+      "Asimilasi",
+      "Integrasi kebudayaan"
+    ],
+    "answer": 1,
+    "explanation": "Akulturasi adalah percampuran dua kebudayaan atau lebih yang saling bertemu tanpa menghilangkan unsur kepribadian asli kebudayaan masing-masing.",
+    "id": 637
+  },
+  {
+    "category": "TWK",
+    "question": "Menurut teori jenjang norma (*Stufentheorie*) dari Hans Kelsen dan Hans Nawiasky, kedudukan Pancasila dalam tata urutan norma hukum Indonesia adalah sebagai...",
+    "options": [
+      "Staatsgrundgesetz (Aturan Dasar / Pokok Negara)",
+      "Formell Gesetz (Undang-Undang Formal)",
+      "Staatsfundamentalnorm (Norma Fundamental Negara)",
+      "Autonome Satzung (Aturan Pelaksana Otonom)",
+      "Verordnung (Peraturan Pemerintah)"
+    ],
+    "answer": 2,
+    "explanation": "Pancasila menempati tingkatan tertinggi sebagai Staatsfundamentalnorm (norma fundamental negara) yang menjadi dasar validitas bagi pembentukan peraturan hukum di bawahnya.",
+    "id": 638
+  },
+  {
+    "category": "TWK",
+    "question": "Kalimat majemuk bertingkat dengan anak kalimat pengganti keterangan waktu terdapat pada kalimat...",
+    "options": [
+      "Pejabat itu membantah bahwa dirinya menerima gratifikasi.",
+      "Ketika sirene tanda evakuasi berbunyi, seluruh pegawai bergegas menuju titik kumpul.",
+      "Rapat ditunda karena pimpinan sedang menghadiri sidang kabinet paripurna.",
+      "Meskipun cuaca buruk, kapal penyeberangan tetap beroperasi normal.",
+      "Pemerintah memberikan bantuan modal agar pelaku UMKM dapat memperluas usahanya."
+    ],
+    "answer": 1,
+    "explanation": "Klausa 'Ketika sirene tanda evakuasi berbunyi' diawali konjungsi subordinatif temporal 'ketika', sehingga berfungsi sebagai anak kalimat keterangan waktu.",
+    "id": 639
+  },
+  {
+    "category": "TWK",
+    "question": "Keputusan membumihanguskan Kota Bandung bagian selatan pada 24 Maret 1946 diambil oleh para pejuang kemerdekaan dengan tujuan...",
+    "options": [
+      "Menghukum warga yang bekerja sama dengan tentara Sekutu",
+      "Menghancurkan instalasi industri tekstil milik pengusaha asing",
+      "Mencegah tentara Sekutu dan NICA menggunakan Bandung sebagai markas strategis militer",
+      "Mengalihkan konsentrasi Sekutu agar pasukan Jawa Tengah dapat menyerbu Surabaya",
+      "Membuka jalur pelarian bagi anggota kabinet pemerintahan daerah"
+    ],
+    "answer": 2,
+    "explanation": "Taktik bumi hangus Bandung Lautan Api diputuskan oleh TRI dan pejuang agar infrastruktur serta gedung-gedung vital tidak dapat dimanfaatkan Sekutu dan NICA sebagai pos komando perang.",
+    "id": 640
+  },
+  {
+    "category": "TWK",
+    "question": "Prinsip politik luar negeri Indonesia yang 'Bebas dan Aktif' pertama kali dikemukakan oleh Drs. Mohammad Hatta dalam pidatonya yang berjudul... (Paket Latihan 2)",
+    "options": [
+      "Menembus Tirai Besi",
+      "Mendayung di Antara Dua Karang",
+      "Indonesia Menggugat",
+      "Menuju Indonesia Merdeka",
+      "Di Bawah Bendera Revolusi"
+    ],
+    "answer": 1,
+    "explanation": "Konsep dasar politik luar negeri bebas aktif dirumuskan oleh Mohammad Hatta pada pidato di depan BP KNIP tanggal 2 September 1948 berjudul 'Mendayung di Antara Dua Karang'.",
+    "id": 641
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 31 ayat (4) UUD NRI 1945, negara memprioritaskan anggaran pendidikan sekurang-kurangnya berapa persen dari APBN dan APBD untuk memenuhi kebutuhan penyelenggaraan pendidikan nasional? (Paket Latihan 2)",
+    "options": [
+      "10 persen",
+      "15 persen",
+      "20 persen",
+      "25 persen",
+      "30 persen"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 31 ayat (4) UUD 1945 secara tegas menyatakan bahwa negara memprioritaskan anggaran pendidikan sekurang-kurangnya dua puluh persen (20%) dari APBN serta dari APBD.",
+    "id": 642
+  },
+  {
+    "category": "TWK",
+    "question": "Pertempuran Palagan Ambarawa yang dipimpin oleh Kolonel Soedirman pada 12-15 Desember 1945 berhasil memukul mundur Sekutu dan kini diabadikan sebagai peringatan Hari... (Paket Latihan 2)",
+    "options": [
+      "Pahlawan",
+      "Juang Kartika (Hari TNI AD)",
+      "Bhayangkara",
+      "Kebangkitan Nasional",
+      "Bela Negara"
+    ],
+    "answer": 1,
+    "explanation": "Kemenangan taktis dalam Palagan Ambarawa pada 15 Desember 1945 diabadikan sebagai Hari Infanteri / Hari Juang Kartika TNI Angkatan Darat.",
+    "id": 643
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 22D UUD NRI 1945, kewenangan Dewan Perwakilan Daerah (DPD) dalam proses legislasi mencakup hal-hal yang berkaitan dengan... (Paket Latihan 2)",
+    "options": [
+      "Pengesahan perjanjian internasional dan pengangkatan duta",
+      "Otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah",
+      "Pemberian abolisi, amnesti, dan rehabilitasi hukum",
+      "Menetapkan Anggaran Pendapatan dan Belanja Negara secara mandiri",
+      "Memilih Ketua dan Wakil Ketua Mahkamah Agung"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 22D ayat (1) menyatakan DPD dapat mengajukan RUU yang berkaitan dengan otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah, pengelolaan SDA, dan perimbangan keuangan pusat-daerah.",
+    "id": 644
+  },
+  {
+    "category": "TWK",
+    "question": "Sesuai UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara, warga negara yang telah menyelesaikan pelatihan dasar militer secara sukarela dan ditetapkan oleh Menteri Pertahanan digolongkan ke dalam... (Paket Latihan 2)",
+    "options": [
+      "Komponen Utama",
+      "Komponen Cadangan",
+      "Komponen Pendukung",
+      "Milisi Daerah Otonom",
+      "Pasukan Khusus Sipil"
+    ],
+    "answer": 1,
+    "explanation": "Komponen Cadangan (Komcad) disiapkan untuk dikerahkan melalui mobilisasi guna memperbesar dan memperkuat kekuatan dan kemampuan Komponen Utama (TNI).",
+    "id": 645
+  },
+  {
+    "category": "TWK",
+    "question": "Tindakan melawan hukum memperkaya diri sendiri atau orang lain atau suatu korporasi yang dapat merugikan keuangan negara atau perekonomian negara diatur dalam UU Pemberantasan Tindak Pidana Korupsi Pasal... (Paket Latihan 2)",
+    "options": [
+      "Pasal 2 ayat (1)",
+      "Pasal 5 ayat (1)",
+      "Pasal 11",
+      "Pasal 12 huruf b",
+      "Pasal 13"
+    ],
+    "answer": 0,
+    "explanation": "Pasal 2 ayat (1) UU No. 31/1999 jo UU No. 20/2001 mengatur delik formil perbuatan melawan hukum memperkaya diri/korporasi yang merugikan keuangan/perekonomian negara.",
+    "id": 646
+  },
+  {
+    "category": "TWK",
+    "question": "Proses penyesuaian unsur-unsur kebudayaan yang berbeda sehingga menghasilkan suatu pola kehidupan baru yang serasi fungsinya dalam masyarakat dinamakan... (Paket Latihan 2)",
+    "options": [
+      "Enkulturasi",
+      "Akulturasi",
+      "Akomodasi",
+      "Asimilasi",
+      "Integrasi kebudayaan"
+    ],
+    "answer": 1,
+    "explanation": "Akulturasi adalah percampuran dua kebudayaan atau lebih yang saling bertemu tanpa menghilangkan unsur kepribadian asli kebudayaan masing-masing.",
+    "id": 647
+  },
+  {
+    "category": "TWK",
+    "question": "Menurut teori jenjang norma (*Stufentheorie*) dari Hans Kelsen dan Hans Nawiasky, kedudukan Pancasila dalam tata urutan norma hukum Indonesia adalah sebagai... (Paket Latihan 2)",
+    "options": [
+      "Staatsgrundgesetz (Aturan Dasar / Pokok Negara)",
+      "Formell Gesetz (Undang-Undang Formal)",
+      "Staatsfundamentalnorm (Norma Fundamental Negara)",
+      "Autonome Satzung (Aturan Pelaksana Otonom)",
+      "Verordnung (Peraturan Pemerintah)"
+    ],
+    "answer": 2,
+    "explanation": "Pancasila menempati tingkatan tertinggi sebagai Staatsfundamentalnorm (norma fundamental negara) yang menjadi dasar validitas bagi pembentukan peraturan hukum di bawahnya.",
+    "id": 648
+  },
+  {
+    "category": "TWK",
+    "question": "Kalimat majemuk bertingkat dengan anak kalimat pengganti keterangan waktu terdapat pada kalimat... (Paket Latihan 2)",
+    "options": [
+      "Pejabat itu membantah bahwa dirinya menerima gratifikasi.",
+      "Ketika sirene tanda evakuasi berbunyi, seluruh pegawai bergegas menuju titik kumpul.",
+      "Rapat ditunda karena pimpinan sedang menghadiri sidang kabinet paripurna.",
+      "Meskipun cuaca buruk, kapal penyeberangan tetap beroperasi normal.",
+      "Pemerintah memberikan bantuan modal agar pelaku UMKM dapat memperluas usahanya."
+    ],
+    "answer": 1,
+    "explanation": "Klausa 'Ketika sirene tanda evakuasi berbunyi' diawali konjungsi subordinatif temporal 'ketika', sehingga berfungsi sebagai anak kalimat keterangan waktu.",
+    "id": 649
+  },
+  {
+    "category": "TWK",
+    "question": "Keputusan membumihanguskan Kota Bandung bagian selatan pada 24 Maret 1946 diambil oleh para pejuang kemerdekaan dengan tujuan... (Paket Latihan 2)",
+    "options": [
+      "Menghukum warga yang bekerja sama dengan tentara Sekutu",
+      "Menghancurkan instalasi industri tekstil milik pengusaha asing",
+      "Mencegah tentara Sekutu dan NICA menggunakan Bandung sebagai markas strategis militer",
+      "Mengalihkan konsentrasi Sekutu agar pasukan Jawa Tengah dapat menyerbu Surabaya",
+      "Membuka jalur pelarian bagi anggota kabinet pemerintahan daerah"
+    ],
+    "answer": 2,
+    "explanation": "Taktik bumi hangus Bandung Lautan Api diputuskan oleh TRI dan pejuang agar infrastruktur serta gedung-gedung vital tidak dapat dimanfaatkan Sekutu dan NICA sebagai pos komando perang.",
+    "id": 650
+  },
+  {
+    "category": "TWK",
+    "question": "Prinsip politik luar negeri Indonesia yang 'Bebas dan Aktif' pertama kali dikemukakan oleh Drs. Mohammad Hatta dalam pidatonya yang berjudul... (Paket Latihan 3)",
+    "options": [
+      "Menembus Tirai Besi",
+      "Mendayung di Antara Dua Karang",
+      "Indonesia Menggugat",
+      "Menuju Indonesia Merdeka",
+      "Di Bawah Bendera Revolusi"
+    ],
+    "answer": 1,
+    "explanation": "Konsep dasar politik luar negeri bebas aktif dirumuskan oleh Mohammad Hatta pada pidato di depan BP KNIP tanggal 2 September 1948 berjudul 'Mendayung di Antara Dua Karang'.",
+    "id": 651
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 31 ayat (4) UUD NRI 1945, negara memprioritaskan anggaran pendidikan sekurang-kurangnya berapa persen dari APBN dan APBD untuk memenuhi kebutuhan penyelenggaraan pendidikan nasional? (Paket Latihan 3)",
+    "options": [
+      "10 persen",
+      "15 persen",
+      "20 persen",
+      "25 persen",
+      "30 persen"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 31 ayat (4) UUD 1945 secara tegas menyatakan bahwa negara memprioritaskan anggaran pendidikan sekurang-kurangnya dua puluh persen (20%) dari APBN serta dari APBD.",
+    "id": 652
+  },
+  {
+    "category": "TWK",
+    "question": "Pertempuran Palagan Ambarawa yang dipimpin oleh Kolonel Soedirman pada 12-15 Desember 1945 berhasil memukul mundur Sekutu dan kini diabadikan sebagai peringatan Hari... (Paket Latihan 3)",
+    "options": [
+      "Pahlawan",
+      "Juang Kartika (Hari TNI AD)",
+      "Bhayangkara",
+      "Kebangkitan Nasional",
+      "Bela Negara"
+    ],
+    "answer": 1,
+    "explanation": "Kemenangan taktis dalam Palagan Ambarawa pada 15 Desember 1945 diabadikan sebagai Hari Infanteri / Hari Juang Kartika TNI Angkatan Darat.",
+    "id": 653
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 22D UUD NRI 1945, kewenangan Dewan Perwakilan Daerah (DPD) dalam proses legislasi mencakup hal-hal yang berkaitan dengan... (Paket Latihan 3)",
+    "options": [
+      "Pengesahan perjanjian internasional dan pengangkatan duta",
+      "Otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah",
+      "Pemberian abolisi, amnesti, dan rehabilitasi hukum",
+      "Menetapkan Anggaran Pendapatan dan Belanja Negara secara mandiri",
+      "Memilih Ketua dan Wakil Ketua Mahkamah Agung"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 22D ayat (1) menyatakan DPD dapat mengajukan RUU yang berkaitan dengan otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah, pengelolaan SDA, dan perimbangan keuangan pusat-daerah.",
+    "id": 654
+  },
+  {
+    "category": "TWK",
+    "question": "Sesuai UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara, warga negara yang telah menyelesaikan pelatihan dasar militer secara sukarela dan ditetapkan oleh Menteri Pertahanan digolongkan ke dalam... (Paket Latihan 3)",
+    "options": [
+      "Komponen Utama",
+      "Komponen Cadangan",
+      "Komponen Pendukung",
+      "Milisi Daerah Otonom",
+      "Pasukan Khusus Sipil"
+    ],
+    "answer": 1,
+    "explanation": "Komponen Cadangan (Komcad) disiapkan untuk dikerahkan melalui mobilisasi guna memperbesar dan memperkuat kekuatan dan kemampuan Komponen Utama (TNI).",
+    "id": 655
+  },
+  {
+    "category": "TWK",
+    "question": "Tindakan melawan hukum memperkaya diri sendiri atau orang lain atau suatu korporasi yang dapat merugikan keuangan negara atau perekonomian negara diatur dalam UU Pemberantasan Tindak Pidana Korupsi Pasal... (Paket Latihan 3)",
+    "options": [
+      "Pasal 2 ayat (1)",
+      "Pasal 5 ayat (1)",
+      "Pasal 11",
+      "Pasal 12 huruf b",
+      "Pasal 13"
+    ],
+    "answer": 0,
+    "explanation": "Pasal 2 ayat (1) UU No. 31/1999 jo UU No. 20/2001 mengatur delik formil perbuatan melawan hukum memperkaya diri/korporasi yang merugikan keuangan/perekonomian negara.",
+    "id": 656
+  },
+  {
+    "category": "TWK",
+    "question": "Proses penyesuaian unsur-unsur kebudayaan yang berbeda sehingga menghasilkan suatu pola kehidupan baru yang serasi fungsinya dalam masyarakat dinamakan... (Paket Latihan 3)",
+    "options": [
+      "Enkulturasi",
+      "Akulturasi",
+      "Akomodasi",
+      "Asimilasi",
+      "Integrasi kebudayaan"
+    ],
+    "answer": 1,
+    "explanation": "Akulturasi adalah percampuran dua kebudayaan atau lebih yang saling bertemu tanpa menghilangkan unsur kepribadian asli kebudayaan masing-masing.",
+    "id": 657
+  },
+  {
+    "category": "TWK",
+    "question": "Menurut teori jenjang norma (*Stufentheorie*) dari Hans Kelsen dan Hans Nawiasky, kedudukan Pancasila dalam tata urutan norma hukum Indonesia adalah sebagai... (Paket Latihan 3)",
+    "options": [
+      "Staatsgrundgesetz (Aturan Dasar / Pokok Negara)",
+      "Formell Gesetz (Undang-Undang Formal)",
+      "Staatsfundamentalnorm (Norma Fundamental Negara)",
+      "Autonome Satzung (Aturan Pelaksana Otonom)",
+      "Verordnung (Peraturan Pemerintah)"
+    ],
+    "answer": 2,
+    "explanation": "Pancasila menempati tingkatan tertinggi sebagai Staatsfundamentalnorm (norma fundamental negara) yang menjadi dasar validitas bagi pembentukan peraturan hukum di bawahnya.",
+    "id": 658
+  },
+  {
+    "category": "TWK",
+    "question": "Kalimat majemuk bertingkat dengan anak kalimat pengganti keterangan waktu terdapat pada kalimat... (Paket Latihan 3)",
+    "options": [
+      "Pejabat itu membantah bahwa dirinya menerima gratifikasi.",
+      "Ketika sirene tanda evakuasi berbunyi, seluruh pegawai bergegas menuju titik kumpul.",
+      "Rapat ditunda karena pimpinan sedang menghadiri sidang kabinet paripurna.",
+      "Meskipun cuaca buruk, kapal penyeberangan tetap beroperasi normal.",
+      "Pemerintah memberikan bantuan modal agar pelaku UMKM dapat memperluas usahanya."
+    ],
+    "answer": 1,
+    "explanation": "Klausa 'Ketika sirene tanda evakuasi berbunyi' diawali konjungsi subordinatif temporal 'ketika', sehingga berfungsi sebagai anak kalimat keterangan waktu.",
+    "id": 659
+  },
+  {
+    "category": "TWK",
+    "question": "Keputusan membumihanguskan Kota Bandung bagian selatan pada 24 Maret 1946 diambil oleh para pejuang kemerdekaan dengan tujuan... (Paket Latihan 3)",
+    "options": [
+      "Menghukum warga yang bekerja sama dengan tentara Sekutu",
+      "Menghancurkan instalasi industri tekstil milik pengusaha asing",
+      "Mencegah tentara Sekutu dan NICA menggunakan Bandung sebagai markas strategis militer",
+      "Mengalihkan konsentrasi Sekutu agar pasukan Jawa Tengah dapat menyerbu Surabaya",
+      "Membuka jalur pelarian bagi anggota kabinet pemerintahan daerah"
+    ],
+    "answer": 2,
+    "explanation": "Taktik bumi hangus Bandung Lautan Api diputuskan oleh TRI dan pejuang agar infrastruktur serta gedung-gedung vital tidak dapat dimanfaatkan Sekutu dan NICA sebagai pos komando perang.",
+    "id": 660
+  },
+  {
+    "category": "TWK",
+    "question": "Prinsip politik luar negeri Indonesia yang 'Bebas dan Aktif' pertama kali dikemukakan oleh Drs. Mohammad Hatta dalam pidatonya yang berjudul... (Paket Latihan 4)",
+    "options": [
+      "Menembus Tirai Besi",
+      "Mendayung di Antara Dua Karang",
+      "Indonesia Menggugat",
+      "Menuju Indonesia Merdeka",
+      "Di Bawah Bendera Revolusi"
+    ],
+    "answer": 1,
+    "explanation": "Konsep dasar politik luar negeri bebas aktif dirumuskan oleh Mohammad Hatta pada pidato di depan BP KNIP tanggal 2 September 1948 berjudul 'Mendayung di Antara Dua Karang'.",
+    "id": 661
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 31 ayat (4) UUD NRI 1945, negara memprioritaskan anggaran pendidikan sekurang-kurangnya berapa persen dari APBN dan APBD untuk memenuhi kebutuhan penyelenggaraan pendidikan nasional? (Paket Latihan 4)",
+    "options": [
+      "10 persen",
+      "15 persen",
+      "20 persen",
+      "25 persen",
+      "30 persen"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 31 ayat (4) UUD 1945 secara tegas menyatakan bahwa negara memprioritaskan anggaran pendidikan sekurang-kurangnya dua puluh persen (20%) dari APBN serta dari APBD.",
+    "id": 662
+  },
+  {
+    "category": "TWK",
+    "question": "Pertempuran Palagan Ambarawa yang dipimpin oleh Kolonel Soedirman pada 12-15 Desember 1945 berhasil memukul mundur Sekutu dan kini diabadikan sebagai peringatan Hari... (Paket Latihan 4)",
+    "options": [
+      "Pahlawan",
+      "Juang Kartika (Hari TNI AD)",
+      "Bhayangkara",
+      "Kebangkitan Nasional",
+      "Bela Negara"
+    ],
+    "answer": 1,
+    "explanation": "Kemenangan taktis dalam Palagan Ambarawa pada 15 Desember 1945 diabadikan sebagai Hari Infanteri / Hari Juang Kartika TNI Angkatan Darat.",
+    "id": 663
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 22D UUD NRI 1945, kewenangan Dewan Perwakilan Daerah (DPD) dalam proses legislasi mencakup hal-hal yang berkaitan dengan... (Paket Latihan 4)",
+    "options": [
+      "Pengesahan perjanjian internasional dan pengangkatan duta",
+      "Otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah",
+      "Pemberian abolisi, amnesti, dan rehabilitasi hukum",
+      "Menetapkan Anggaran Pendapatan dan Belanja Negara secara mandiri",
+      "Memilih Ketua dan Wakil Ketua Mahkamah Agung"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 22D ayat (1) menyatakan DPD dapat mengajukan RUU yang berkaitan dengan otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah, pengelolaan SDA, dan perimbangan keuangan pusat-daerah.",
+    "id": 664
+  },
+  {
+    "category": "TWK",
+    "question": "Sesuai UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara, warga negara yang telah menyelesaikan pelatihan dasar militer secara sukarela dan ditetapkan oleh Menteri Pertahanan digolongkan ke dalam... (Paket Latihan 4)",
+    "options": [
+      "Komponen Utama",
+      "Komponen Cadangan",
+      "Komponen Pendukung",
+      "Milisi Daerah Otonom",
+      "Pasukan Khusus Sipil"
+    ],
+    "answer": 1,
+    "explanation": "Komponen Cadangan (Komcad) disiapkan untuk dikerahkan melalui mobilisasi guna memperbesar dan memperkuat kekuatan dan kemampuan Komponen Utama (TNI).",
+    "id": 665
+  },
+  {
+    "category": "TWK",
+    "question": "Tindakan melawan hukum memperkaya diri sendiri atau orang lain atau suatu korporasi yang dapat merugikan keuangan negara atau perekonomian negara diatur dalam UU Pemberantasan Tindak Pidana Korupsi Pasal... (Paket Latihan 4)",
+    "options": [
+      "Pasal 2 ayat (1)",
+      "Pasal 5 ayat (1)",
+      "Pasal 11",
+      "Pasal 12 huruf b",
+      "Pasal 13"
+    ],
+    "answer": 0,
+    "explanation": "Pasal 2 ayat (1) UU No. 31/1999 jo UU No. 20/2001 mengatur delik formil perbuatan melawan hukum memperkaya diri/korporasi yang merugikan keuangan/perekonomian negara.",
+    "id": 666
+  },
+  {
+    "category": "TWK",
+    "question": "Proses penyesuaian unsur-unsur kebudayaan yang berbeda sehingga menghasilkan suatu pola kehidupan baru yang serasi fungsinya dalam masyarakat dinamakan... (Paket Latihan 4)",
+    "options": [
+      "Enkulturasi",
+      "Akulturasi",
+      "Akomodasi",
+      "Asimilasi",
+      "Integrasi kebudayaan"
+    ],
+    "answer": 1,
+    "explanation": "Akulturasi adalah percampuran dua kebudayaan atau lebih yang saling bertemu tanpa menghilangkan unsur kepribadian asli kebudayaan masing-masing.",
+    "id": 667
+  },
+  {
+    "category": "TWK",
+    "question": "Menurut teori jenjang norma (*Stufentheorie*) dari Hans Kelsen dan Hans Nawiasky, kedudukan Pancasila dalam tata urutan norma hukum Indonesia adalah sebagai... (Paket Latihan 4)",
+    "options": [
+      "Staatsgrundgesetz (Aturan Dasar / Pokok Negara)",
+      "Formell Gesetz (Undang-Undang Formal)",
+      "Staatsfundamentalnorm (Norma Fundamental Negara)",
+      "Autonome Satzung (Aturan Pelaksana Otonom)",
+      "Verordnung (Peraturan Pemerintah)"
+    ],
+    "answer": 2,
+    "explanation": "Pancasila menempati tingkatan tertinggi sebagai Staatsfundamentalnorm (norma fundamental negara) yang menjadi dasar validitas bagi pembentukan peraturan hukum di bawahnya.",
+    "id": 668
+  },
+  {
+    "category": "TWK",
+    "question": "Kalimat majemuk bertingkat dengan anak kalimat pengganti keterangan waktu terdapat pada kalimat... (Paket Latihan 4)",
+    "options": [
+      "Pejabat itu membantah bahwa dirinya menerima gratifikasi.",
+      "Ketika sirene tanda evakuasi berbunyi, seluruh pegawai bergegas menuju titik kumpul.",
+      "Rapat ditunda karena pimpinan sedang menghadiri sidang kabinet paripurna.",
+      "Meskipun cuaca buruk, kapal penyeberangan tetap beroperasi normal.",
+      "Pemerintah memberikan bantuan modal agar pelaku UMKM dapat memperluas usahanya."
+    ],
+    "answer": 1,
+    "explanation": "Klausa 'Ketika sirene tanda evakuasi berbunyi' diawali konjungsi subordinatif temporal 'ketika', sehingga berfungsi sebagai anak kalimat keterangan waktu.",
+    "id": 669
+  },
+  {
+    "category": "TWK",
+    "question": "Keputusan membumihanguskan Kota Bandung bagian selatan pada 24 Maret 1946 diambil oleh para pejuang kemerdekaan dengan tujuan... (Paket Latihan 4)",
+    "options": [
+      "Menghukum warga yang bekerja sama dengan tentara Sekutu",
+      "Menghancurkan instalasi industri tekstil milik pengusaha asing",
+      "Mencegah tentara Sekutu dan NICA menggunakan Bandung sebagai markas strategis militer",
+      "Mengalihkan konsentrasi Sekutu agar pasukan Jawa Tengah dapat menyerbu Surabaya",
+      "Membuka jalur pelarian bagi anggota kabinet pemerintahan daerah"
+    ],
+    "answer": 2,
+    "explanation": "Taktik bumi hangus Bandung Lautan Api diputuskan oleh TRI dan pejuang agar infrastruktur serta gedung-gedung vital tidak dapat dimanfaatkan Sekutu dan NICA sebagai pos komando perang.",
+    "id": 670
+  },
+  {
+    "category": "TWK",
+    "question": "Prinsip politik luar negeri Indonesia yang 'Bebas dan Aktif' pertama kali dikemukakan oleh Drs. Mohammad Hatta dalam pidatonya yang berjudul... (Paket Latihan 5)",
+    "options": [
+      "Menembus Tirai Besi",
+      "Mendayung di Antara Dua Karang",
+      "Indonesia Menggugat",
+      "Menuju Indonesia Merdeka",
+      "Di Bawah Bendera Revolusi"
+    ],
+    "answer": 1,
+    "explanation": "Konsep dasar politik luar negeri bebas aktif dirumuskan oleh Mohammad Hatta pada pidato di depan BP KNIP tanggal 2 September 1948 berjudul 'Mendayung di Antara Dua Karang'.",
+    "id": 671
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 31 ayat (4) UUD NRI 1945, negara memprioritaskan anggaran pendidikan sekurang-kurangnya berapa persen dari APBN dan APBD untuk memenuhi kebutuhan penyelenggaraan pendidikan nasional? (Paket Latihan 5)",
+    "options": [
+      "10 persen",
+      "15 persen",
+      "20 persen",
+      "25 persen",
+      "30 persen"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 31 ayat (4) UUD 1945 secara tegas menyatakan bahwa negara memprioritaskan anggaran pendidikan sekurang-kurangnya dua puluh persen (20%) dari APBN serta dari APBD.",
+    "id": 672
+  },
+  {
+    "category": "TWK",
+    "question": "Pertempuran Palagan Ambarawa yang dipimpin oleh Kolonel Soedirman pada 12-15 Desember 1945 berhasil memukul mundur Sekutu dan kini diabadikan sebagai peringatan Hari... (Paket Latihan 5)",
+    "options": [
+      "Pahlawan",
+      "Juang Kartika (Hari TNI AD)",
+      "Bhayangkara",
+      "Kebangkitan Nasional",
+      "Bela Negara"
+    ],
+    "answer": 1,
+    "explanation": "Kemenangan taktis dalam Palagan Ambarawa pada 15 Desember 1945 diabadikan sebagai Hari Infanteri / Hari Juang Kartika TNI Angkatan Darat.",
+    "id": 673
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 22D UUD NRI 1945, kewenangan Dewan Perwakilan Daerah (DPD) dalam proses legislasi mencakup hal-hal yang berkaitan dengan... (Paket Latihan 5)",
+    "options": [
+      "Pengesahan perjanjian internasional dan pengangkatan duta",
+      "Otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah",
+      "Pemberian abolisi, amnesti, dan rehabilitasi hukum",
+      "Menetapkan Anggaran Pendapatan dan Belanja Negara secara mandiri",
+      "Memilih Ketua dan Wakil Ketua Mahkamah Agung"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 22D ayat (1) menyatakan DPD dapat mengajukan RUU yang berkaitan dengan otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah, pengelolaan SDA, dan perimbangan keuangan pusat-daerah.",
+    "id": 674
+  },
+  {
+    "category": "TWK",
+    "question": "Sesuai UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara, warga negara yang telah menyelesaikan pelatihan dasar militer secara sukarela dan ditetapkan oleh Menteri Pertahanan digolongkan ke dalam... (Paket Latihan 5)",
+    "options": [
+      "Komponen Utama",
+      "Komponen Cadangan",
+      "Komponen Pendukung",
+      "Milisi Daerah Otonom",
+      "Pasukan Khusus Sipil"
+    ],
+    "answer": 1,
+    "explanation": "Komponen Cadangan (Komcad) disiapkan untuk dikerahkan melalui mobilisasi guna memperbesar dan memperkuat kekuatan dan kemampuan Komponen Utama (TNI).",
+    "id": 675
+  },
+  {
+    "category": "TWK",
+    "question": "Tindakan melawan hukum memperkaya diri sendiri atau orang lain atau suatu korporasi yang dapat merugikan keuangan negara atau perekonomian negara diatur dalam UU Pemberantasan Tindak Pidana Korupsi Pasal... (Paket Latihan 5)",
+    "options": [
+      "Pasal 2 ayat (1)",
+      "Pasal 5 ayat (1)",
+      "Pasal 11",
+      "Pasal 12 huruf b",
+      "Pasal 13"
+    ],
+    "answer": 0,
+    "explanation": "Pasal 2 ayat (1) UU No. 31/1999 jo UU No. 20/2001 mengatur delik formil perbuatan melawan hukum memperkaya diri/korporasi yang merugikan keuangan/perekonomian negara.",
+    "id": 676
+  },
+  {
+    "category": "TWK",
+    "question": "Proses penyesuaian unsur-unsur kebudayaan yang berbeda sehingga menghasilkan suatu pola kehidupan baru yang serasi fungsinya dalam masyarakat dinamakan... (Paket Latihan 5)",
+    "options": [
+      "Enkulturasi",
+      "Akulturasi",
+      "Akomodasi",
+      "Asimilasi",
+      "Integrasi kebudayaan"
+    ],
+    "answer": 1,
+    "explanation": "Akulturasi adalah percampuran dua kebudayaan atau lebih yang saling bertemu tanpa menghilangkan unsur kepribadian asli kebudayaan masing-masing.",
+    "id": 677
+  },
+  {
+    "category": "TWK",
+    "question": "Menurut teori jenjang norma (*Stufentheorie*) dari Hans Kelsen dan Hans Nawiasky, kedudukan Pancasila dalam tata urutan norma hukum Indonesia adalah sebagai... (Paket Latihan 5)",
+    "options": [
+      "Staatsgrundgesetz (Aturan Dasar / Pokok Negara)",
+      "Formell Gesetz (Undang-Undang Formal)",
+      "Staatsfundamentalnorm (Norma Fundamental Negara)",
+      "Autonome Satzung (Aturan Pelaksana Otonom)",
+      "Verordnung (Peraturan Pemerintah)"
+    ],
+    "answer": 2,
+    "explanation": "Pancasila menempati tingkatan tertinggi sebagai Staatsfundamentalnorm (norma fundamental negara) yang menjadi dasar validitas bagi pembentukan peraturan hukum di bawahnya.",
+    "id": 678
+  },
+  {
+    "category": "TWK",
+    "question": "Kalimat majemuk bertingkat dengan anak kalimat pengganti keterangan waktu terdapat pada kalimat... (Paket Latihan 5)",
+    "options": [
+      "Pejabat itu membantah bahwa dirinya menerima gratifikasi.",
+      "Ketika sirene tanda evakuasi berbunyi, seluruh pegawai bergegas menuju titik kumpul.",
+      "Rapat ditunda karena pimpinan sedang menghadiri sidang kabinet paripurna.",
+      "Meskipun cuaca buruk, kapal penyeberangan tetap beroperasi normal.",
+      "Pemerintah memberikan bantuan modal agar pelaku UMKM dapat memperluas usahanya."
+    ],
+    "answer": 1,
+    "explanation": "Klausa 'Ketika sirene tanda evakuasi berbunyi' diawali konjungsi subordinatif temporal 'ketika', sehingga berfungsi sebagai anak kalimat keterangan waktu.",
+    "id": 679
+  },
+  {
+    "category": "TWK",
+    "question": "Keputusan membumihanguskan Kota Bandung bagian selatan pada 24 Maret 1946 diambil oleh para pejuang kemerdekaan dengan tujuan... (Paket Latihan 5)",
+    "options": [
+      "Menghukum warga yang bekerja sama dengan tentara Sekutu",
+      "Menghancurkan instalasi industri tekstil milik pengusaha asing",
+      "Mencegah tentara Sekutu dan NICA menggunakan Bandung sebagai markas strategis militer",
+      "Mengalihkan konsentrasi Sekutu agar pasukan Jawa Tengah dapat menyerbu Surabaya",
+      "Membuka jalur pelarian bagi anggota kabinet pemerintahan daerah"
+    ],
+    "answer": 2,
+    "explanation": "Taktik bumi hangus Bandung Lautan Api diputuskan oleh TRI dan pejuang agar infrastruktur serta gedung-gedung vital tidak dapat dimanfaatkan Sekutu dan NICA sebagai pos komando perang.",
+    "id": 680
+  },
+  {
+    "category": "TWK",
+    "question": "Prinsip politik luar negeri Indonesia yang 'Bebas dan Aktif' pertama kali dikemukakan oleh Drs. Mohammad Hatta dalam pidatonya yang berjudul... (Paket Latihan 6)",
+    "options": [
+      "Menembus Tirai Besi",
+      "Mendayung di Antara Dua Karang",
+      "Indonesia Menggugat",
+      "Menuju Indonesia Merdeka",
+      "Di Bawah Bendera Revolusi"
+    ],
+    "answer": 1,
+    "explanation": "Konsep dasar politik luar negeri bebas aktif dirumuskan oleh Mohammad Hatta pada pidato di depan BP KNIP tanggal 2 September 1948 berjudul 'Mendayung di Antara Dua Karang'.",
+    "id": 681
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 31 ayat (4) UUD NRI 1945, negara memprioritaskan anggaran pendidikan sekurang-kurangnya berapa persen dari APBN dan APBD untuk memenuhi kebutuhan penyelenggaraan pendidikan nasional? (Paket Latihan 6)",
+    "options": [
+      "10 persen",
+      "15 persen",
+      "20 persen",
+      "25 persen",
+      "30 persen"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 31 ayat (4) UUD 1945 secara tegas menyatakan bahwa negara memprioritaskan anggaran pendidikan sekurang-kurangnya dua puluh persen (20%) dari APBN serta dari APBD.",
+    "id": 682
+  },
+  {
+    "category": "TWK",
+    "question": "Pertempuran Palagan Ambarawa yang dipimpin oleh Kolonel Soedirman pada 12-15 Desember 1945 berhasil memukul mundur Sekutu dan kini diabadikan sebagai peringatan Hari... (Paket Latihan 6)",
+    "options": [
+      "Pahlawan",
+      "Juang Kartika (Hari TNI AD)",
+      "Bhayangkara",
+      "Kebangkitan Nasional",
+      "Bela Negara"
+    ],
+    "answer": 1,
+    "explanation": "Kemenangan taktis dalam Palagan Ambarawa pada 15 Desember 1945 diabadikan sebagai Hari Infanteri / Hari Juang Kartika TNI Angkatan Darat.",
+    "id": 683
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 22D UUD NRI 1945, kewenangan Dewan Perwakilan Daerah (DPD) dalam proses legislasi mencakup hal-hal yang berkaitan dengan... (Paket Latihan 6)",
+    "options": [
+      "Pengesahan perjanjian internasional dan pengangkatan duta",
+      "Otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah",
+      "Pemberian abolisi, amnesti, dan rehabilitasi hukum",
+      "Menetapkan Anggaran Pendapatan dan Belanja Negara secara mandiri",
+      "Memilih Ketua dan Wakil Ketua Mahkamah Agung"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 22D ayat (1) menyatakan DPD dapat mengajukan RUU yang berkaitan dengan otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah, pengelolaan SDA, dan perimbangan keuangan pusat-daerah.",
+    "id": 684
+  },
+  {
+    "category": "TWK",
+    "question": "Sesuai UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara, warga negara yang telah menyelesaikan pelatihan dasar militer secara sukarela dan ditetapkan oleh Menteri Pertahanan digolongkan ke dalam... (Paket Latihan 6)",
+    "options": [
+      "Komponen Utama",
+      "Komponen Cadangan",
+      "Komponen Pendukung",
+      "Milisi Daerah Otonom",
+      "Pasukan Khusus Sipil"
+    ],
+    "answer": 1,
+    "explanation": "Komponen Cadangan (Komcad) disiapkan untuk dikerahkan melalui mobilisasi guna memperbesar dan memperkuat kekuatan dan kemampuan Komponen Utama (TNI).",
+    "id": 685
+  },
+  {
+    "category": "TWK",
+    "question": "Tindakan melawan hukum memperkaya diri sendiri atau orang lain atau suatu korporasi yang dapat merugikan keuangan negara atau perekonomian negara diatur dalam UU Pemberantasan Tindak Pidana Korupsi Pasal... (Paket Latihan 6)",
+    "options": [
+      "Pasal 2 ayat (1)",
+      "Pasal 5 ayat (1)",
+      "Pasal 11",
+      "Pasal 12 huruf b",
+      "Pasal 13"
+    ],
+    "answer": 0,
+    "explanation": "Pasal 2 ayat (1) UU No. 31/1999 jo UU No. 20/2001 mengatur delik formil perbuatan melawan hukum memperkaya diri/korporasi yang merugikan keuangan/perekonomian negara.",
+    "id": 686
+  },
+  {
+    "category": "TWK",
+    "question": "Proses penyesuaian unsur-unsur kebudayaan yang berbeda sehingga menghasilkan suatu pola kehidupan baru yang serasi fungsinya dalam masyarakat dinamakan... (Paket Latihan 6)",
+    "options": [
+      "Enkulturasi",
+      "Akulturasi",
+      "Akomodasi",
+      "Asimilasi",
+      "Integrasi kebudayaan"
+    ],
+    "answer": 1,
+    "explanation": "Akulturasi adalah percampuran dua kebudayaan atau lebih yang saling bertemu tanpa menghilangkan unsur kepribadian asli kebudayaan masing-masing.",
+    "id": 687
+  },
+  {
+    "category": "TWK",
+    "question": "Menurut teori jenjang norma (*Stufentheorie*) dari Hans Kelsen dan Hans Nawiasky, kedudukan Pancasila dalam tata urutan norma hukum Indonesia adalah sebagai... (Paket Latihan 6)",
+    "options": [
+      "Staatsgrundgesetz (Aturan Dasar / Pokok Negara)",
+      "Formell Gesetz (Undang-Undang Formal)",
+      "Staatsfundamentalnorm (Norma Fundamental Negara)",
+      "Autonome Satzung (Aturan Pelaksana Otonom)",
+      "Verordnung (Peraturan Pemerintah)"
+    ],
+    "answer": 2,
+    "explanation": "Pancasila menempati tingkatan tertinggi sebagai Staatsfundamentalnorm (norma fundamental negara) yang menjadi dasar validitas bagi pembentukan peraturan hukum di bawahnya.",
+    "id": 688
+  },
+  {
+    "category": "TWK",
+    "question": "Kalimat majemuk bertingkat dengan anak kalimat pengganti keterangan waktu terdapat pada kalimat... (Paket Latihan 6)",
+    "options": [
+      "Pejabat itu membantah bahwa dirinya menerima gratifikasi.",
+      "Ketika sirene tanda evakuasi berbunyi, seluruh pegawai bergegas menuju titik kumpul.",
+      "Rapat ditunda karena pimpinan sedang menghadiri sidang kabinet paripurna.",
+      "Meskipun cuaca buruk, kapal penyeberangan tetap beroperasi normal.",
+      "Pemerintah memberikan bantuan modal agar pelaku UMKM dapat memperluas usahanya."
+    ],
+    "answer": 1,
+    "explanation": "Klausa 'Ketika sirene tanda evakuasi berbunyi' diawali konjungsi subordinatif temporal 'ketika', sehingga berfungsi sebagai anak kalimat keterangan waktu.",
+    "id": 689
+  },
+  {
+    "category": "TWK",
+    "question": "Keputusan membumihanguskan Kota Bandung bagian selatan pada 24 Maret 1946 diambil oleh para pejuang kemerdekaan dengan tujuan... (Paket Latihan 6)",
+    "options": [
+      "Menghukum warga yang bekerja sama dengan tentara Sekutu",
+      "Menghancurkan instalasi industri tekstil milik pengusaha asing",
+      "Mencegah tentara Sekutu dan NICA menggunakan Bandung sebagai markas strategis militer",
+      "Mengalihkan konsentrasi Sekutu agar pasukan Jawa Tengah dapat menyerbu Surabaya",
+      "Membuka jalur pelarian bagi anggota kabinet pemerintahan daerah"
+    ],
+    "answer": 2,
+    "explanation": "Taktik bumi hangus Bandung Lautan Api diputuskan oleh TRI dan pejuang agar infrastruktur serta gedung-gedung vital tidak dapat dimanfaatkan Sekutu dan NICA sebagai pos komando perang.",
+    "id": 690
+  },
+  {
+    "category": "TWK",
+    "question": "Prinsip politik luar negeri Indonesia yang 'Bebas dan Aktif' pertama kali dikemukakan oleh Drs. Mohammad Hatta dalam pidatonya yang berjudul... (Paket Latihan 7)",
+    "options": [
+      "Menembus Tirai Besi",
+      "Mendayung di Antara Dua Karang",
+      "Indonesia Menggugat",
+      "Menuju Indonesia Merdeka",
+      "Di Bawah Bendera Revolusi"
+    ],
+    "answer": 1,
+    "explanation": "Konsep dasar politik luar negeri bebas aktif dirumuskan oleh Mohammad Hatta pada pidato di depan BP KNIP tanggal 2 September 1948 berjudul 'Mendayung di Antara Dua Karang'.",
+    "id": 691
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 31 ayat (4) UUD NRI 1945, negara memprioritaskan anggaran pendidikan sekurang-kurangnya berapa persen dari APBN dan APBD untuk memenuhi kebutuhan penyelenggaraan pendidikan nasional? (Paket Latihan 7)",
+    "options": [
+      "10 persen",
+      "15 persen",
+      "20 persen",
+      "25 persen",
+      "30 persen"
+    ],
+    "answer": 2,
+    "explanation": "Pasal 31 ayat (4) UUD 1945 secara tegas menyatakan bahwa negara memprioritaskan anggaran pendidikan sekurang-kurangnya dua puluh persen (20%) dari APBN serta dari APBD.",
+    "id": 692
+  },
+  {
+    "category": "TWK",
+    "question": "Pertempuran Palagan Ambarawa yang dipimpin oleh Kolonel Soedirman pada 12-15 Desember 1945 berhasil memukul mundur Sekutu dan kini diabadikan sebagai peringatan Hari... (Paket Latihan 7)",
+    "options": [
+      "Pahlawan",
+      "Juang Kartika (Hari TNI AD)",
+      "Bhayangkara",
+      "Kebangkitan Nasional",
+      "Bela Negara"
+    ],
+    "answer": 1,
+    "explanation": "Kemenangan taktis dalam Palagan Ambarawa pada 15 Desember 1945 diabadikan sebagai Hari Infanteri / Hari Juang Kartika TNI Angkatan Darat.",
+    "id": 693
+  },
+  {
+    "category": "TWK",
+    "question": "Berdasarkan Pasal 22D UUD NRI 1945, kewenangan Dewan Perwakilan Daerah (DPD) dalam proses legislasi mencakup hal-hal yang berkaitan dengan... (Paket Latihan 7)",
+    "options": [
+      "Pengesahan perjanjian internasional dan pengangkatan duta",
+      "Otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah",
+      "Pemberian abolisi, amnesti, dan rehabilitasi hukum",
+      "Menetapkan Anggaran Pendapatan dan Belanja Negara secara mandiri",
+      "Memilih Ketua dan Wakil Ketua Mahkamah Agung"
+    ],
+    "answer": 1,
+    "explanation": "Pasal 22D ayat (1) menyatakan DPD dapat mengajukan RUU yang berkaitan dengan otonomi daerah, hubungan pusat dan daerah, pembentukan dan pemekaran serta penggabungan daerah, pengelolaan SDA, dan perimbangan keuangan pusat-daerah.",
+    "id": 694
+  },
+  {
+    "category": "TWK",
+    "question": "Sesuai UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara, warga negara yang telah menyelesaikan pelatihan dasar militer secara sukarela dan ditetapkan oleh Menteri Pertahanan digolongkan ke dalam... (Paket Latihan 7)",
+    "options": [
+      "Komponen Utama",
+      "Komponen Cadangan",
+      "Komponen Pendukung",
+      "Milisi Daerah Otonom",
+      "Pasukan Khusus Sipil"
+    ],
+    "answer": 1,
+    "explanation": "Komponen Cadangan (Komcad) disiapkan untuk dikerahkan melalui mobilisasi guna memperbesar dan memperkuat kekuatan dan kemampuan Komponen Utama (TNI).",
+    "id": 695
+  },
+  {
+    "category": "TWK",
+    "question": "Tindakan melawan hukum memperkaya diri sendiri atau orang lain atau suatu korporasi yang dapat merugikan keuangan negara atau perekonomian negara diatur dalam UU Pemberantasan Tindak Pidana Korupsi Pasal... (Paket Latihan 7)",
+    "options": [
+      "Pasal 2 ayat (1)",
+      "Pasal 5 ayat (1)",
+      "Pasal 11",
+      "Pasal 12 huruf b",
+      "Pasal 13"
+    ],
+    "answer": 0,
+    "explanation": "Pasal 2 ayat (1) UU No. 31/1999 jo UU No. 20/2001 mengatur delik formil perbuatan melawan hukum memperkaya diri/korporasi yang merugikan keuangan/perekonomian negara.",
+    "id": 696
+  },
+  {
+    "category": "TWK",
+    "question": "Proses penyesuaian unsur-unsur kebudayaan yang berbeda sehingga menghasilkan suatu pola kehidupan baru yang serasi fungsinya dalam masyarakat dinamakan... (Paket Latihan 7)",
+    "options": [
+      "Enkulturasi",
+      "Akulturasi",
+      "Akomodasi",
+      "Asimilasi",
+      "Integrasi kebudayaan"
+    ],
+    "answer": 1,
+    "explanation": "Akulturasi adalah percampuran dua kebudayaan atau lebih yang saling bertemu tanpa menghilangkan unsur kepribadian asli kebudayaan masing-masing.",
+    "id": 697
+  },
+  {
+    "category": "TWK",
+    "question": "Menurut teori jenjang norma (*Stufentheorie*) dari Hans Kelsen dan Hans Nawiasky, kedudukan Pancasila dalam tata urutan norma hukum Indonesia adalah sebagai... (Paket Latihan 7)",
+    "options": [
+      "Staatsgrundgesetz (Aturan Dasar / Pokok Negara)",
+      "Formell Gesetz (Undang-Undang Formal)",
+      "Staatsfundamentalnorm (Norma Fundamental Negara)",
+      "Autonome Satzung (Aturan Pelaksana Otonom)",
+      "Verordnung (Peraturan Pemerintah)"
+    ],
+    "answer": 2,
+    "explanation": "Pancasila menempati tingkatan tertinggi sebagai Staatsfundamentalnorm (norma fundamental negara) yang menjadi dasar validitas bagi pembentukan peraturan hukum di bawahnya.",
+    "id": 698
+  },
+  {
+    "category": "TWK",
+    "question": "Kalimat majemuk bertingkat dengan anak kalimat pengganti keterangan waktu terdapat pada kalimat... (Paket Latihan 7)",
+    "options": [
+      "Pejabat itu membantah bahwa dirinya menerima gratifikasi.",
+      "Ketika sirene tanda evakuasi berbunyi, seluruh pegawai bergegas menuju titik kumpul.",
+      "Rapat ditunda karena pimpinan sedang menghadiri sidang kabinet paripurna.",
+      "Meskipun cuaca buruk, kapal penyeberangan tetap beroperasi normal.",
+      "Pemerintah memberikan bantuan modal agar pelaku UMKM dapat memperluas usahanya."
+    ],
+    "answer": 1,
+    "explanation": "Klausa 'Ketika sirene tanda evakuasi berbunyi' diawali konjungsi subordinatif temporal 'ketika', sehingga berfungsi sebagai anak kalimat keterangan waktu.",
+    "id": 699
+  },
+  {
+    "category": "TWK",
+    "question": "Keputusan membumihanguskan Kota Bandung bagian selatan pada 24 Maret 1946 diambil oleh para pejuang kemerdekaan dengan tujuan... (Paket Latihan 7)",
+    "options": [
+      "Menghukum warga yang bekerja sama dengan tentara Sekutu",
+      "Menghancurkan instalasi industri tekstil milik pengusaha asing",
+      "Mencegah tentara Sekutu dan NICA menggunakan Bandung sebagai markas strategis militer",
+      "Mengalihkan konsentrasi Sekutu agar pasukan Jawa Tengah dapat menyerbu Surabaya",
+      "Membuka jalur pelarian bagi anggota kabinet pemerintahan daerah"
+    ],
+    "answer": 2,
+    "explanation": "Taktik bumi hangus Bandung Lautan Api diputuskan oleh TRI dan pejuang agar infrastruktur serta gedung-gedung vital tidak dapat dimanfaatkan Sekutu dan NICA sebagai pos komando perang.",
+    "id": 700
+  },
+  {
+    "category": "TIU",
+    "question": "ORNITOLOGI : BURUNG = ENTOMOLOGI : ...",
+    "options": [
+      "Ikan",
+      "Serangga",
+      "Reptil",
+      "Fosil",
+      "Jamur"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 701
+  },
+  {
+    "category": "TIU",
+    "question": "Premis 1: Jika suatu daerah menerapkan zona hijau, maka seluruh fasilitas publik dibuka tanpa pembatasan.Premis 2: Sebagian fasilitas publik di Daerah X masih dibuka dengan pembatasan ketat.Kesimpulan yang sah adalah...",
+    "options": [
+      "Daerah X telah berstatus zona hijau",
+      "Daerah X bukan daerah yang menerapkan zona hijau",
+      "Semua daerah selain Daerah X berstatus zona hijau",
+      "Pembatasan di Daerah X akan segera dicabut",
+      "Sebagian daerah zona hijau memiliki fasilitas publik yang dibatasi"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 702
+  },
+  {
+    "category": "TIU",
+    "question": "5,   9,   17,   29,   45,   ...",
+    "options": [
+      "61",
+      "63",
+      "65",
+      "67",
+      "69"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 703
+  },
+  {
+    "category": "TIU",
+    "question": "Tiga tahun lalu, perbandingan umur ayah dan anak laki-lakinya adalah 4 : 1. Jika saat ini jumlah umur mereka berdua adalah 56 tahun, berapakah umur ayah saat ini?",
+    "options": [
+      "40 tahun",
+      "41 tahun",
+      "43 tahun",
+      "45 tahun",
+      "47 tahun"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 704
+  },
+  {
+    "category": "TIU",
+    "question": "Seorang pengendara motor melaju dari kota P ke kota Q dengan kecepatan 40 km/jam, dan kembali dari Q ke P melalui rute yang sama dengan kecepatan 60 km/jam. Kecepatan rata-rata seluruh perjalanan pengendara tersebut adalah...",
+    "options": [
+      "48 km/jam",
+      "50 km/jam",
+      "52 km/jam",
+      "54 km/jam",
+      "55 km/jam"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 705
+  },
+  {
+    "category": "TIU",
+    "question": "Sebuah keluarga yang terdiri dari ayah, ibu, dan 3 orang anak hendak duduk mengelilingi meja makan bundar. Jika ayah dan ibu harus selalu duduk berdampingan, berapa banyak susunan posisi duduk yang mungkin terjadi?",
+    "options": [
+      "6",
+      "12",
+      "24",
+      "48",
+      "120"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 706
+  },
+  {
+    "category": "TIU",
+    "question": "Jika 2^(x+1) + 2^(x+2) = 48, maka nilai x adalah...",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 707
+  },
+  {
+    "category": "TIU",
+    "question": "Sebuah laptop dijual dengan harga Rp 7.200.000,00 setelah diberi diskon sebesar 20%. Jika dari penjualan tersebut penjual masih memperoleh untung sebesar 20% dari harga beli laptop, berapakah modal harga beli laptop tersebut?",
+    "options": [
+      "Rp 5.000.000,00",
+      "Rp 5.500.000,00",
+      "Rp 6.000.000,00",
+      "Rp 6.250.000,00",
+      "Rp 6.500.000,00"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 708
+  },
+  {
+    "category": "TIU",
+    "question": "Lima orang staf (A, B, C, D, E) bertugas piket dari hari Senin hingga Jumat (satu orang per hari):- B bertugas dua hari setelah A.- D bertugas pada hari tepat sebelum E.- C bertugas pada hari Jumat.Siapakah yang bertugas piket pada hari Rabu?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 709
+  },
+  {
+    "category": "TIU",
+    "question": "Hubungan konsep antara PEDANG, SENJATA, dan SAMURAI paling tepat digambarkan oleh...",
+    "options": [
+      "Semua samurai adalah pedang, dan semua pedang adalah senjata",
+      "Sebagian senjata adalah pedang, dan samurai tidak berhubungan dengan pedang",
+      "Samurai adalah pedang, namun bukan termasuk jenis senjata",
+      "Semua senjata adalah samurai",
+      "Pedang dan samurai merupakan dua himpunan terpisah di luar senjata"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 710
+  },
+  {
+    "category": "TIU",
+    "question": "ORNITOLOGI : BURUNG = ENTOMOLOGI : ... (Paket Latihan 2)",
+    "options": [
+      "Ikan",
+      "Serangga",
+      "Reptil",
+      "Fosil",
+      "Jamur"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 711
+  },
+  {
+    "category": "TIU",
+    "question": "Premis 1: Jika suatu daerah menerapkan zona hijau, maka seluruh fasilitas publik dibuka tanpa pembatasan.Premis 2: Sebagian fasilitas publik di Daerah X masih dibuka dengan pembatasan ketat.Kesimpulan yang sah adalah... (Paket Latihan 2)",
+    "options": [
+      "Daerah X telah berstatus zona hijau",
+      "Daerah X bukan daerah yang menerapkan zona hijau",
+      "Semua daerah selain Daerah X berstatus zona hijau",
+      "Pembatasan di Daerah X akan segera dicabut",
+      "Sebagian daerah zona hijau memiliki fasilitas publik yang dibatasi"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 712
+  },
+  {
+    "category": "TIU",
+    "question": "5,   9,   17,   29,   45,   ... (Paket Latihan 2)",
+    "options": [
+      "61",
+      "63",
+      "65",
+      "67",
+      "69"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 713
+  },
+  {
+    "category": "TIU",
+    "question": "Tiga tahun lalu, perbandingan umur ayah dan anak laki-lakinya adalah 4 : 1. Jika saat ini jumlah umur mereka berdua adalah 56 tahun, berapakah umur ayah saat ini? (Paket Latihan 2)",
+    "options": [
+      "40 tahun",
+      "41 tahun",
+      "43 tahun",
+      "45 tahun",
+      "47 tahun"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 714
+  },
+  {
+    "category": "TIU",
+    "question": "Seorang pengendara motor melaju dari kota P ke kota Q dengan kecepatan 40 km/jam, dan kembali dari Q ke P melalui rute yang sama dengan kecepatan 60 km/jam. Kecepatan rata-rata seluruh perjalanan pengendara tersebut adalah... (Paket Latihan 2)",
+    "options": [
+      "48 km/jam",
+      "50 km/jam",
+      "52 km/jam",
+      "54 km/jam",
+      "55 km/jam"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 715
+  },
+  {
+    "category": "TIU",
+    "question": "Sebuah keluarga yang terdiri dari ayah, ibu, dan 3 orang anak hendak duduk mengelilingi meja makan bundar. Jika ayah dan ibu harus selalu duduk berdampingan, berapa banyak susunan posisi duduk yang mungkin terjadi? (Paket Latihan 2)",
+    "options": [
+      "6",
+      "12",
+      "24",
+      "48",
+      "120"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 716
+  },
+  {
+    "category": "TIU",
+    "question": "Jika 2^(x+1) + 2^(x+2) = 48, maka nilai x adalah... (Paket Latihan 2)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 717
+  },
+  {
+    "category": "TIU",
+    "question": "Sebuah laptop dijual dengan harga Rp 7.200.000,00 setelah diberi diskon sebesar 20%. Jika dari penjualan tersebut penjual masih memperoleh untung sebesar 20% dari harga beli laptop, berapakah modal harga beli laptop tersebut? (Paket Latihan 2)",
+    "options": [
+      "Rp 5.000.000,00",
+      "Rp 5.500.000,00",
+      "Rp 6.000.000,00",
+      "Rp 6.250.000,00",
+      "Rp 6.500.000,00"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 718
+  },
+  {
+    "category": "TIU",
+    "question": "Lima orang staf (A, B, C, D, E) bertugas piket dari hari Senin hingga Jumat (satu orang per hari):- B bertugas dua hari setelah A.- D bertugas pada hari tepat sebelum E.- C bertugas pada hari Jumat.Siapakah yang bertugas piket pada hari Rabu? (Paket Latihan 2)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 719
+  },
+  {
+    "category": "TIU",
+    "question": "Hubungan konsep antara PEDANG, SENJATA, dan SAMURAI paling tepat digambarkan oleh... (Paket Latihan 2)",
+    "options": [
+      "Semua samurai adalah pedang, dan semua pedang adalah senjata",
+      "Sebagian senjata adalah pedang, dan samurai tidak berhubungan dengan pedang",
+      "Samurai adalah pedang, namun bukan termasuk jenis senjata",
+      "Semua senjata adalah samurai",
+      "Pedang dan samurai merupakan dua himpunan terpisah di luar senjata"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 720
+  },
+  {
+    "category": "TIU",
+    "question": "ORNITOLOGI : BURUNG = ENTOMOLOGI : ... (Paket Latihan 3)",
+    "options": [
+      "Ikan",
+      "Serangga",
+      "Reptil",
+      "Fosil",
+      "Jamur"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 721
+  },
+  {
+    "category": "TIU",
+    "question": "Premis 1: Jika suatu daerah menerapkan zona hijau, maka seluruh fasilitas publik dibuka tanpa pembatasan.Premis 2: Sebagian fasilitas publik di Daerah X masih dibuka dengan pembatasan ketat.Kesimpulan yang sah adalah... (Paket Latihan 3)",
+    "options": [
+      "Daerah X telah berstatus zona hijau",
+      "Daerah X bukan daerah yang menerapkan zona hijau",
+      "Semua daerah selain Daerah X berstatus zona hijau",
+      "Pembatasan di Daerah X akan segera dicabut",
+      "Sebagian daerah zona hijau memiliki fasilitas publik yang dibatasi"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 722
+  },
+  {
+    "category": "TIU",
+    "question": "5,   9,   17,   29,   45,   ... (Paket Latihan 3)",
+    "options": [
+      "61",
+      "63",
+      "65",
+      "67",
+      "69"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 723
+  },
+  {
+    "category": "TIU",
+    "question": "Tiga tahun lalu, perbandingan umur ayah dan anak laki-lakinya adalah 4 : 1. Jika saat ini jumlah umur mereka berdua adalah 56 tahun, berapakah umur ayah saat ini? (Paket Latihan 3)",
+    "options": [
+      "40 tahun",
+      "41 tahun",
+      "43 tahun",
+      "45 tahun",
+      "47 tahun"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 724
+  },
+  {
+    "category": "TIU",
+    "question": "Seorang pengendara motor melaju dari kota P ke kota Q dengan kecepatan 40 km/jam, dan kembali dari Q ke P melalui rute yang sama dengan kecepatan 60 km/jam. Kecepatan rata-rata seluruh perjalanan pengendara tersebut adalah... (Paket Latihan 3)",
+    "options": [
+      "48 km/jam",
+      "50 km/jam",
+      "52 km/jam",
+      "54 km/jam",
+      "55 km/jam"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 725
+  },
+  {
+    "category": "TIU",
+    "question": "Sebuah keluarga yang terdiri dari ayah, ibu, dan 3 orang anak hendak duduk mengelilingi meja makan bundar. Jika ayah dan ibu harus selalu duduk berdampingan, berapa banyak susunan posisi duduk yang mungkin terjadi? (Paket Latihan 3)",
+    "options": [
+      "6",
+      "12",
+      "24",
+      "48",
+      "120"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 726
+  },
+  {
+    "category": "TIU",
+    "question": "Jika 2^(x+1) + 2^(x+2) = 48, maka nilai x adalah... (Paket Latihan 3)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 727
+  },
+  {
+    "category": "TIU",
+    "question": "Sebuah laptop dijual dengan harga Rp 7.200.000,00 setelah diberi diskon sebesar 20%. Jika dari penjualan tersebut penjual masih memperoleh untung sebesar 20% dari harga beli laptop, berapakah modal harga beli laptop tersebut? (Paket Latihan 3)",
+    "options": [
+      "Rp 5.000.000,00",
+      "Rp 5.500.000,00",
+      "Rp 6.000.000,00",
+      "Rp 6.250.000,00",
+      "Rp 6.500.000,00"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 728
+  },
+  {
+    "category": "TIU",
+    "question": "Lima orang staf (A, B, C, D, E) bertugas piket dari hari Senin hingga Jumat (satu orang per hari):- B bertugas dua hari setelah A.- D bertugas pada hari tepat sebelum E.- C bertugas pada hari Jumat.Siapakah yang bertugas piket pada hari Rabu? (Paket Latihan 3)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 729
+  },
+  {
+    "category": "TIU",
+    "question": "Hubungan konsep antara PEDANG, SENJATA, dan SAMURAI paling tepat digambarkan oleh... (Paket Latihan 3)",
+    "options": [
+      "Semua samurai adalah pedang, dan semua pedang adalah senjata",
+      "Sebagian senjata adalah pedang, dan samurai tidak berhubungan dengan pedang",
+      "Samurai adalah pedang, namun bukan termasuk jenis senjata",
+      "Semua senjata adalah samurai",
+      "Pedang dan samurai merupakan dua himpunan terpisah di luar senjata"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 730
+  },
+  {
+    "category": "TIU",
+    "question": "ORNITOLOGI : BURUNG = ENTOMOLOGI : ... (Paket Latihan 4)",
+    "options": [
+      "Ikan",
+      "Serangga",
+      "Reptil",
+      "Fosil",
+      "Jamur"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 731
+  },
+  {
+    "category": "TIU",
+    "question": "Premis 1: Jika suatu daerah menerapkan zona hijau, maka seluruh fasilitas publik dibuka tanpa pembatasan.Premis 2: Sebagian fasilitas publik di Daerah X masih dibuka dengan pembatasan ketat.Kesimpulan yang sah adalah... (Paket Latihan 4)",
+    "options": [
+      "Daerah X telah berstatus zona hijau",
+      "Daerah X bukan daerah yang menerapkan zona hijau",
+      "Semua daerah selain Daerah X berstatus zona hijau",
+      "Pembatasan di Daerah X akan segera dicabut",
+      "Sebagian daerah zona hijau memiliki fasilitas publik yang dibatasi"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 732
+  },
+  {
+    "category": "TIU",
+    "question": "5,   9,   17,   29,   45,   ... (Paket Latihan 4)",
+    "options": [
+      "61",
+      "63",
+      "65",
+      "67",
+      "69"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 733
+  },
+  {
+    "category": "TIU",
+    "question": "Tiga tahun lalu, perbandingan umur ayah dan anak laki-lakinya adalah 4 : 1. Jika saat ini jumlah umur mereka berdua adalah 56 tahun, berapakah umur ayah saat ini? (Paket Latihan 4)",
+    "options": [
+      "40 tahun",
+      "41 tahun",
+      "43 tahun",
+      "45 tahun",
+      "47 tahun"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 734
+  },
+  {
+    "category": "TIU",
+    "question": "Seorang pengendara motor melaju dari kota P ke kota Q dengan kecepatan 40 km/jam, dan kembali dari Q ke P melalui rute yang sama dengan kecepatan 60 km/jam. Kecepatan rata-rata seluruh perjalanan pengendara tersebut adalah... (Paket Latihan 4)",
+    "options": [
+      "48 km/jam",
+      "50 km/jam",
+      "52 km/jam",
+      "54 km/jam",
+      "55 km/jam"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 735
+  },
+  {
+    "category": "TIU",
+    "question": "Sebuah keluarga yang terdiri dari ayah, ibu, dan 3 orang anak hendak duduk mengelilingi meja makan bundar. Jika ayah dan ibu harus selalu duduk berdampingan, berapa banyak susunan posisi duduk yang mungkin terjadi? (Paket Latihan 4)",
+    "options": [
+      "6",
+      "12",
+      "24",
+      "48",
+      "120"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 736
+  },
+  {
+    "category": "TIU",
+    "question": "Jika 2^(x+1) + 2^(x+2) = 48, maka nilai x adalah... (Paket Latihan 4)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 737
+  },
+  {
+    "category": "TIU",
+    "question": "Sebuah laptop dijual dengan harga Rp 7.200.000,00 setelah diberi diskon sebesar 20%. Jika dari penjualan tersebut penjual masih memperoleh untung sebesar 20% dari harga beli laptop, berapakah modal harga beli laptop tersebut? (Paket Latihan 4)",
+    "options": [
+      "Rp 5.000.000,00",
+      "Rp 5.500.000,00",
+      "Rp 6.000.000,00",
+      "Rp 6.250.000,00",
+      "Rp 6.500.000,00"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 738
+  },
+  {
+    "category": "TIU",
+    "question": "Lima orang staf (A, B, C, D, E) bertugas piket dari hari Senin hingga Jumat (satu orang per hari):- B bertugas dua hari setelah A.- D bertugas pada hari tepat sebelum E.- C bertugas pada hari Jumat.Siapakah yang bertugas piket pada hari Rabu? (Paket Latihan 4)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 739
+  },
+  {
+    "category": "TIU",
+    "question": "Hubungan konsep antara PEDANG, SENJATA, dan SAMURAI paling tepat digambarkan oleh... (Paket Latihan 4)",
+    "options": [
+      "Semua samurai adalah pedang, dan semua pedang adalah senjata",
+      "Sebagian senjata adalah pedang, dan samurai tidak berhubungan dengan pedang",
+      "Samurai adalah pedang, namun bukan termasuk jenis senjata",
+      "Semua senjata adalah samurai",
+      "Pedang dan samurai merupakan dua himpunan terpisah di luar senjata"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 740
+  },
+  {
+    "category": "TIU",
+    "question": "ORNITOLOGI : BURUNG = ENTOMOLOGI : ... (Paket Latihan 5)",
+    "options": [
+      "Ikan",
+      "Serangga",
+      "Reptil",
+      "Fosil",
+      "Jamur"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 741
+  },
+  {
+    "category": "TIU",
+    "question": "Premis 1: Jika suatu daerah menerapkan zona hijau, maka seluruh fasilitas publik dibuka tanpa pembatasan.Premis 2: Sebagian fasilitas publik di Daerah X masih dibuka dengan pembatasan ketat.Kesimpulan yang sah adalah... (Paket Latihan 5)",
+    "options": [
+      "Daerah X telah berstatus zona hijau",
+      "Daerah X bukan daerah yang menerapkan zona hijau",
+      "Semua daerah selain Daerah X berstatus zona hijau",
+      "Pembatasan di Daerah X akan segera dicabut",
+      "Sebagian daerah zona hijau memiliki fasilitas publik yang dibatasi"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 742
+  },
+  {
+    "category": "TIU",
+    "question": "5,   9,   17,   29,   45,   ... (Paket Latihan 5)",
+    "options": [
+      "61",
+      "63",
+      "65",
+      "67",
+      "69"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 743
+  },
+  {
+    "category": "TIU",
+    "question": "Tiga tahun lalu, perbandingan umur ayah dan anak laki-lakinya adalah 4 : 1. Jika saat ini jumlah umur mereka berdua adalah 56 tahun, berapakah umur ayah saat ini? (Paket Latihan 5)",
+    "options": [
+      "40 tahun",
+      "41 tahun",
+      "43 tahun",
+      "45 tahun",
+      "47 tahun"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 744
+  },
+  {
+    "category": "TIU",
+    "question": "Seorang pengendara motor melaju dari kota P ke kota Q dengan kecepatan 40 km/jam, dan kembali dari Q ke P melalui rute yang sama dengan kecepatan 60 km/jam. Kecepatan rata-rata seluruh perjalanan pengendara tersebut adalah... (Paket Latihan 5)",
+    "options": [
+      "48 km/jam",
+      "50 km/jam",
+      "52 km/jam",
+      "54 km/jam",
+      "55 km/jam"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 745
+  },
+  {
+    "category": "TIU",
+    "question": "Sebuah keluarga yang terdiri dari ayah, ibu, dan 3 orang anak hendak duduk mengelilingi meja makan bundar. Jika ayah dan ibu harus selalu duduk berdampingan, berapa banyak susunan posisi duduk yang mungkin terjadi? (Paket Latihan 5)",
+    "options": [
+      "6",
+      "12",
+      "24",
+      "48",
+      "120"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 746
+  },
+  {
+    "category": "TIU",
+    "question": "Jika 2^(x+1) + 2^(x+2) = 48, maka nilai x adalah... (Paket Latihan 5)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 747
+  },
+  {
+    "category": "TIU",
+    "question": "Sebuah laptop dijual dengan harga Rp 7.200.000,00 setelah diberi diskon sebesar 20%. Jika dari penjualan tersebut penjual masih memperoleh untung sebesar 20% dari harga beli laptop, berapakah modal harga beli laptop tersebut? (Paket Latihan 5)",
+    "options": [
+      "Rp 5.000.000,00",
+      "Rp 5.500.000,00",
+      "Rp 6.000.000,00",
+      "Rp 6.250.000,00",
+      "Rp 6.500.000,00"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 748
+  },
+  {
+    "category": "TIU",
+    "question": "Lima orang staf (A, B, C, D, E) bertugas piket dari hari Senin hingga Jumat (satu orang per hari):- B bertugas dua hari setelah A.- D bertugas pada hari tepat sebelum E.- C bertugas pada hari Jumat.Siapakah yang bertugas piket pada hari Rabu? (Paket Latihan 5)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 749
+  },
+  {
+    "category": "TIU",
+    "question": "Hubungan konsep antara PEDANG, SENJATA, dan SAMURAI paling tepat digambarkan oleh... (Paket Latihan 5)",
+    "options": [
+      "Semua samurai adalah pedang, dan semua pedang adalah senjata",
+      "Sebagian senjata adalah pedang, dan samurai tidak berhubungan dengan pedang",
+      "Samurai adalah pedang, namun bukan termasuk jenis senjata",
+      "Semua senjata adalah samurai",
+      "Pedang dan samurai merupakan dua himpunan terpisah di luar senjata"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 750
+  },
+  {
+    "category": "TIU",
+    "question": "ORNITOLOGI : BURUNG = ENTOMOLOGI : ... (Paket Latihan 6)",
+    "options": [
+      "Ikan",
+      "Serangga",
+      "Reptil",
+      "Fosil",
+      "Jamur"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 751
+  },
+  {
+    "category": "TIU",
+    "question": "Premis 1: Jika suatu daerah menerapkan zona hijau, maka seluruh fasilitas publik dibuka tanpa pembatasan.Premis 2: Sebagian fasilitas publik di Daerah X masih dibuka dengan pembatasan ketat.Kesimpulan yang sah adalah... (Paket Latihan 6)",
+    "options": [
+      "Daerah X telah berstatus zona hijau",
+      "Daerah X bukan daerah yang menerapkan zona hijau",
+      "Semua daerah selain Daerah X berstatus zona hijau",
+      "Pembatasan di Daerah X akan segera dicabut",
+      "Sebagian daerah zona hijau memiliki fasilitas publik yang dibatasi"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 752
+  },
+  {
+    "category": "TIU",
+    "question": "5,   9,   17,   29,   45,   ... (Paket Latihan 6)",
+    "options": [
+      "61",
+      "63",
+      "65",
+      "67",
+      "69"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 753
+  },
+  {
+    "category": "TIU",
+    "question": "Tiga tahun lalu, perbandingan umur ayah dan anak laki-lakinya adalah 4 : 1. Jika saat ini jumlah umur mereka berdua adalah 56 tahun, berapakah umur ayah saat ini? (Paket Latihan 6)",
+    "options": [
+      "40 tahun",
+      "41 tahun",
+      "43 tahun",
+      "45 tahun",
+      "47 tahun"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 754
+  },
+  {
+    "category": "TIU",
+    "question": "Seorang pengendara motor melaju dari kota P ke kota Q dengan kecepatan 40 km/jam, dan kembali dari Q ke P melalui rute yang sama dengan kecepatan 60 km/jam. Kecepatan rata-rata seluruh perjalanan pengendara tersebut adalah... (Paket Latihan 6)",
+    "options": [
+      "48 km/jam",
+      "50 km/jam",
+      "52 km/jam",
+      "54 km/jam",
+      "55 km/jam"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 755
+  },
+  {
+    "category": "TIU",
+    "question": "Sebuah keluarga yang terdiri dari ayah, ibu, dan 3 orang anak hendak duduk mengelilingi meja makan bundar. Jika ayah dan ibu harus selalu duduk berdampingan, berapa banyak susunan posisi duduk yang mungkin terjadi? (Paket Latihan 6)",
+    "options": [
+      "6",
+      "12",
+      "24",
+      "48",
+      "120"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 756
+  },
+  {
+    "category": "TIU",
+    "question": "Jika 2^(x+1) + 2^(x+2) = 48, maka nilai x adalah... (Paket Latihan 6)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 757
+  },
+  {
+    "category": "TIU",
+    "question": "Sebuah laptop dijual dengan harga Rp 7.200.000,00 setelah diberi diskon sebesar 20%. Jika dari penjualan tersebut penjual masih memperoleh untung sebesar 20% dari harga beli laptop, berapakah modal harga beli laptop tersebut? (Paket Latihan 6)",
+    "options": [
+      "Rp 5.000.000,00",
+      "Rp 5.500.000,00",
+      "Rp 6.000.000,00",
+      "Rp 6.250.000,00",
+      "Rp 6.500.000,00"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 758
+  },
+  {
+    "category": "TIU",
+    "question": "Lima orang staf (A, B, C, D, E) bertugas piket dari hari Senin hingga Jumat (satu orang per hari):- B bertugas dua hari setelah A.- D bertugas pada hari tepat sebelum E.- C bertugas pada hari Jumat.Siapakah yang bertugas piket pada hari Rabu? (Paket Latihan 6)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 759
+  },
+  {
+    "category": "TIU",
+    "question": "Hubungan konsep antara PEDANG, SENJATA, dan SAMURAI paling tepat digambarkan oleh... (Paket Latihan 6)",
+    "options": [
+      "Semua samurai adalah pedang, dan semua pedang adalah senjata",
+      "Sebagian senjata adalah pedang, dan samurai tidak berhubungan dengan pedang",
+      "Samurai adalah pedang, namun bukan termasuk jenis senjata",
+      "Semua senjata adalah samurai",
+      "Pedang dan samurai merupakan dua himpunan terpisah di luar senjata"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 760
+  },
+  {
+    "category": "TIU",
+    "question": "ORNITOLOGI : BURUNG = ENTOMOLOGI : ... (Paket Latihan 7)",
+    "options": [
+      "Ikan",
+      "Serangga",
+      "Reptil",
+      "Fosil",
+      "Jamur"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 761
+  },
+  {
+    "category": "TIU",
+    "question": "Premis 1: Jika suatu daerah menerapkan zona hijau, maka seluruh fasilitas publik dibuka tanpa pembatasan.Premis 2: Sebagian fasilitas publik di Daerah X masih dibuka dengan pembatasan ketat.Kesimpulan yang sah adalah... (Paket Latihan 7)",
+    "options": [
+      "Daerah X telah berstatus zona hijau",
+      "Daerah X bukan daerah yang menerapkan zona hijau",
+      "Semua daerah selain Daerah X berstatus zona hijau",
+      "Pembatasan di Daerah X akan segera dicabut",
+      "Sebagian daerah zona hijau memiliki fasilitas publik yang dibatasi"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "id": 762
+  },
+  {
+    "category": "TIU",
+    "question": "5,   9,   17,   29,   45,   ... (Paket Latihan 7)",
+    "options": [
+      "61",
+      "63",
+      "65",
+      "67",
+      "69"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 763
+  },
+  {
+    "category": "TIU",
+    "question": "Tiga tahun lalu, perbandingan umur ayah dan anak laki-lakinya adalah 4 : 1. Jika saat ini jumlah umur mereka berdua adalah 56 tahun, berapakah umur ayah saat ini? (Paket Latihan 7)",
+    "options": [
+      "40 tahun",
+      "41 tahun",
+      "43 tahun",
+      "45 tahun",
+      "47 tahun"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "id": 764
+  },
+  {
+    "category": "TIU",
+    "question": "Seorang pengendara motor melaju dari kota P ke kota Q dengan kecepatan 40 km/jam, dan kembali dari Q ke P melalui rute yang sama dengan kecepatan 60 km/jam. Kecepatan rata-rata seluruh perjalanan pengendara tersebut adalah... (Paket Latihan 7)",
+    "options": [
+      "48 km/jam",
+      "50 km/jam",
+      "52 km/jam",
+      "54 km/jam",
+      "55 km/jam"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "id": 765
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang warga mengadu dengan membawa bukti bahwa permohonan sertifikat tanahnya telah tertunda selama 6 bulan melebihi standar waktu SOP pelayanan kantor. Sikap Anda:",
+    "options": [
+      "Menerima aduan dengan empati dan permohonan maaf tulus, menelusuri nomor berkas pada sistem kendali internal untuk menemukan hambatan teknis, serta memberikan kepastian tanggal penyelesaian",
+      "Menyarankan warga langsung menemui kepala seksi teknis pertanahan di lantai dua untuk meminta penjelasan berkas",
+      "Meminta warga bersabar karena volume berkas pemohon yang masuk ke kantor sangat banyak",
+      "Menjelaskan bahwa keterlambatan berkas adalah hal yang lumrah pada pelayanan birokrasi pemerintah",
+      "Menolak melayani aduan karena proses berkas tersebut bukan berada di meja loket Anda"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 766
+  },
+  {
+    "category": "TKP",
+    "question": "Anda dipercaya memimpin tim penataan arsip digital kantor dengan tenggat waktu satu bulan. Di minggu kedua, dua anggota tim Anda bekerja lambat karena kurang menguasai aplikasi scanner otomatis. Sikap Anda:",
+    "options": [
+      "Meluangkan waktu mendampingi dan memberikan tutorial teknis ringkas, lalu menyusun target kuota harian bersama agar ritme kerja tim kembali sinkron",
+      "Mengalihkan tugas scanning kepada anggota lain yang lebih mahir agar tenggat waktu kantor aman",
+      "Menegur kedua anggota tersebut secara keras dalam evaluasi mingguan agar tidak menyepelekan tugas",
+      "Mengerjakan sendiri sisa dokumen yang belum discan di luar jam kerja resmi",
+      "Melaporkan ketidakmampuan anggota tersebut ke pimpinan agar diberikan sanksi administrasi"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 767
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang kerabat dekat yang bekerja sebagai wartawan media daerah mendesak Anda memberikan bocoran dokumen rancangan zonasi tata ruang wilayah yang berstatus rahasia sebelum diumumkan resmi. Sikap Anda:",
+    "options": [
+      "Menolak permohonan tersebut secara tegas dan santun, menjelaskan kewajiban memegang rahasia jabatan ASN sesuai undang-undang, serta mempersilakannya menunggu rilis resmi humas",
+      "Memberikan gambaran umum secara lisan tanpa menyerahkan salinan fisik atau digital dokumen",
+      "Meminta kerabat tersebut menghubungi pimpinan instansi untuk meminta izin khusus",
+      "Memberikan dokumen dengan syarat identitas Anda dirahasiakan sebagai narasumber internal",
+      "Mengabaikan kode etik demi membantu karier kerabat dekat"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 768
+  },
+  {
+    "category": "TKP",
+    "question": "Kementerian tempat Anda bekerja beralih ke platform kerja kolaborasi berbasis awan (cloud workspace). Beberapa dokumen yang biasa Anda buat secara luring kini wajib dibagikan secara bersamaan (*real-time sharing*). Sikap Anda:",
+    "options": [
+      "Segera mempelajari fitur kolaborasi bersama, menyesuaikan pola kerja transparansi dokumen, dan aktif bertukar tips pemanfaatan fitur dengan rekan tim",
+      "Menggunakan platform tersebut hanya ketika diminta oleh atasan secara langsung",
+      "Tetap bekerja dengan file lokal di komputer pribadi dan baru mengunggahnya saat dokumen sudah final",
+      "Mengeluhkan perubahan sistem karena menganggap sistem lama lebih privat dan nyaman",
+      "Menolak menggunakan sistem awan karena khawatir dokumen bocor atau terhapus"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 769
+  },
+  {
+    "category": "TKP",
+    "question": "Instansi Anda menyelenggarakan forum koordinasi wilayah yang dihadiri oleh tokoh masyarakat dan perwakilan adat dari berbagai wilayah kepulauan. Sikap Anda dalam menyambut kehadiran mereka:",
+    "options": [
+      "Menyambut mereka dengan sikap hormat, ramah, dan santun, memperhatikan etika tata krama budaya setempat, serta menyediakan fasilitas yang ramah bagi kebutuhan delegasi",
+      "Menyambut mereka sesuai standar protokoler biasa tanpa membeda-bedakan latar belakang budaya",
+      "Menyerahkan proses penerimaan tamu sepenuhnya kepada staf humas protokol kantor",
+      "Menghindari interaksi langsung karena merasa canggung dengan dialek dan busana adat tamu",
+      "Meminta para tamu melepaskan atribut busana adat agar tampak formal dan seragam"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 770
+  },
+  {
+    "category": "TKP",
+    "question": "Di media sosial, Anda melihat seorang tokoh lokal yang cukup berpengaruh mengajak warga memboikot pembayaran pajak negara dengan dalih bahwa pemerintah sah saat ini adalah rezim tirani yang wajib digulingkan. Sikap Anda:",
+    "options": [
+      "Tidak terprovokasi dan tidak ikut menyebarkan narasi tersebut, mengedukasi lingkaran pertemanan tentang kewajiban warga negara, serta melaporkan akun tersebut ke kanal aduan konten Kominfo/aparat",
+      "Memilih diam dan tidak ikut campur karena menganggap politik media sosial bukan urusan ASN",
+      "Mendebat akun tersebut di kolom komentar secara emosional dan kasar",
+      "Meneruskan tautan postingan ke grup percakapan kantor untuk meminta tanggapan rekan kerja",
+      "Menyukai unggahan tersebut karena merasa isi kritikannya ada benarnya"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 771
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang warga mengadu dengan membawa bukti bahwa permohonan sertifikat tanahnya telah tertunda selama 6 bulan melebihi standar waktu SOP pelayanan kantor. Sikap Anda: (Paket Latihan 2)",
+    "options": [
+      "Menerima aduan dengan empati dan permohonan maaf tulus, menelusuri nomor berkas pada sistem kendali internal untuk menemukan hambatan teknis, serta memberikan kepastian tanggal penyelesaian",
+      "Menyarankan warga langsung menemui kepala seksi teknis pertanahan di lantai dua untuk meminta penjelasan berkas",
+      "Meminta warga bersabar karena volume berkas pemohon yang masuk ke kantor sangat banyak",
+      "Menjelaskan bahwa keterlambatan berkas adalah hal yang lumrah pada pelayanan birokrasi pemerintah",
+      "Menolak melayani aduan karena proses berkas tersebut bukan berada di meja loket Anda"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 772
+  },
+  {
+    "category": "TKP",
+    "question": "Anda dipercaya memimpin tim penataan arsip digital kantor dengan tenggat waktu satu bulan. Di minggu kedua, dua anggota tim Anda bekerja lambat karena kurang menguasai aplikasi scanner otomatis. Sikap Anda: (Paket Latihan 2)",
+    "options": [
+      "Meluangkan waktu mendampingi dan memberikan tutorial teknis ringkas, lalu menyusun target kuota harian bersama agar ritme kerja tim kembali sinkron",
+      "Mengalihkan tugas scanning kepada anggota lain yang lebih mahir agar tenggat waktu kantor aman",
+      "Menegur kedua anggota tersebut secara keras dalam evaluasi mingguan agar tidak menyepelekan tugas",
+      "Mengerjakan sendiri sisa dokumen yang belum discan di luar jam kerja resmi",
+      "Melaporkan ketidakmampuan anggota tersebut ke pimpinan agar diberikan sanksi administrasi"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 773
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang kerabat dekat yang bekerja sebagai wartawan media daerah mendesak Anda memberikan bocoran dokumen rancangan zonasi tata ruang wilayah yang berstatus rahasia sebelum diumumkan resmi. Sikap Anda: (Paket Latihan 2)",
+    "options": [
+      "Menolak permohonan tersebut secara tegas dan santun, menjelaskan kewajiban memegang rahasia jabatan ASN sesuai undang-undang, serta mempersilakannya menunggu rilis resmi humas",
+      "Memberikan gambaran umum secara lisan tanpa menyerahkan salinan fisik atau digital dokumen",
+      "Meminta kerabat tersebut menghubungi pimpinan instansi untuk meminta izin khusus",
+      "Memberikan dokumen dengan syarat identitas Anda dirahasiakan sebagai narasumber internal",
+      "Mengabaikan kode etik demi membantu karier kerabat dekat"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 774
+  },
+  {
+    "category": "TKP",
+    "question": "Kementerian tempat Anda bekerja beralih ke platform kerja kolaborasi berbasis awan (cloud workspace). Beberapa dokumen yang biasa Anda buat secara luring kini wajib dibagikan secara bersamaan (*real-time sharing*). Sikap Anda: (Paket Latihan 2)",
+    "options": [
+      "Segera mempelajari fitur kolaborasi bersama, menyesuaikan pola kerja transparansi dokumen, dan aktif bertukar tips pemanfaatan fitur dengan rekan tim",
+      "Menggunakan platform tersebut hanya ketika diminta oleh atasan secara langsung",
+      "Tetap bekerja dengan file lokal di komputer pribadi dan baru mengunggahnya saat dokumen sudah final",
+      "Mengeluhkan perubahan sistem karena menganggap sistem lama lebih privat dan nyaman",
+      "Menolak menggunakan sistem awan karena khawatir dokumen bocor atau terhapus"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 775
+  },
+  {
+    "category": "TKP",
+    "question": "Instansi Anda menyelenggarakan forum koordinasi wilayah yang dihadiri oleh tokoh masyarakat dan perwakilan adat dari berbagai wilayah kepulauan. Sikap Anda dalam menyambut kehadiran mereka: (Paket Latihan 2)",
+    "options": [
+      "Menyambut mereka dengan sikap hormat, ramah, dan santun, memperhatikan etika tata krama budaya setempat, serta menyediakan fasilitas yang ramah bagi kebutuhan delegasi",
+      "Menyambut mereka sesuai standar protokoler biasa tanpa membeda-bedakan latar belakang budaya",
+      "Menyerahkan proses penerimaan tamu sepenuhnya kepada staf humas protokol kantor",
+      "Menghindari interaksi langsung karena merasa canggung dengan dialek dan busana adat tamu",
+      "Meminta para tamu melepaskan atribut busana adat agar tampak formal dan seragam"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 776
+  },
+  {
+    "category": "TKP",
+    "question": "Di media sosial, Anda melihat seorang tokoh lokal yang cukup berpengaruh mengajak warga memboikot pembayaran pajak negara dengan dalih bahwa pemerintah sah saat ini adalah rezim tirani yang wajib digulingkan. Sikap Anda: (Paket Latihan 2)",
+    "options": [
+      "Tidak terprovokasi dan tidak ikut menyebarkan narasi tersebut, mengedukasi lingkaran pertemanan tentang kewajiban warga negara, serta melaporkan akun tersebut ke kanal aduan konten Kominfo/aparat",
+      "Memilih diam dan tidak ikut campur karena menganggap politik media sosial bukan urusan ASN",
+      "Mendebat akun tersebut di kolom komentar secara emosional dan kasar",
+      "Meneruskan tautan postingan ke grup percakapan kantor untuk meminta tanggapan rekan kerja",
+      "Menyukai unggahan tersebut karena merasa isi kritikannya ada benarnya"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 777
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang warga mengadu dengan membawa bukti bahwa permohonan sertifikat tanahnya telah tertunda selama 6 bulan melebihi standar waktu SOP pelayanan kantor. Sikap Anda: (Paket Latihan 3)",
+    "options": [
+      "Menerima aduan dengan empati dan permohonan maaf tulus, menelusuri nomor berkas pada sistem kendali internal untuk menemukan hambatan teknis, serta memberikan kepastian tanggal penyelesaian",
+      "Menyarankan warga langsung menemui kepala seksi teknis pertanahan di lantai dua untuk meminta penjelasan berkas",
+      "Meminta warga bersabar karena volume berkas pemohon yang masuk ke kantor sangat banyak",
+      "Menjelaskan bahwa keterlambatan berkas adalah hal yang lumrah pada pelayanan birokrasi pemerintah",
+      "Menolak melayani aduan karena proses berkas tersebut bukan berada di meja loket Anda"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 778
+  },
+  {
+    "category": "TKP",
+    "question": "Anda dipercaya memimpin tim penataan arsip digital kantor dengan tenggat waktu satu bulan. Di minggu kedua, dua anggota tim Anda bekerja lambat karena kurang menguasai aplikasi scanner otomatis. Sikap Anda: (Paket Latihan 3)",
+    "options": [
+      "Meluangkan waktu mendampingi dan memberikan tutorial teknis ringkas, lalu menyusun target kuota harian bersama agar ritme kerja tim kembali sinkron",
+      "Mengalihkan tugas scanning kepada anggota lain yang lebih mahir agar tenggat waktu kantor aman",
+      "Menegur kedua anggota tersebut secara keras dalam evaluasi mingguan agar tidak menyepelekan tugas",
+      "Mengerjakan sendiri sisa dokumen yang belum discan di luar jam kerja resmi",
+      "Melaporkan ketidakmampuan anggota tersebut ke pimpinan agar diberikan sanksi administrasi"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 779
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang kerabat dekat yang bekerja sebagai wartawan media daerah mendesak Anda memberikan bocoran dokumen rancangan zonasi tata ruang wilayah yang berstatus rahasia sebelum diumumkan resmi. Sikap Anda: (Paket Latihan 3)",
+    "options": [
+      "Menolak permohonan tersebut secara tegas dan santun, menjelaskan kewajiban memegang rahasia jabatan ASN sesuai undang-undang, serta mempersilakannya menunggu rilis resmi humas",
+      "Memberikan gambaran umum secara lisan tanpa menyerahkan salinan fisik atau digital dokumen",
+      "Meminta kerabat tersebut menghubungi pimpinan instansi untuk meminta izin khusus",
+      "Memberikan dokumen dengan syarat identitas Anda dirahasiakan sebagai narasumber internal",
+      "Mengabaikan kode etik demi membantu karier kerabat dekat"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 780
+  },
+  {
+    "category": "TKP",
+    "question": "Kementerian tempat Anda bekerja beralih ke platform kerja kolaborasi berbasis awan (cloud workspace). Beberapa dokumen yang biasa Anda buat secara luring kini wajib dibagikan secara bersamaan (*real-time sharing*). Sikap Anda: (Paket Latihan 3)",
+    "options": [
+      "Segera mempelajari fitur kolaborasi bersama, menyesuaikan pola kerja transparansi dokumen, dan aktif bertukar tips pemanfaatan fitur dengan rekan tim",
+      "Menggunakan platform tersebut hanya ketika diminta oleh atasan secara langsung",
+      "Tetap bekerja dengan file lokal di komputer pribadi dan baru mengunggahnya saat dokumen sudah final",
+      "Mengeluhkan perubahan sistem karena menganggap sistem lama lebih privat dan nyaman",
+      "Menolak menggunakan sistem awan karena khawatir dokumen bocor atau terhapus"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 781
+  },
+  {
+    "category": "TKP",
+    "question": "Instansi Anda menyelenggarakan forum koordinasi wilayah yang dihadiri oleh tokoh masyarakat dan perwakilan adat dari berbagai wilayah kepulauan. Sikap Anda dalam menyambut kehadiran mereka: (Paket Latihan 3)",
+    "options": [
+      "Menyambut mereka dengan sikap hormat, ramah, dan santun, memperhatikan etika tata krama budaya setempat, serta menyediakan fasilitas yang ramah bagi kebutuhan delegasi",
+      "Menyambut mereka sesuai standar protokoler biasa tanpa membeda-bedakan latar belakang budaya",
+      "Menyerahkan proses penerimaan tamu sepenuhnya kepada staf humas protokol kantor",
+      "Menghindari interaksi langsung karena merasa canggung dengan dialek dan busana adat tamu",
+      "Meminta para tamu melepaskan atribut busana adat agar tampak formal dan seragam"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 782
+  },
+  {
+    "category": "TKP",
+    "question": "Di media sosial, Anda melihat seorang tokoh lokal yang cukup berpengaruh mengajak warga memboikot pembayaran pajak negara dengan dalih bahwa pemerintah sah saat ini adalah rezim tirani yang wajib digulingkan. Sikap Anda: (Paket Latihan 3)",
+    "options": [
+      "Tidak terprovokasi dan tidak ikut menyebarkan narasi tersebut, mengedukasi lingkaran pertemanan tentang kewajiban warga negara, serta melaporkan akun tersebut ke kanal aduan konten Kominfo/aparat",
+      "Memilih diam dan tidak ikut campur karena menganggap politik media sosial bukan urusan ASN",
+      "Mendebat akun tersebut di kolom komentar secara emosional dan kasar",
+      "Meneruskan tautan postingan ke grup percakapan kantor untuk meminta tanggapan rekan kerja",
+      "Menyukai unggahan tersebut karena merasa isi kritikannya ada benarnya"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 783
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang warga mengadu dengan membawa bukti bahwa permohonan sertifikat tanahnya telah tertunda selama 6 bulan melebihi standar waktu SOP pelayanan kantor. Sikap Anda: (Paket Latihan 4)",
+    "options": [
+      "Menerima aduan dengan empati dan permohonan maaf tulus, menelusuri nomor berkas pada sistem kendali internal untuk menemukan hambatan teknis, serta memberikan kepastian tanggal penyelesaian",
+      "Menyarankan warga langsung menemui kepala seksi teknis pertanahan di lantai dua untuk meminta penjelasan berkas",
+      "Meminta warga bersabar karena volume berkas pemohon yang masuk ke kantor sangat banyak",
+      "Menjelaskan bahwa keterlambatan berkas adalah hal yang lumrah pada pelayanan birokrasi pemerintah",
+      "Menolak melayani aduan karena proses berkas tersebut bukan berada di meja loket Anda"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 784
+  },
+  {
+    "category": "TKP",
+    "question": "Anda dipercaya memimpin tim penataan arsip digital kantor dengan tenggat waktu satu bulan. Di minggu kedua, dua anggota tim Anda bekerja lambat karena kurang menguasai aplikasi scanner otomatis. Sikap Anda: (Paket Latihan 4)",
+    "options": [
+      "Meluangkan waktu mendampingi dan memberikan tutorial teknis ringkas, lalu menyusun target kuota harian bersama agar ritme kerja tim kembali sinkron",
+      "Mengalihkan tugas scanning kepada anggota lain yang lebih mahir agar tenggat waktu kantor aman",
+      "Menegur kedua anggota tersebut secara keras dalam evaluasi mingguan agar tidak menyepelekan tugas",
+      "Mengerjakan sendiri sisa dokumen yang belum discan di luar jam kerja resmi",
+      "Melaporkan ketidakmampuan anggota tersebut ke pimpinan agar diberikan sanksi administrasi"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 785
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang kerabat dekat yang bekerja sebagai wartawan media daerah mendesak Anda memberikan bocoran dokumen rancangan zonasi tata ruang wilayah yang berstatus rahasia sebelum diumumkan resmi. Sikap Anda: (Paket Latihan 4)",
+    "options": [
+      "Menolak permohonan tersebut secara tegas dan santun, menjelaskan kewajiban memegang rahasia jabatan ASN sesuai undang-undang, serta mempersilakannya menunggu rilis resmi humas",
+      "Memberikan gambaran umum secara lisan tanpa menyerahkan salinan fisik atau digital dokumen",
+      "Meminta kerabat tersebut menghubungi pimpinan instansi untuk meminta izin khusus",
+      "Memberikan dokumen dengan syarat identitas Anda dirahasiakan sebagai narasumber internal",
+      "Mengabaikan kode etik demi membantu karier kerabat dekat"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 786
+  },
+  {
+    "category": "TKP",
+    "question": "Kementerian tempat Anda bekerja beralih ke platform kerja kolaborasi berbasis awan (cloud workspace). Beberapa dokumen yang biasa Anda buat secara luring kini wajib dibagikan secara bersamaan (*real-time sharing*). Sikap Anda: (Paket Latihan 4)",
+    "options": [
+      "Segera mempelajari fitur kolaborasi bersama, menyesuaikan pola kerja transparansi dokumen, dan aktif bertukar tips pemanfaatan fitur dengan rekan tim",
+      "Menggunakan platform tersebut hanya ketika diminta oleh atasan secara langsung",
+      "Tetap bekerja dengan file lokal di komputer pribadi dan baru mengunggahnya saat dokumen sudah final",
+      "Mengeluhkan perubahan sistem karena menganggap sistem lama lebih privat dan nyaman",
+      "Menolak menggunakan sistem awan karena khawatir dokumen bocor atau terhapus"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 787
+  },
+  {
+    "category": "TKP",
+    "question": "Instansi Anda menyelenggarakan forum koordinasi wilayah yang dihadiri oleh tokoh masyarakat dan perwakilan adat dari berbagai wilayah kepulauan. Sikap Anda dalam menyambut kehadiran mereka: (Paket Latihan 4)",
+    "options": [
+      "Menyambut mereka dengan sikap hormat, ramah, dan santun, memperhatikan etika tata krama budaya setempat, serta menyediakan fasilitas yang ramah bagi kebutuhan delegasi",
+      "Menyambut mereka sesuai standar protokoler biasa tanpa membeda-bedakan latar belakang budaya",
+      "Menyerahkan proses penerimaan tamu sepenuhnya kepada staf humas protokol kantor",
+      "Menghindari interaksi langsung karena merasa canggung dengan dialek dan busana adat tamu",
+      "Meminta para tamu melepaskan atribut busana adat agar tampak formal dan seragam"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 788
+  },
+  {
+    "category": "TKP",
+    "question": "Di media sosial, Anda melihat seorang tokoh lokal yang cukup berpengaruh mengajak warga memboikot pembayaran pajak negara dengan dalih bahwa pemerintah sah saat ini adalah rezim tirani yang wajib digulingkan. Sikap Anda: (Paket Latihan 4)",
+    "options": [
+      "Tidak terprovokasi dan tidak ikut menyebarkan narasi tersebut, mengedukasi lingkaran pertemanan tentang kewajiban warga negara, serta melaporkan akun tersebut ke kanal aduan konten Kominfo/aparat",
+      "Memilih diam dan tidak ikut campur karena menganggap politik media sosial bukan urusan ASN",
+      "Mendebat akun tersebut di kolom komentar secara emosional dan kasar",
+      "Meneruskan tautan postingan ke grup percakapan kantor untuk meminta tanggapan rekan kerja",
+      "Menyukai unggahan tersebut karena merasa isi kritikannya ada benarnya"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 789
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang warga mengadu dengan membawa bukti bahwa permohonan sertifikat tanahnya telah tertunda selama 6 bulan melebihi standar waktu SOP pelayanan kantor. Sikap Anda: (Paket Latihan 5)",
+    "options": [
+      "Menerima aduan dengan empati dan permohonan maaf tulus, menelusuri nomor berkas pada sistem kendali internal untuk menemukan hambatan teknis, serta memberikan kepastian tanggal penyelesaian",
+      "Menyarankan warga langsung menemui kepala seksi teknis pertanahan di lantai dua untuk meminta penjelasan berkas",
+      "Meminta warga bersabar karena volume berkas pemohon yang masuk ke kantor sangat banyak",
+      "Menjelaskan bahwa keterlambatan berkas adalah hal yang lumrah pada pelayanan birokrasi pemerintah",
+      "Menolak melayani aduan karena proses berkas tersebut bukan berada di meja loket Anda"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 790
+  },
+  {
+    "category": "TKP",
+    "question": "Anda dipercaya memimpin tim penataan arsip digital kantor dengan tenggat waktu satu bulan. Di minggu kedua, dua anggota tim Anda bekerja lambat karena kurang menguasai aplikasi scanner otomatis. Sikap Anda: (Paket Latihan 5)",
+    "options": [
+      "Meluangkan waktu mendampingi dan memberikan tutorial teknis ringkas, lalu menyusun target kuota harian bersama agar ritme kerja tim kembali sinkron",
+      "Mengalihkan tugas scanning kepada anggota lain yang lebih mahir agar tenggat waktu kantor aman",
+      "Menegur kedua anggota tersebut secara keras dalam evaluasi mingguan agar tidak menyepelekan tugas",
+      "Mengerjakan sendiri sisa dokumen yang belum discan di luar jam kerja resmi",
+      "Melaporkan ketidakmampuan anggota tersebut ke pimpinan agar diberikan sanksi administrasi"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 791
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang kerabat dekat yang bekerja sebagai wartawan media daerah mendesak Anda memberikan bocoran dokumen rancangan zonasi tata ruang wilayah yang berstatus rahasia sebelum diumumkan resmi. Sikap Anda: (Paket Latihan 5)",
+    "options": [
+      "Menolak permohonan tersebut secara tegas dan santun, menjelaskan kewajiban memegang rahasia jabatan ASN sesuai undang-undang, serta mempersilakannya menunggu rilis resmi humas",
+      "Memberikan gambaran umum secara lisan tanpa menyerahkan salinan fisik atau digital dokumen",
+      "Meminta kerabat tersebut menghubungi pimpinan instansi untuk meminta izin khusus",
+      "Memberikan dokumen dengan syarat identitas Anda dirahasiakan sebagai narasumber internal",
+      "Mengabaikan kode etik demi membantu karier kerabat dekat"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 792
+  },
+  {
+    "category": "TKP",
+    "question": "Kementerian tempat Anda bekerja beralih ke platform kerja kolaborasi berbasis awan (cloud workspace). Beberapa dokumen yang biasa Anda buat secara luring kini wajib dibagikan secara bersamaan (*real-time sharing*). Sikap Anda: (Paket Latihan 5)",
+    "options": [
+      "Segera mempelajari fitur kolaborasi bersama, menyesuaikan pola kerja transparansi dokumen, dan aktif bertukar tips pemanfaatan fitur dengan rekan tim",
+      "Menggunakan platform tersebut hanya ketika diminta oleh atasan secara langsung",
+      "Tetap bekerja dengan file lokal di komputer pribadi dan baru mengunggahnya saat dokumen sudah final",
+      "Mengeluhkan perubahan sistem karena menganggap sistem lama lebih privat dan nyaman",
+      "Menolak menggunakan sistem awan karena khawatir dokumen bocor atau terhapus"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 793
+  },
+  {
+    "category": "TKP",
+    "question": "Instansi Anda menyelenggarakan forum koordinasi wilayah yang dihadiri oleh tokoh masyarakat dan perwakilan adat dari berbagai wilayah kepulauan. Sikap Anda dalam menyambut kehadiran mereka: (Paket Latihan 5)",
+    "options": [
+      "Menyambut mereka dengan sikap hormat, ramah, dan santun, memperhatikan etika tata krama budaya setempat, serta menyediakan fasilitas yang ramah bagi kebutuhan delegasi",
+      "Menyambut mereka sesuai standar protokoler biasa tanpa membeda-bedakan latar belakang budaya",
+      "Menyerahkan proses penerimaan tamu sepenuhnya kepada staf humas protokol kantor",
+      "Menghindari interaksi langsung karena merasa canggung dengan dialek dan busana adat tamu",
+      "Meminta para tamu melepaskan atribut busana adat agar tampak formal dan seragam"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 794
+  },
+  {
+    "category": "TKP",
+    "question": "Di media sosial, Anda melihat seorang tokoh lokal yang cukup berpengaruh mengajak warga memboikot pembayaran pajak negara dengan dalih bahwa pemerintah sah saat ini adalah rezim tirani yang wajib digulingkan. Sikap Anda: (Paket Latihan 5)",
+    "options": [
+      "Tidak terprovokasi dan tidak ikut menyebarkan narasi tersebut, mengedukasi lingkaran pertemanan tentang kewajiban warga negara, serta melaporkan akun tersebut ke kanal aduan konten Kominfo/aparat",
+      "Memilih diam dan tidak ikut campur karena menganggap politik media sosial bukan urusan ASN",
+      "Mendebat akun tersebut di kolom komentar secara emosional dan kasar",
+      "Meneruskan tautan postingan ke grup percakapan kantor untuk meminta tanggapan rekan kerja",
+      "Menyukai unggahan tersebut karena merasa isi kritikannya ada benarnya"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 795
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang warga mengadu dengan membawa bukti bahwa permohonan sertifikat tanahnya telah tertunda selama 6 bulan melebihi standar waktu SOP pelayanan kantor. Sikap Anda: (Paket Latihan 6)",
+    "options": [
+      "Menerima aduan dengan empati dan permohonan maaf tulus, menelusuri nomor berkas pada sistem kendali internal untuk menemukan hambatan teknis, serta memberikan kepastian tanggal penyelesaian",
+      "Menyarankan warga langsung menemui kepala seksi teknis pertanahan di lantai dua untuk meminta penjelasan berkas",
+      "Meminta warga bersabar karena volume berkas pemohon yang masuk ke kantor sangat banyak",
+      "Menjelaskan bahwa keterlambatan berkas adalah hal yang lumrah pada pelayanan birokrasi pemerintah",
+      "Menolak melayani aduan karena proses berkas tersebut bukan berada di meja loket Anda"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 796
+  },
+  {
+    "category": "TKP",
+    "question": "Anda dipercaya memimpin tim penataan arsip digital kantor dengan tenggat waktu satu bulan. Di minggu kedua, dua anggota tim Anda bekerja lambat karena kurang menguasai aplikasi scanner otomatis. Sikap Anda: (Paket Latihan 6)",
+    "options": [
+      "Meluangkan waktu mendampingi dan memberikan tutorial teknis ringkas, lalu menyusun target kuota harian bersama agar ritme kerja tim kembali sinkron",
+      "Mengalihkan tugas scanning kepada anggota lain yang lebih mahir agar tenggat waktu kantor aman",
+      "Menegur kedua anggota tersebut secara keras dalam evaluasi mingguan agar tidak menyepelekan tugas",
+      "Mengerjakan sendiri sisa dokumen yang belum discan di luar jam kerja resmi",
+      "Melaporkan ketidakmampuan anggota tersebut ke pimpinan agar diberikan sanksi administrasi"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 797
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang kerabat dekat yang bekerja sebagai wartawan media daerah mendesak Anda memberikan bocoran dokumen rancangan zonasi tata ruang wilayah yang berstatus rahasia sebelum diumumkan resmi. Sikap Anda: (Paket Latihan 6)",
+    "options": [
+      "Menolak permohonan tersebut secara tegas dan santun, menjelaskan kewajiban memegang rahasia jabatan ASN sesuai undang-undang, serta mempersilakannya menunggu rilis resmi humas",
+      "Memberikan gambaran umum secara lisan tanpa menyerahkan salinan fisik atau digital dokumen",
+      "Meminta kerabat tersebut menghubungi pimpinan instansi untuk meminta izin khusus",
+      "Memberikan dokumen dengan syarat identitas Anda dirahasiakan sebagai narasumber internal",
+      "Mengabaikan kode etik demi membantu karier kerabat dekat"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 798
+  },
+  {
+    "category": "TKP",
+    "question": "Kementerian tempat Anda bekerja beralih ke platform kerja kolaborasi berbasis awan (cloud workspace). Beberapa dokumen yang biasa Anda buat secara luring kini wajib dibagikan secara bersamaan (*real-time sharing*). Sikap Anda: (Paket Latihan 6)",
+    "options": [
+      "Segera mempelajari fitur kolaborasi bersama, menyesuaikan pola kerja transparansi dokumen, dan aktif bertukar tips pemanfaatan fitur dengan rekan tim",
+      "Menggunakan platform tersebut hanya ketika diminta oleh atasan secara langsung",
+      "Tetap bekerja dengan file lokal di komputer pribadi dan baru mengunggahnya saat dokumen sudah final",
+      "Mengeluhkan perubahan sistem karena menganggap sistem lama lebih privat dan nyaman",
+      "Menolak menggunakan sistem awan karena khawatir dokumen bocor atau terhapus"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 799
+  },
+  {
+    "category": "TKP",
+    "question": "Instansi Anda menyelenggarakan forum koordinasi wilayah yang dihadiri oleh tokoh masyarakat dan perwakilan adat dari berbagai wilayah kepulauan. Sikap Anda dalam menyambut kehadiran mereka: (Paket Latihan 6)",
+    "options": [
+      "Menyambut mereka dengan sikap hormat, ramah, dan santun, memperhatikan etika tata krama budaya setempat, serta menyediakan fasilitas yang ramah bagi kebutuhan delegasi",
+      "Menyambut mereka sesuai standar protokoler biasa tanpa membeda-bedakan latar belakang budaya",
+      "Menyerahkan proses penerimaan tamu sepenuhnya kepada staf humas protokol kantor",
+      "Menghindari interaksi langsung karena merasa canggung dengan dialek dan busana adat tamu",
+      "Meminta para tamu melepaskan atribut busana adat agar tampak formal dan seragam"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 800
+  },
+  {
+    "category": "TKP",
+    "question": "Di media sosial, Anda melihat seorang tokoh lokal yang cukup berpengaruh mengajak warga memboikot pembayaran pajak negara dengan dalih bahwa pemerintah sah saat ini adalah rezim tirani yang wajib digulingkan. Sikap Anda: (Paket Latihan 6)",
+    "options": [
+      "Tidak terprovokasi dan tidak ikut menyebarkan narasi tersebut, mengedukasi lingkaran pertemanan tentang kewajiban warga negara, serta melaporkan akun tersebut ke kanal aduan konten Kominfo/aparat",
+      "Memilih diam dan tidak ikut campur karena menganggap politik media sosial bukan urusan ASN",
+      "Mendebat akun tersebut di kolom komentar secara emosional dan kasar",
+      "Meneruskan tautan postingan ke grup percakapan kantor untuk meminta tanggapan rekan kerja",
+      "Menyukai unggahan tersebut karena merasa isi kritikannya ada benarnya"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 801
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang warga mengadu dengan membawa bukti bahwa permohonan sertifikat tanahnya telah tertunda selama 6 bulan melebihi standar waktu SOP pelayanan kantor. Sikap Anda: (Paket Latihan 7)",
+    "options": [
+      "Menerima aduan dengan empati dan permohonan maaf tulus, menelusuri nomor berkas pada sistem kendali internal untuk menemukan hambatan teknis, serta memberikan kepastian tanggal penyelesaian",
+      "Menyarankan warga langsung menemui kepala seksi teknis pertanahan di lantai dua untuk meminta penjelasan berkas",
+      "Meminta warga bersabar karena volume berkas pemohon yang masuk ke kantor sangat banyak",
+      "Menjelaskan bahwa keterlambatan berkas adalah hal yang lumrah pada pelayanan birokrasi pemerintah",
+      "Menolak melayani aduan karena proses berkas tersebut bukan berada di meja loket Anda"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 802
+  },
+  {
+    "category": "TKP",
+    "question": "Anda dipercaya memimpin tim penataan arsip digital kantor dengan tenggat waktu satu bulan. Di minggu kedua, dua anggota tim Anda bekerja lambat karena kurang menguasai aplikasi scanner otomatis. Sikap Anda: (Paket Latihan 7)",
+    "options": [
+      "Meluangkan waktu mendampingi dan memberikan tutorial teknis ringkas, lalu menyusun target kuota harian bersama agar ritme kerja tim kembali sinkron",
+      "Mengalihkan tugas scanning kepada anggota lain yang lebih mahir agar tenggat waktu kantor aman",
+      "Menegur kedua anggota tersebut secara keras dalam evaluasi mingguan agar tidak menyepelekan tugas",
+      "Mengerjakan sendiri sisa dokumen yang belum discan di luar jam kerja resmi",
+      "Melaporkan ketidakmampuan anggota tersebut ke pimpinan agar diberikan sanksi administrasi"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 803
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang kerabat dekat yang bekerja sebagai wartawan media daerah mendesak Anda memberikan bocoran dokumen rancangan zonasi tata ruang wilayah yang berstatus rahasia sebelum diumumkan resmi. Sikap Anda: (Paket Latihan 7)",
+    "options": [
+      "Menolak permohonan tersebut secara tegas dan santun, menjelaskan kewajiban memegang rahasia jabatan ASN sesuai undang-undang, serta mempersilakannya menunggu rilis resmi humas",
+      "Memberikan gambaran umum secara lisan tanpa menyerahkan salinan fisik atau digital dokumen",
+      "Meminta kerabat tersebut menghubungi pimpinan instansi untuk meminta izin khusus",
+      "Memberikan dokumen dengan syarat identitas Anda dirahasiakan sebagai narasumber internal",
+      "Mengabaikan kode etik demi membantu karier kerabat dekat"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 804
+  },
+  {
+    "category": "TKP",
+    "question": "Kementerian tempat Anda bekerja beralih ke platform kerja kolaborasi berbasis awan (cloud workspace). Beberapa dokumen yang biasa Anda buat secara luring kini wajib dibagikan secara bersamaan (*real-time sharing*). Sikap Anda: (Paket Latihan 7)",
+    "options": [
+      "Segera mempelajari fitur kolaborasi bersama, menyesuaikan pola kerja transparansi dokumen, dan aktif bertukar tips pemanfaatan fitur dengan rekan tim",
+      "Menggunakan platform tersebut hanya ketika diminta oleh atasan secara langsung",
+      "Tetap bekerja dengan file lokal di komputer pribadi dan baru mengunggahnya saat dokumen sudah final",
+      "Mengeluhkan perubahan sistem karena menganggap sistem lama lebih privat dan nyaman",
+      "Menolak menggunakan sistem awan karena khawatir dokumen bocor atau terhapus"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 805
+  },
+  {
+    "category": "TKP",
+    "question": "Instansi Anda menyelenggarakan forum koordinasi wilayah yang dihadiri oleh tokoh masyarakat dan perwakilan adat dari berbagai wilayah kepulauan. Sikap Anda dalam menyambut kehadiran mereka: (Paket Latihan 7)",
+    "options": [
+      "Menyambut mereka dengan sikap hormat, ramah, dan santun, memperhatikan etika tata krama budaya setempat, serta menyediakan fasilitas yang ramah bagi kebutuhan delegasi",
+      "Menyambut mereka sesuai standar protokoler biasa tanpa membeda-bedakan latar belakang budaya",
+      "Menyerahkan proses penerimaan tamu sepenuhnya kepada staf humas protokol kantor",
+      "Menghindari interaksi langsung karena merasa canggung dengan dialek dan busana adat tamu",
+      "Meminta para tamu melepaskan atribut busana adat agar tampak formal dan seragam"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 806
+  },
+  {
+    "category": "TKP",
+    "question": "Di media sosial, Anda melihat seorang tokoh lokal yang cukup berpengaruh mengajak warga memboikot pembayaran pajak negara dengan dalih bahwa pemerintah sah saat ini adalah rezim tirani yang wajib digulingkan. Sikap Anda: (Paket Latihan 7)",
+    "options": [
+      "Tidak terprovokasi dan tidak ikut menyebarkan narasi tersebut, mengedukasi lingkaran pertemanan tentang kewajiban warga negara, serta melaporkan akun tersebut ke kanal aduan konten Kominfo/aparat",
+      "Memilih diam dan tidak ikut campur karena menganggap politik media sosial bukan urusan ASN",
+      "Mendebat akun tersebut di kolom komentar secara emosional dan kasar",
+      "Meneruskan tautan postingan ke grup percakapan kantor untuk meminta tanggapan rekan kerja",
+      "Menyukai unggahan tersebut karena merasa isi kritikannya ada benarnya"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 807
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang warga mengadu dengan membawa bukti bahwa permohonan sertifikat tanahnya telah tertunda selama 6 bulan melebihi standar waktu SOP pelayanan kantor. Sikap Anda: (Paket Latihan 8)",
+    "options": [
+      "Menerima aduan dengan empati dan permohonan maaf tulus, menelusuri nomor berkas pada sistem kendali internal untuk menemukan hambatan teknis, serta memberikan kepastian tanggal penyelesaian",
+      "Menyarankan warga langsung menemui kepala seksi teknis pertanahan di lantai dua untuk meminta penjelasan berkas",
+      "Meminta warga bersabar karena volume berkas pemohon yang masuk ke kantor sangat banyak",
+      "Menjelaskan bahwa keterlambatan berkas adalah hal yang lumrah pada pelayanan birokrasi pemerintah",
+      "Menolak melayani aduan karena proses berkas tersebut bukan berada di meja loket Anda"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 808
+  },
+  {
+    "category": "TKP",
+    "question": "Anda dipercaya memimpin tim penataan arsip digital kantor dengan tenggat waktu satu bulan. Di minggu kedua, dua anggota tim Anda bekerja lambat karena kurang menguasai aplikasi scanner otomatis. Sikap Anda: (Paket Latihan 8)",
+    "options": [
+      "Meluangkan waktu mendampingi dan memberikan tutorial teknis ringkas, lalu menyusun target kuota harian bersama agar ritme kerja tim kembali sinkron",
+      "Mengalihkan tugas scanning kepada anggota lain yang lebih mahir agar tenggat waktu kantor aman",
+      "Menegur kedua anggota tersebut secara keras dalam evaluasi mingguan agar tidak menyepelekan tugas",
+      "Mengerjakan sendiri sisa dokumen yang belum discan di luar jam kerja resmi",
+      "Melaporkan ketidakmampuan anggota tersebut ke pimpinan agar diberikan sanksi administrasi"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 809
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang kerabat dekat yang bekerja sebagai wartawan media daerah mendesak Anda memberikan bocoran dokumen rancangan zonasi tata ruang wilayah yang berstatus rahasia sebelum diumumkan resmi. Sikap Anda: (Paket Latihan 8)",
+    "options": [
+      "Menolak permohonan tersebut secara tegas dan santun, menjelaskan kewajiban memegang rahasia jabatan ASN sesuai undang-undang, serta mempersilakannya menunggu rilis resmi humas",
+      "Memberikan gambaran umum secara lisan tanpa menyerahkan salinan fisik atau digital dokumen",
+      "Meminta kerabat tersebut menghubungi pimpinan instansi untuk meminta izin khusus",
+      "Memberikan dokumen dengan syarat identitas Anda dirahasiakan sebagai narasumber internal",
+      "Mengabaikan kode etik demi membantu karier kerabat dekat"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 810
+  },
+  {
+    "category": "TKP",
+    "question": "Kementerian tempat Anda bekerja beralih ke platform kerja kolaborasi berbasis awan (cloud workspace). Beberapa dokumen yang biasa Anda buat secara luring kini wajib dibagikan secara bersamaan (*real-time sharing*). Sikap Anda: (Paket Latihan 8)",
+    "options": [
+      "Segera mempelajari fitur kolaborasi bersama, menyesuaikan pola kerja transparansi dokumen, dan aktif bertukar tips pemanfaatan fitur dengan rekan tim",
+      "Menggunakan platform tersebut hanya ketika diminta oleh atasan secara langsung",
+      "Tetap bekerja dengan file lokal di komputer pribadi dan baru mengunggahnya saat dokumen sudah final",
+      "Mengeluhkan perubahan sistem karena menganggap sistem lama lebih privat dan nyaman",
+      "Menolak menggunakan sistem awan karena khawatir dokumen bocor atau terhapus"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 811
+  },
+  {
+    "category": "TKP",
+    "question": "Instansi Anda menyelenggarakan forum koordinasi wilayah yang dihadiri oleh tokoh masyarakat dan perwakilan adat dari berbagai wilayah kepulauan. Sikap Anda dalam menyambut kehadiran mereka: (Paket Latihan 8)",
+    "options": [
+      "Menyambut mereka dengan sikap hormat, ramah, dan santun, memperhatikan etika tata krama budaya setempat, serta menyediakan fasilitas yang ramah bagi kebutuhan delegasi",
+      "Menyambut mereka sesuai standar protokoler biasa tanpa membeda-bedakan latar belakang budaya",
+      "Menyerahkan proses penerimaan tamu sepenuhnya kepada staf humas protokol kantor",
+      "Menghindari interaksi langsung karena merasa canggung dengan dialek dan busana adat tamu",
+      "Meminta para tamu melepaskan atribut busana adat agar tampak formal dan seragam"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 812
+  },
+  {
+    "category": "TKP",
+    "question": "Di media sosial, Anda melihat seorang tokoh lokal yang cukup berpengaruh mengajak warga memboikot pembayaran pajak negara dengan dalih bahwa pemerintah sah saat ini adalah rezim tirani yang wajib digulingkan. Sikap Anda: (Paket Latihan 8)",
+    "options": [
+      "Tidak terprovokasi dan tidak ikut menyebarkan narasi tersebut, mengedukasi lingkaran pertemanan tentang kewajiban warga negara, serta melaporkan akun tersebut ke kanal aduan konten Kominfo/aparat",
+      "Memilih diam dan tidak ikut campur karena menganggap politik media sosial bukan urusan ASN",
+      "Mendebat akun tersebut di kolom komentar secara emosional dan kasar",
+      "Meneruskan tautan postingan ke grup percakapan kantor untuk meminta tanggapan rekan kerja",
+      "Menyukai unggahan tersebut karena merasa isi kritikannya ada benarnya"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 813
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang warga mengadu dengan membawa bukti bahwa permohonan sertifikat tanahnya telah tertunda selama 6 bulan melebihi standar waktu SOP pelayanan kantor. Sikap Anda: (Paket Latihan 9)",
+    "options": [
+      "Menerima aduan dengan empati dan permohonan maaf tulus, menelusuri nomor berkas pada sistem kendali internal untuk menemukan hambatan teknis, serta memberikan kepastian tanggal penyelesaian",
+      "Menyarankan warga langsung menemui kepala seksi teknis pertanahan di lantai dua untuk meminta penjelasan berkas",
+      "Meminta warga bersabar karena volume berkas pemohon yang masuk ke kantor sangat banyak",
+      "Menjelaskan bahwa keterlambatan berkas adalah hal yang lumrah pada pelayanan birokrasi pemerintah",
+      "Menolak melayani aduan karena proses berkas tersebut bukan berada di meja loket Anda"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 814
+  },
+  {
+    "category": "TKP",
+    "question": "Anda dipercaya memimpin tim penataan arsip digital kantor dengan tenggat waktu satu bulan. Di minggu kedua, dua anggota tim Anda bekerja lambat karena kurang menguasai aplikasi scanner otomatis. Sikap Anda: (Paket Latihan 9)",
+    "options": [
+      "Meluangkan waktu mendampingi dan memberikan tutorial teknis ringkas, lalu menyusun target kuota harian bersama agar ritme kerja tim kembali sinkron",
+      "Mengalihkan tugas scanning kepada anggota lain yang lebih mahir agar tenggat waktu kantor aman",
+      "Menegur kedua anggota tersebut secara keras dalam evaluasi mingguan agar tidak menyepelekan tugas",
+      "Mengerjakan sendiri sisa dokumen yang belum discan di luar jam kerja resmi",
+      "Melaporkan ketidakmampuan anggota tersebut ke pimpinan agar diberikan sanksi administrasi"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 815
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang kerabat dekat yang bekerja sebagai wartawan media daerah mendesak Anda memberikan bocoran dokumen rancangan zonasi tata ruang wilayah yang berstatus rahasia sebelum diumumkan resmi. Sikap Anda: (Paket Latihan 9)",
+    "options": [
+      "Menolak permohonan tersebut secara tegas dan santun, menjelaskan kewajiban memegang rahasia jabatan ASN sesuai undang-undang, serta mempersilakannya menunggu rilis resmi humas",
+      "Memberikan gambaran umum secara lisan tanpa menyerahkan salinan fisik atau digital dokumen",
+      "Meminta kerabat tersebut menghubungi pimpinan instansi untuk meminta izin khusus",
+      "Memberikan dokumen dengan syarat identitas Anda dirahasiakan sebagai narasumber internal",
+      "Mengabaikan kode etik demi membantu karier kerabat dekat"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 816
+  },
+  {
+    "category": "TKP",
+    "question": "Kementerian tempat Anda bekerja beralih ke platform kerja kolaborasi berbasis awan (cloud workspace). Beberapa dokumen yang biasa Anda buat secara luring kini wajib dibagikan secara bersamaan (*real-time sharing*). Sikap Anda: (Paket Latihan 9)",
+    "options": [
+      "Segera mempelajari fitur kolaborasi bersama, menyesuaikan pola kerja transparansi dokumen, dan aktif bertukar tips pemanfaatan fitur dengan rekan tim",
+      "Menggunakan platform tersebut hanya ketika diminta oleh atasan secara langsung",
+      "Tetap bekerja dengan file lokal di komputer pribadi dan baru mengunggahnya saat dokumen sudah final",
+      "Mengeluhkan perubahan sistem karena menganggap sistem lama lebih privat dan nyaman",
+      "Menolak menggunakan sistem awan karena khawatir dokumen bocor atau terhapus"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 817
+  },
+  {
+    "category": "TKP",
+    "question": "Instansi Anda menyelenggarakan forum koordinasi wilayah yang dihadiri oleh tokoh masyarakat dan perwakilan adat dari berbagai wilayah kepulauan. Sikap Anda dalam menyambut kehadiran mereka: (Paket Latihan 9)",
+    "options": [
+      "Menyambut mereka dengan sikap hormat, ramah, dan santun, memperhatikan etika tata krama budaya setempat, serta menyediakan fasilitas yang ramah bagi kebutuhan delegasi",
+      "Menyambut mereka sesuai standar protokoler biasa tanpa membeda-bedakan latar belakang budaya",
+      "Menyerahkan proses penerimaan tamu sepenuhnya kepada staf humas protokol kantor",
+      "Menghindari interaksi langsung karena merasa canggung dengan dialek dan busana adat tamu",
+      "Meminta para tamu melepaskan atribut busana adat agar tampak formal dan seragam"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 818
+  },
+  {
+    "category": "TKP",
+    "question": "Di media sosial, Anda melihat seorang tokoh lokal yang cukup berpengaruh mengajak warga memboikot pembayaran pajak negara dengan dalih bahwa pemerintah sah saat ini adalah rezim tirani yang wajib digulingkan. Sikap Anda: (Paket Latihan 9)",
+    "options": [
+      "Tidak terprovokasi dan tidak ikut menyebarkan narasi tersebut, mengedukasi lingkaran pertemanan tentang kewajiban warga negara, serta melaporkan akun tersebut ke kanal aduan konten Kominfo/aparat",
+      "Memilih diam dan tidak ikut campur karena menganggap politik media sosial bukan urusan ASN",
+      "Mendebat akun tersebut di kolom komentar secara emosional dan kasar",
+      "Meneruskan tautan postingan ke grup percakapan kantor untuk meminta tanggapan rekan kerja",
+      "Menyukai unggahan tersebut karena merasa isi kritikannya ada benarnya"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 819
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang warga mengadu dengan membawa bukti bahwa permohonan sertifikat tanahnya telah tertunda selama 6 bulan melebihi standar waktu SOP pelayanan kantor. Sikap Anda: (Paket Latihan 10)",
+    "options": [
+      "Menerima aduan dengan empati dan permohonan maaf tulus, menelusuri nomor berkas pada sistem kendali internal untuk menemukan hambatan teknis, serta memberikan kepastian tanggal penyelesaian",
+      "Menyarankan warga langsung menemui kepala seksi teknis pertanahan di lantai dua untuk meminta penjelasan berkas",
+      "Meminta warga bersabar karena volume berkas pemohon yang masuk ke kantor sangat banyak",
+      "Menjelaskan bahwa keterlambatan berkas adalah hal yang lumrah pada pelayanan birokrasi pemerintah",
+      "Menolak melayani aduan karena proses berkas tersebut bukan berada di meja loket Anda"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 820
+  },
+  {
+    "category": "TKP",
+    "question": "Anda dipercaya memimpin tim penataan arsip digital kantor dengan tenggat waktu satu bulan. Di minggu kedua, dua anggota tim Anda bekerja lambat karena kurang menguasai aplikasi scanner otomatis. Sikap Anda: (Paket Latihan 10)",
+    "options": [
+      "Meluangkan waktu mendampingi dan memberikan tutorial teknis ringkas, lalu menyusun target kuota harian bersama agar ritme kerja tim kembali sinkron",
+      "Mengalihkan tugas scanning kepada anggota lain yang lebih mahir agar tenggat waktu kantor aman",
+      "Menegur kedua anggota tersebut secara keras dalam evaluasi mingguan agar tidak menyepelekan tugas",
+      "Mengerjakan sendiri sisa dokumen yang belum discan di luar jam kerja resmi",
+      "Melaporkan ketidakmampuan anggota tersebut ke pimpinan agar diberikan sanksi administrasi"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 821
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang kerabat dekat yang bekerja sebagai wartawan media daerah mendesak Anda memberikan bocoran dokumen rancangan zonasi tata ruang wilayah yang berstatus rahasia sebelum diumumkan resmi. Sikap Anda: (Paket Latihan 10)",
+    "options": [
+      "Menolak permohonan tersebut secara tegas dan santun, menjelaskan kewajiban memegang rahasia jabatan ASN sesuai undang-undang, serta mempersilakannya menunggu rilis resmi humas",
+      "Memberikan gambaran umum secara lisan tanpa menyerahkan salinan fisik atau digital dokumen",
+      "Meminta kerabat tersebut menghubungi pimpinan instansi untuk meminta izin khusus",
+      "Memberikan dokumen dengan syarat identitas Anda dirahasiakan sebagai narasumber internal",
+      "Mengabaikan kode etik demi membantu karier kerabat dekat"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 822
+  },
+  {
+    "category": "TKP",
+    "question": "Kementerian tempat Anda bekerja beralih ke platform kerja kolaborasi berbasis awan (cloud workspace). Beberapa dokumen yang biasa Anda buat secara luring kini wajib dibagikan secara bersamaan (*real-time sharing*). Sikap Anda: (Paket Latihan 10)",
+    "options": [
+      "Segera mempelajari fitur kolaborasi bersama, menyesuaikan pola kerja transparansi dokumen, dan aktif bertukar tips pemanfaatan fitur dengan rekan tim",
+      "Menggunakan platform tersebut hanya ketika diminta oleh atasan secara langsung",
+      "Tetap bekerja dengan file lokal di komputer pribadi dan baru mengunggahnya saat dokumen sudah final",
+      "Mengeluhkan perubahan sistem karena menganggap sistem lama lebih privat dan nyaman",
+      "Menolak menggunakan sistem awan karena khawatir dokumen bocor atau terhapus"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 823
+  },
+  {
+    "category": "TKP",
+    "question": "Instansi Anda menyelenggarakan forum koordinasi wilayah yang dihadiri oleh tokoh masyarakat dan perwakilan adat dari berbagai wilayah kepulauan. Sikap Anda dalam menyambut kehadiran mereka: (Paket Latihan 10)",
+    "options": [
+      "Menyambut mereka dengan sikap hormat, ramah, dan santun, memperhatikan etika tata krama budaya setempat, serta menyediakan fasilitas yang ramah bagi kebutuhan delegasi",
+      "Menyambut mereka sesuai standar protokoler biasa tanpa membeda-bedakan latar belakang budaya",
+      "Menyerahkan proses penerimaan tamu sepenuhnya kepada staf humas protokol kantor",
+      "Menghindari interaksi langsung karena merasa canggung dengan dialek dan busana adat tamu",
+      "Meminta para tamu melepaskan atribut busana adat agar tampak formal dan seragam"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 824
+  },
+  {
+    "category": "TKP",
+    "question": "Di media sosial, Anda melihat seorang tokoh lokal yang cukup berpengaruh mengajak warga memboikot pembayaran pajak negara dengan dalih bahwa pemerintah sah saat ini adalah rezim tirani yang wajib digulingkan. Sikap Anda: (Paket Latihan 10)",
+    "options": [
+      "Tidak terprovokasi dan tidak ikut menyebarkan narasi tersebut, mengedukasi lingkaran pertemanan tentang kewajiban warga negara, serta melaporkan akun tersebut ke kanal aduan konten Kominfo/aparat",
+      "Memilih diam dan tidak ikut campur karena menganggap politik media sosial bukan urusan ASN",
+      "Mendebat akun tersebut di kolom komentar secara emosional dan kasar",
+      "Meneruskan tautan postingan ke grup percakapan kantor untuk meminta tanggapan rekan kerja",
+      "Menyukai unggahan tersebut karena merasa isi kritikannya ada benarnya"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 825
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang warga mengadu dengan membawa bukti bahwa permohonan sertifikat tanahnya telah tertunda selama 6 bulan melebihi standar waktu SOP pelayanan kantor. Sikap Anda: (Paket Latihan 11)",
+    "options": [
+      "Menerima aduan dengan empati dan permohonan maaf tulus, menelusuri nomor berkas pada sistem kendali internal untuk menemukan hambatan teknis, serta memberikan kepastian tanggal penyelesaian",
+      "Menyarankan warga langsung menemui kepala seksi teknis pertanahan di lantai dua untuk meminta penjelasan berkas",
+      "Meminta warga bersabar karena volume berkas pemohon yang masuk ke kantor sangat banyak",
+      "Menjelaskan bahwa keterlambatan berkas adalah hal yang lumrah pada pelayanan birokrasi pemerintah",
+      "Menolak melayani aduan karena proses berkas tersebut bukan berada di meja loket Anda"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 826
+  },
+  {
+    "category": "TKP",
+    "question": "Anda dipercaya memimpin tim penataan arsip digital kantor dengan tenggat waktu satu bulan. Di minggu kedua, dua anggota tim Anda bekerja lambat karena kurang menguasai aplikasi scanner otomatis. Sikap Anda: (Paket Latihan 11)",
+    "options": [
+      "Meluangkan waktu mendampingi dan memberikan tutorial teknis ringkas, lalu menyusun target kuota harian bersama agar ritme kerja tim kembali sinkron",
+      "Mengalihkan tugas scanning kepada anggota lain yang lebih mahir agar tenggat waktu kantor aman",
+      "Menegur kedua anggota tersebut secara keras dalam evaluasi mingguan agar tidak menyepelekan tugas",
+      "Mengerjakan sendiri sisa dokumen yang belum discan di luar jam kerja resmi",
+      "Melaporkan ketidakmampuan anggota tersebut ke pimpinan agar diberikan sanksi administrasi"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 827
+  },
+  {
+    "category": "TKP",
+    "question": "Seorang kerabat dekat yang bekerja sebagai wartawan media daerah mendesak Anda memberikan bocoran dokumen rancangan zonasi tata ruang wilayah yang berstatus rahasia sebelum diumumkan resmi. Sikap Anda: (Paket Latihan 11)",
+    "options": [
+      "Menolak permohonan tersebut secara tegas dan santun, menjelaskan kewajiban memegang rahasia jabatan ASN sesuai undang-undang, serta mempersilakannya menunggu rilis resmi humas",
+      "Memberikan gambaran umum secara lisan tanpa menyerahkan salinan fisik atau digital dokumen",
+      "Meminta kerabat tersebut menghubungi pimpinan instansi untuk meminta izin khusus",
+      "Memberikan dokumen dengan syarat identitas Anda dirahasiakan sebagai narasumber internal",
+      "Mengabaikan kode etik demi membantu karier kerabat dekat"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 828
+  },
+  {
+    "category": "TKP",
+    "question": "Kementerian tempat Anda bekerja beralih ke platform kerja kolaborasi berbasis awan (cloud workspace). Beberapa dokumen yang biasa Anda buat secara luring kini wajib dibagikan secara bersamaan (*real-time sharing*). Sikap Anda: (Paket Latihan 11)",
+    "options": [
+      "Segera mempelajari fitur kolaborasi bersama, menyesuaikan pola kerja transparansi dokumen, dan aktif bertukar tips pemanfaatan fitur dengan rekan tim",
+      "Menggunakan platform tersebut hanya ketika diminta oleh atasan secara langsung",
+      "Tetap bekerja dengan file lokal di komputer pribadi dan baru mengunggahnya saat dokumen sudah final",
+      "Mengeluhkan perubahan sistem karena menganggap sistem lama lebih privat dan nyaman",
+      "Menolak menggunakan sistem awan karena khawatir dokumen bocor atau terhapus"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 829
+  },
+  {
+    "category": "TKP",
+    "question": "Instansi Anda menyelenggarakan forum koordinasi wilayah yang dihadiri oleh tokoh masyarakat dan perwakilan adat dari berbagai wilayah kepulauan. Sikap Anda dalam menyambut kehadiran mereka: (Paket Latihan 11)",
+    "options": [
+      "Menyambut mereka dengan sikap hormat, ramah, dan santun, memperhatikan etika tata krama budaya setempat, serta menyediakan fasilitas yang ramah bagi kebutuhan delegasi",
+      "Menyambut mereka sesuai standar protokoler biasa tanpa membeda-bedakan latar belakang budaya",
+      "Menyerahkan proses penerimaan tamu sepenuhnya kepada staf humas protokol kantor",
+      "Menghindari interaksi langsung karena merasa canggung dengan dialek dan busana adat tamu",
+      "Meminta para tamu melepaskan atribut busana adat agar tampak formal dan seragam"
+    ],
+    "answer": 0,
+    "explanation": "Sikap terbaik berorientasi pada kepatuhan aturan, profesionalisme birokrasi, dan integritas ASN.",
+    "id": 830
   }
 ]
